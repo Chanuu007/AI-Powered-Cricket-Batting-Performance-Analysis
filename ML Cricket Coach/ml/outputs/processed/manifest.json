@@ -1,0 +1,622 @@
+{
+  "dataset_filename": "Match_Data_Newl.xlsx",
+  "dataset_sha256": "4f43b0df189cf8e67c5dc8b3b887d04f4478ca616f90f5c1dad4b2fbcdbf155f",
+  "rows": 1000,
+  "players": 11,
+  "matches": 167,
+  "split_groups": 25,
+  "label_counts": {
+    "Poor": 439,
+    "Average": 324,
+    "Good": 237
+  },
+  "format_counts": {
+    "T20": 470,
+    "ODI": 349,
+    "Test": 181
+  },
+  "source_notes": [
+    {
+      "cell": "A1",
+      "text": "Dataset provenance: rows 2–149 are the 148 supplied records, retained unchanged; their real-world provenance was not independently verified. Rows 150–1001 are 852 computer-generated synthetic innings, appended in this same sheet. They do not report actual performances by the named players. No separate data sheets or source columns were added."
+    },
+    {
+      "cell": "B1",
+      "text": "Generation method: seeded match-block resampling of the supplied 25 match groups. Seed 26102026, LCG (1664525,1013904223). Player IDs, formats, innings and dismissal/line/length/shot/bowler tuples are inherited jointly from a sampled match. Runs and balls are perturbed with bounded random variation; strike rate is recalculated to 2 decimal places. New match IDs begin at 26. Dates are simulated from 01/01/2023, four days apart, and are not verified fixtures. Template match IDs are recorded in notes on each added match. This augmentation adds no independent real observations. Split original matches before augmentation, generate training-only augmentation, and evaluate on untouched verified real matches. Do not use a random split of this combined sheet to claim real-world accuracy."
+    },
+    {
+      "cell": "O1",
+      "text": "Researcher-defined rule-based INNINGS performance labels, added 26 October 2026. These are not coach assessments, validated cricket standards, or recent-form ratings.\n\nApply rules in this order within each format:\nT20: Poor if Runs < 15; Good if Runs >= 30 AND strike rate >= 120; Average otherwise.\nODI: Poor if Runs < 20; Good if Runs >= 50 AND strike rate >= 80; Average otherwise.\nTest: Poor if Runs < 20; Good if Runs >= 50; Average otherwise. Test strike rate is not used.\n\nFor classification, strike rate is calculated as 100 * Runs / Balls Faced, using unrounded values. A zero-ball innings is assigned strike rate 0 for the rule; a zero-run run-out is Poor as a scoring outcome, with no inference about technique. Existing Strike Rate values are retained unchanged. Not-out status, batting position and match situation do not change this simplified rating.\n\nThese labels were assigned automatically and consistently using the stated rubric. They describe single innings, not the player's current form. Training on the same runs and strike rate used to define these labels measures reproduction of the rubric, not independent coaching quality. For forecasting, use earlier-innings features only. Existing source/synthetic provenance notes remain applicable. Keep synthetic records out of the final verified-real test set."
+    },
+    {
+      "cell": "B150",
+      "text": "Synthetic match 26; resampled source match 4; generated worksheet rows 150–152. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B153",
+      "text": "Synthetic match 27; resampled source match 7; generated worksheet rows 153–157. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B158",
+      "text": "Synthetic match 28; resampled source match 6; generated worksheet rows 158–162. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B163",
+      "text": "Synthetic match 29; resampled source match 16; generated worksheet rows 163–168. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B169",
+      "text": "Synthetic match 30; resampled source match 17; generated worksheet rows 169–174. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B175",
+      "text": "Synthetic match 31; resampled source match 16; generated worksheet rows 175–180. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B181",
+      "text": "Synthetic match 32; resampled source match 23; generated worksheet rows 181–187. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B188",
+      "text": "Synthetic match 33; resampled source match 17; generated worksheet rows 188–193. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B194",
+      "text": "Synthetic match 34; resampled source match 12; generated worksheet rows 194–198. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B199",
+      "text": "Synthetic match 35; resampled source match 10; generated worksheet rows 199–204. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B205",
+      "text": "Synthetic match 36; resampled source match 11; generated worksheet rows 205–210. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B211",
+      "text": "Synthetic match 37; resampled source match 11; generated worksheet rows 211–216. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B217",
+      "text": "Synthetic match 38; resampled source match 15; generated worksheet rows 217–221. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B222",
+      "text": "Synthetic match 39; resampled source match 19; generated worksheet rows 222–229. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B230",
+      "text": "Synthetic match 40; resampled source match 17; generated worksheet rows 230–235. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B236",
+      "text": "Synthetic match 41; resampled source match 9; generated worksheet rows 236–241. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B242",
+      "text": "Synthetic match 42; resampled source match 24; generated worksheet rows 242–248. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B249",
+      "text": "Synthetic match 43; resampled source match 16; generated worksheet rows 249–254. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B255",
+      "text": "Synthetic match 44; resampled source match 21; generated worksheet rows 255–261. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B262",
+      "text": "Synthetic match 45; resampled source match 8; generated worksheet rows 262–266. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B267",
+      "text": "Synthetic match 46; resampled source match 22; generated worksheet rows 267–273. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B274",
+      "text": "Synthetic match 47; resampled source match 22; generated worksheet rows 274–280. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B281",
+      "text": "Synthetic match 48; resampled source match 18; generated worksheet rows 281–290. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B291",
+      "text": "Synthetic match 49; resampled source match 25; generated worksheet rows 291–297. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B298",
+      "text": "Synthetic match 50; resampled source match 17; generated worksheet rows 298–303. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B304",
+      "text": "Synthetic match 51; resampled source match 4; generated worksheet rows 304–306. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B307",
+      "text": "Synthetic match 52; resampled source match 13; generated worksheet rows 307–312. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B313",
+      "text": "Synthetic match 53; resampled source match 9; generated worksheet rows 313–318. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B319",
+      "text": "Synthetic match 54; resampled source match 18; generated worksheet rows 319–328. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B329",
+      "text": "Synthetic match 55; resampled source match 17; generated worksheet rows 329–334. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B335",
+      "text": "Synthetic match 56; resampled source match 5; generated worksheet rows 335–336. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B337",
+      "text": "Synthetic match 57; resampled source match 6; generated worksheet rows 337–341. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B342",
+      "text": "Synthetic match 58; resampled source match 20; generated worksheet rows 342–348. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B349",
+      "text": "Synthetic match 59; resampled source match 25; generated worksheet rows 349–355. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B356",
+      "text": "Synthetic match 60; resampled source match 16; generated worksheet rows 356–361. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B362",
+      "text": "Synthetic match 61; resampled source match 8; generated worksheet rows 362–366. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B367",
+      "text": "Synthetic match 62; resampled source match 24; generated worksheet rows 367–373. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B374",
+      "text": "Synthetic match 63; resampled source match 2; generated worksheet rows 374–379. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B380",
+      "text": "Synthetic match 64; resampled source match 9; generated worksheet rows 380–385. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B386",
+      "text": "Synthetic match 65; resampled source match 6; generated worksheet rows 386–390. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B391",
+      "text": "Synthetic match 66; resampled source match 18; generated worksheet rows 391–400. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B401",
+      "text": "Synthetic match 67; resampled source match 22; generated worksheet rows 401–407. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B408",
+      "text": "Synthetic match 68; resampled source match 21; generated worksheet rows 408–414. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B415",
+      "text": "Synthetic match 69; resampled source match 5; generated worksheet rows 415–416. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B417",
+      "text": "Synthetic match 70; resampled source match 9; generated worksheet rows 417–422. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B423",
+      "text": "Synthetic match 71; resampled source match 7; generated worksheet rows 423–427. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B428",
+      "text": "Synthetic match 72; resampled source match 15; generated worksheet rows 428–432. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B433",
+      "text": "Synthetic match 73; resampled source match 8; generated worksheet rows 433–437. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B438",
+      "text": "Synthetic match 74; resampled source match 16; generated worksheet rows 438–443. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B444",
+      "text": "Synthetic match 75; resampled source match 16; generated worksheet rows 444–449. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B450",
+      "text": "Synthetic match 76; resampled source match 13; generated worksheet rows 450–455. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B456",
+      "text": "Synthetic match 77; resampled source match 23; generated worksheet rows 456–462. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B463",
+      "text": "Synthetic match 78; resampled source match 21; generated worksheet rows 463–469. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B470",
+      "text": "Synthetic match 79; resampled source match 22; generated worksheet rows 470–476. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B477",
+      "text": "Synthetic match 80; resampled source match 13; generated worksheet rows 477–482. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B483",
+      "text": "Synthetic match 81; resampled source match 24; generated worksheet rows 483–489. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B490",
+      "text": "Synthetic match 82; resampled source match 24; generated worksheet rows 490–496. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B497",
+      "text": "Synthetic match 83; resampled source match 2; generated worksheet rows 497–502. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B503",
+      "text": "Synthetic match 84; resampled source match 2; generated worksheet rows 503–508. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B509",
+      "text": "Synthetic match 85; resampled source match 20; generated worksheet rows 509–515. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B516",
+      "text": "Synthetic match 86; resampled source match 1; generated worksheet rows 516–521. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B522",
+      "text": "Synthetic match 87; resampled source match 19; generated worksheet rows 522–529. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B530",
+      "text": "Synthetic match 88; resampled source match 22; generated worksheet rows 530–536. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B537",
+      "text": "Synthetic match 89; resampled source match 3; generated worksheet rows 537–540. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B541",
+      "text": "Synthetic match 90; resampled source match 10; generated worksheet rows 541–546. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B547",
+      "text": "Synthetic match 91; resampled source match 21; generated worksheet rows 547–553. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B554",
+      "text": "Synthetic match 92; resampled source match 25; generated worksheet rows 554–560. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B561",
+      "text": "Synthetic match 93; resampled source match 6; generated worksheet rows 561–565. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B566",
+      "text": "Synthetic match 94; resampled source match 11; generated worksheet rows 566–571. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B572",
+      "text": "Synthetic match 95; resampled source match 18; generated worksheet rows 572–581. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B582",
+      "text": "Synthetic match 96; resampled source match 7; generated worksheet rows 582–586. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B587",
+      "text": "Synthetic match 97; resampled source match 14; generated worksheet rows 587–592. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B593",
+      "text": "Synthetic match 98; resampled source match 5; generated worksheet rows 593–594. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B595",
+      "text": "Synthetic match 99; resampled source match 3; generated worksheet rows 595–598. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B599",
+      "text": "Synthetic match 100; resampled source match 2; generated worksheet rows 599–604. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B605",
+      "text": "Synthetic match 101; resampled source match 12; generated worksheet rows 605–609. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B610",
+      "text": "Synthetic match 102; resampled source match 18; generated worksheet rows 610–619. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B620",
+      "text": "Synthetic match 103; resampled source match 9; generated worksheet rows 620–625. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B626",
+      "text": "Synthetic match 104; resampled source match 15; generated worksheet rows 626–630. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B631",
+      "text": "Synthetic match 105; resampled source match 16; generated worksheet rows 631–636. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B637",
+      "text": "Synthetic match 106; resampled source match 9; generated worksheet rows 637–642. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B643",
+      "text": "Synthetic match 107; resampled source match 7; generated worksheet rows 643–647. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B648",
+      "text": "Synthetic match 108; resampled source match 8; generated worksheet rows 648–652. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B653",
+      "text": "Synthetic match 109; resampled source match 16; generated worksheet rows 653–658. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B659",
+      "text": "Synthetic match 110; resampled source match 10; generated worksheet rows 659–664. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B665",
+      "text": "Synthetic match 111; resampled source match 16; generated worksheet rows 665–670. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B671",
+      "text": "Synthetic match 112; resampled source match 13; generated worksheet rows 671–676. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B677",
+      "text": "Synthetic match 113; resampled source match 19; generated worksheet rows 677–684. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B685",
+      "text": "Synthetic match 114; resampled source match 25; generated worksheet rows 685–691. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B692",
+      "text": "Synthetic match 115; resampled source match 5; generated worksheet rows 692–693. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B694",
+      "text": "Synthetic match 116; resampled source match 12; generated worksheet rows 694–698. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B699",
+      "text": "Synthetic match 117; resampled source match 16; generated worksheet rows 699–704. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B705",
+      "text": "Synthetic match 118; resampled source match 23; generated worksheet rows 705–711. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B712",
+      "text": "Synthetic match 119; resampled source match 6; generated worksheet rows 712–716. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B717",
+      "text": "Synthetic match 120; resampled source match 24; generated worksheet rows 717–723. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B724",
+      "text": "Synthetic match 121; resampled source match 8; generated worksheet rows 724–728. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B729",
+      "text": "Synthetic match 122; resampled source match 23; generated worksheet rows 729–735. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B736",
+      "text": "Synthetic match 123; resampled source match 22; generated worksheet rows 736–742. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B743",
+      "text": "Synthetic match 124; resampled source match 16; generated worksheet rows 743–748. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B749",
+      "text": "Synthetic match 125; resampled source match 2; generated worksheet rows 749–754. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B755",
+      "text": "Synthetic match 126; resampled source match 20; generated worksheet rows 755–761. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B762",
+      "text": "Synthetic match 127; resampled source match 11; generated worksheet rows 762–767. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B768",
+      "text": "Synthetic match 128; resampled source match 11; generated worksheet rows 768–773. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B774",
+      "text": "Synthetic match 129; resampled source match 24; generated worksheet rows 774–780. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B781",
+      "text": "Synthetic match 130; resampled source match 16; generated worksheet rows 781–786. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B787",
+      "text": "Synthetic match 131; resampled source match 4; generated worksheet rows 787–789. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B790",
+      "text": "Synthetic match 132; resampled source match 18; generated worksheet rows 790–799. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B800",
+      "text": "Synthetic match 133; resampled source match 15; generated worksheet rows 800–804. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B805",
+      "text": "Synthetic match 134; resampled source match 7; generated worksheet rows 805–809. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B810",
+      "text": "Synthetic match 135; resampled source match 24; generated worksheet rows 810–816. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B817",
+      "text": "Synthetic match 136; resampled source match 15; generated worksheet rows 817–821. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B822",
+      "text": "Synthetic match 137; resampled source match 6; generated worksheet rows 822–826. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B827",
+      "text": "Synthetic match 138; resampled source match 22; generated worksheet rows 827–833. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B834",
+      "text": "Synthetic match 139; resampled source match 7; generated worksheet rows 834–838. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B839",
+      "text": "Synthetic match 140; resampled source match 12; generated worksheet rows 839–843. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B844",
+      "text": "Synthetic match 141; resampled source match 8; generated worksheet rows 844–848. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B849",
+      "text": "Synthetic match 142; resampled source match 11; generated worksheet rows 849–854. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B855",
+      "text": "Synthetic match 143; resampled source match 1; generated worksheet rows 855–860. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B861",
+      "text": "Synthetic match 144; resampled source match 2; generated worksheet rows 861–866. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B867",
+      "text": "Synthetic match 145; resampled source match 4; generated worksheet rows 867–869. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B870",
+      "text": "Synthetic match 146; resampled source match 22; generated worksheet rows 870–876. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B877",
+      "text": "Synthetic match 147; resampled source match 3; generated worksheet rows 877–880. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B881",
+      "text": "Synthetic match 148; resampled source match 18; generated worksheet rows 881–890. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B891",
+      "text": "Synthetic match 149; resampled source match 2; generated worksheet rows 891–896. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B897",
+      "text": "Synthetic match 150; resampled source match 8; generated worksheet rows 897–901. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B902",
+      "text": "Synthetic match 151; resampled source match 22; generated worksheet rows 902–908. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B909",
+      "text": "Synthetic match 152; resampled source match 25; generated worksheet rows 909–915. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B916",
+      "text": "Synthetic match 153; resampled source match 19; generated worksheet rows 916–923. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B924",
+      "text": "Synthetic match 154; resampled source match 23; generated worksheet rows 924–930. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B931",
+      "text": "Synthetic match 155; resampled source match 4; generated worksheet rows 931–933. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B934",
+      "text": "Synthetic match 156; resampled source match 2; generated worksheet rows 934–939. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B940",
+      "text": "Synthetic match 157; resampled source match 15; generated worksheet rows 940–944. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B945",
+      "text": "Synthetic match 158; resampled source match 23; generated worksheet rows 945–951. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B952",
+      "text": "Synthetic match 159; resampled source match 13; generated worksheet rows 952–957. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B958",
+      "text": "Synthetic match 160; resampled source match 8; generated worksheet rows 958–962. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B963",
+      "text": "Synthetic match 161; resampled source match 1; generated worksheet rows 963–968. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B969",
+      "text": "Synthetic match 162; resampled source match 24; generated worksheet rows 969–975. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B976",
+      "text": "Synthetic match 163; resampled source match 10; generated worksheet rows 976–981. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B982",
+      "text": "Synthetic match 164; resampled source match 1; generated worksheet rows 982–987. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B988",
+      "text": "Synthetic match 165; resampled source match 16; generated worksheet rows 988–993. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B994",
+      "text": "Synthetic match 166; resampled source match 2; generated worksheet rows 994–999. All records in this match are simulated, not actual player results."
+    },
+    {
+      "cell": "B1000",
+      "text": "Synthetic match 167; resampled source match 17; generated worksheet rows 1000–1001. All records in this match are simulated, not actual player results."
+    }
+  ],
+  "grouping": "Source-match families from existing notes, falling back to Match ID; grouping columns are never model inputs.",
+  "date_policy": "Day-first text parsed explicitly; existing Excel date values retained. No inferred date corrections. Verify ambiguous original dates.",
+  "input_policy": "All rows processed in one combined table; no origin-based data subsets are created.",
+  "limitations": [
+    "Retrospective assessment of completed innings; no next-match forecasting.",
+    "Performance_Label is a researcher-defined rubric, not independent coach ground truth.",
+    "Classification scores measure agreement with that rubric, not coaching effectiveness.",
+    "The workbook records supplied and generated innings. All rows are processed together; scores are an internal mixed-data benchmark, not verified-real-world accuracy.",
+    "Dismissal-only context lacks successful deliveries faced; patterns are review candidates, not per-ball dismissal risks or proven technical faults.",
+    "Practice tips are evidence-linked suggestions from a fixed rule catalogue, not learned or coach-validated prescriptions."
+  ],
+  "prepared_data_sha256": "115f1b8f5f3c2a15dae9c8da624402bd33b57f0a9d768aeea1e513e3005e68a6",
+  "processing_version": "1.0.0",
+  "rubric": {
+    "version": "1.0",
+    "target": "completed-innings performance",
+    "T20": "Poor: runs < 15; Good: runs >= 30 and SR >= 120; Average: otherwise.",
+    "ODI": "Poor: runs < 20; Good: runs >= 50 and SR >= 80; Average: otherwise.",
+    "Test": "Poor: runs < 20; Good: runs >= 50; Average: otherwise. SR is not used.",
+    "zero_balls": "SR is encoded as 0; a zero-run run-out receives Poor as a scoring outcome, not a technical judgment."
+  },
+  "quality_issue_count": 130
+}

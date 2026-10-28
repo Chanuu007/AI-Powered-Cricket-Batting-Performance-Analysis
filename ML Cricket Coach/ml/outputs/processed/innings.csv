@@ -1,0 +1,1001 @@
+player_id,match_id,match_date,innings_number,runs,balls_faced,strike_rate,out_status,dismissal_type,bowling_length,bowling_line,shot_type,bowler_type,match_format,performance_label,record_id,excel_row,split_group
+P006,1,2026-10-18,2,44,50,88.0,Out,Caught,Full,Off Stump,Drive,Left-arm Fast,ODI,Average,row_2,2,family_1
+P008,1,2026-10-18,2,5,9,55.55555555555556,Out,Caught,Bouncer,Middle,Pull,Right-arm Fast,ODI,Poor,row_3,3,family_1
+P001,1,2026-10-18,2,18,34,52.94117647058823,Out,Caught,Short,Outside Off,Cut,Right-arm Medium,ODI,Poor,row_4,4,family_1
+P007,1,2026-10-18,2,79,74,106.75675675675676,Out,Caught,Good,Outside Off,Drive,Right-arm Medium,ODI,Good,row_5,5,family_1
+P005,1,2026-10-18,2,60,74,81.08108108108108,Out,Caught,Good,Middle,Flick,Right-arm Fast,ODI,Good,row_6,6,family_1
+P004,1,2026-10-18,2,28,18,155.55555555555554,Out,Caught,Full,Middle,Lofted Shot,Left-arm Fast,ODI,Average,row_7,7,family_1
+P006,2,2026-10-22,2,18,16,112.5,Out,Bowled,Good,Off Stump,Defensive,Right-arm Medium,ODI,Poor,row_8,8,family_2
+P008,2,2026-10-22,2,97,83,116.86746987951807,Out,Caught,Short,Middle,Flick,Right-arm Fast,ODI,Good,row_9,9,family_2
+P001,2,2026-10-22,2,0,0,0.0,Out,Run Out,NA,NA,NA,NA,ODI,Poor,row_10,10,family_2
+P007,2,2026-10-22,2,130,106,122.64150943396227,Out,Caught,Good,Middle,Lofted Shot,Left-arm Medium,ODI,Good,row_11,11,family_2
+P004,2,2026-10-22,2,97,50,194.0,Out,Caught,Good,Middle,Lofted Shot,Left-arm Orthodox,ODI,Good,row_12,12,family_2
+P005,2,2026-10-22,2,61,27,225.92592592592592,Not Out,Not Out,NA,NA,NA,NA,ODI,Good,row_13,13,family_2
+P001,3,2026-09-10,1,1,2,50.0,Out,Caught,Full,Outside Off,Cut,Left-arm Fast,T20,Poor,row_14,14,family_3
+P009,3,2026-09-10,1,6,13,46.15384615384615,Out,Caught,Good,Outside Off,Pull,Right-arm Medium,T20,Poor,row_15,15,family_3
+P006,3,2026-09-10,1,23,18,127.77777777777777,Out,Caught,Good,Outside Off,Lofted Shot,Off Spin,T20,Average,row_16,16,family_3
+P004,3,2026-09-10,1,18,15,120.0,Out,Caught,Short,Middle,Hook,Leg Spin,T20,Average,row_17,17,family_3
+P001,4,2026-11-10,2,9,15,60.0,Out,Caught,Good,Off Stump,Lofted Shot,Right-arm Medium,T20,Poor,row_18,18,family_4
+P006,4,2026-11-10,2,23,19,121.05263157894737,Out,Caught,Short,Middle,Lofted Shot,Leg Spin,T20,Average,row_19,19,family_4
+P004,4,2026-11-10,2,9,8,112.5,Out,Caught,Good,Off Stump,Sweep,Off Spin,T20,Poor,row_20,20,family_4
+P001,5,2026-10-13,2,87,48,181.25,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_21,21,family_5
+P006,5,2026-10-13,2,40,27,148.14814814814815,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_22,22,family_5
+P002,6,2026-09-15,2,12,11,109.0909090909091,Out,Caught,Good,Off Stump,Pull,Off Spin,T20,Poor,row_23,23,family_6
+P009,6,2026-09-15,2,10,14,71.42857142857143,Out,Bowled,Full,Off Stump,Flick,Right-arm Medium,T20,Poor,row_24,24,family_6
+P003,6,2026-09-15,2,10,9,111.11111111111111,Out,Caught,Good,Middle,Lofted Shot,Left-arm Orthodox,T20,Poor,row_25,25,family_6
+P004,6,2026-09-15,2,24,14,171.42857142857142,Out,Caught,Good,Middle,Defensive,Leg Spin,T20,Average,row_26,26,family_6
+P006,6,2026-09-15,2,2,8,25.0,Out,Caught,Good,Outside Off,Lofted Shot,Right-arm Medium,T20,Poor,row_27,27,family_6
+P002,7,2026-09-17,1,37,21,176.1904761904762,Out,Caught,Short,Middle,Pull,Right-arm Fast,T20,Good,row_28,28,family_7
+P009,7,2026-09-17,1,0,1,0.0,Out,Caught,Good,Middle,Drive,Left-arm Orthodox,T20,Poor,row_29,29,family_7
+P003,7,2026-09-17,1,31,31,100.0,Out,Caught,Good,Off Stump,Lofted Shot,Leg Spin,T20,Average,row_30,30,family_7
+P006,7,2026-09-17,1,12,8,150.0,Out,Bowled,Short,Outside Off,Cut,Right-arm Fast,T20,Poor,row_31,31,family_7
+P004,7,2026-09-17,1,4,4,100.0,Out,Caught,Short,Middle,Pull,Left-arm Orthodox,T20,Poor,row_32,32,family_7
+P002,8,2026-09-19,1,36,24,150.0,Out,Caught,Short,Off Stump,Pull,Off Spin,T20,Good,row_33,33,family_8
+P009,8,2026-09-19,1,2,5,40.0,Out,Caught,Full,Outside Off,Lofted Shot,Off Spin,T20,Poor,row_34,34,family_8
+P003,8,2026-09-19,1,16,14,114.28571428571429,Out,Run Out,NA,NA,NA,NA,T20,Average,row_35,35,family_8
+P006,8,2026-09-19,1,35,28,125.0,Out,Caught,Short,Outside Off,Pull,Right-arm Fast,T20,Good,row_36,36,family_8
+P004,8,2026-09-19,1,12,13,92.3076923076923,Out,Caught,Short,Outside Off,Cut,Left-arm Orthodox,T20,Poor,row_37,37,family_8
+P002,9,2026-09-22,2,27,37,72.97297297297297,Out,Caught,Good,Outside Off,Defensive,Right-arm Medium,ODI,Average,row_38,38,family_9
+P006,9,2026-09-22,2,14,19,73.6842105263158,Out,Caught,Short,Outside Off,Pull,Right-arm Fast,ODI,Poor,row_39,39,family_9
+P001,9,2026-09-22,2,42,60,70.0,Out,LBW,Good,Off Stump,Flick,Off Spin,ODI,Average,row_40,40,family_9
+P007,9,2026-09-22,2,13,23,56.52173913043478,Out,Caught,Full,Outside Off,Drive,Right-arm Fast,ODI,Poor,row_41,41,family_9
+P003,9,2026-09-22,2,1,3,33.333333333333336,Out,LBW,Good,Middle,Defensive,Off Spin,ODI,Poor,row_42,42,family_9
+P005,9,2026-09-22,2,4,8,50.0,Out,Caught,Short,Outside Off,Cut,Right-arm Fast,ODI,Poor,row_43,43,family_9
+P002,10,2026-09-24,1,25,33,75.75757575757575,Out,LBW,Full,Middle,Flick,Right-arm Medium,ODI,Average,row_44,44,family_10
+P006,10,2026-09-24,1,54,65,83.07692307692308,Out,Caught,Good,Middle,Lofted Shot,Right-arm Medium,ODI,Good,row_45,45,family_10
+P001,10,2026-09-24,1,121,100,121.0,Out,Caught,Good,Leg Stump,Sweep,Leg Spin,ODI,Good,row_46,46,family_10
+P007,10,2026-09-24,1,48,39,123.07692307692308,Out,Run Out,NA,NA,NA,NA,ODI,Average,row_47,47,family_10
+P003,10,2026-09-24,1,11,18,61.111111111111114,Out,Caught,Full,Leg Stump,Sweep,Leg Spin,ODI,Poor,row_48,48,family_10
+P005,10,2026-09-24,1,32,26,123.07692307692308,Out,Caught,Short,Outside Off,Drive,Right-arm Fast,ODI,Average,row_49,49,family_10
+P002,11,2026-09-27,2,1,3,33.333333333333336,Out,Caught,Good,Off Stump,Defensive,Right-arm Medium,ODI,Poor,row_50,50,family_11
+P006,11,2026-09-27,2,12,19,63.1578947368421,Out,Caught,Good,Middle,Flick,Right-arm Fast,ODI,Poor,row_51,51,family_11
+P001,11,2026-09-27,2,35,26,134.6153846153846,Out,Caught,Short,Outside Off,Hook,Right-arm Fast,ODI,Average,row_52,52,family_11
+P007,11,2026-09-27,2,18,25,72.0,Out,Run Out,NA,NA,NA,NA,ODI,Poor,row_53,53,family_11
+P003,11,2026-09-27,2,7,19,36.8421052631579,Out,Caught,Short,Outside Off,Pull,Off Spin,ODI,Poor,row_54,54,family_11
+P005,11,2026-09-27,2,19,20,95.0,Out,Caught,Bouncer,Middle,Pull,Right-arm Fast,ODI,Poor,row_55,55,family_11
+P011,12,2026-08-15,2,4,16,25.0,Out,Caught,Good,Off Stump,Defensive,Left-arm Orthodox,Test,Poor,row_56,56,family_12
+P006,12,2026-08-15,2,14,25,56.0,Out,Caught,Full,Off Stump,Drive,Leg Spin,Test,Poor,row_57,57,family_12
+P012,12,2026-08-15,2,21,41,51.21951219512195,Out,Caught,Good,Middle,Defensive,Left-arm Orthodox,Test,Average,row_58,58,family_12
+P006,12,2026-08-15,4,2,12,16.666666666666668,Out,Caught,Bouncer,Off Stump,Defensive,Right-arm Fast,Test,Poor,row_59,59,family_12
+P012,12,2026-08-15,4,59,151,39.0728476821192,Out,Caught,Full,Middle,Sweep,Left-arm Orthodox,Test,Good,row_60,60,family_12
+P009,13,2026-08-23,2,19,25,76.0,Out,Caught,Bouncer,Leg Stump,Hook,Right-arm Fast,Test,Poor,row_61,61,family_13
+P006,13,2026-08-23,2,32,58,55.172413793103445,Out,Caught,Short,Middle,Pull,Right-arm Fast,Test,Average,row_62,62,family_13
+P012,13,2026-08-23,2,8,14,57.142857142857146,Out,Caught,Full,Middle,Defensive,Left-arm Orthodox,Test,Poor,row_63,63,family_13
+P009,13,2026-08-23,3,32,39,82.05128205128206,Out,LBW,Full,Middle,Sweep,Left-arm Orthodox,Test,Average,row_64,64,family_13
+P006,13,2026-08-23,3,55,92,59.78260869565217,Out,Caught,Bouncer,Leg Stump,Pull,Right-arm Fast,Test,Good,row_65,65,family_13
+P012,13,2026-08-23,3,23,44,52.27272727272727,Out,Caught,Full,Off Stump,Flick,Left-arm Orthodox,Test,Average,row_66,66,family_13
+P002,14,2026-03-06,1,79,103,76.69902912621359,Out,Caught,Good,Off Stump,Flick,Off Spin,ODI,Average,row_67,67,family_14
+P006,14,2026-03-06,1,12,21,57.142857142857146,Out,Caught,Short,Off Stump,Pull,Right-arm Medium,ODI,Poor,row_68,68,family_14
+P001,14,2026-03-06,1,72,62,116.12903225806451,Out,Caught,NA,Leg Stump,Sweep,Right-arm Fast,ODI,Good,row_69,69,family_14
+P007,14,2026-03-06,1,24,38,63.1578947368421,Out,Caught,Full,Off Stump,Sweep,Off Spin,ODI,Average,row_70,70,family_14
+P003,14,2026-03-06,1,45,44,102.27272727272727,Out,Caught,Yorker,Leg Stump,Lofted Shot,Right-arm Fast,ODI,Average,row_71,71,family_14
+P005,14,2026-03-06,1,44,29,151.72413793103448,Not Out,Not Out,NA,NA,NA,NA,ODI,Average,row_72,72,family_14
+P002,15,2026-12-06,1,18,14,128.57142857142858,Out,Bowled,Full,Leg Stump,Flick,Right-arm Medium,T20,Average,row_73,73,family_15
+P001,15,2026-12-06,1,36,23,156.52173913043478,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Good,row_74,74,family_15
+P007,15,2026-12-06,1,4,5,80.0,Out,Caught,Good,Middle,Lofted Shot,Right-arm Fast,T20,Poor,row_75,75,family_15
+P006,15,2026-12-06,1,51,39,130.76923076923077,Out,Run Out,NA,NA,NA,NA,T20,Good,row_76,76,family_15
+P004,15,2026-12-06,1,22,23,95.65217391304348,Out,Caught,Full,Middle,Sweep,Off Spin,T20,Average,row_77,77,family_15
+P002,16,2026-06-14,1,7,10,70.0,Out,Caught,Full,Down Leg,Lofted Shot,Right-arm Medium,T20,Poor,row_78,78,family_16
+P001,16,2026-06-14,1,31,19,163.1578947368421,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Good,row_79,79,family_16
+P009,16,2026-06-14,1,61,40,152.5,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_80,80,family_16
+P007,16,2026-06-14,1,1,6,16.666666666666668,Out,Caught,Good,Off Stump,Cut,Right-arm Medium,T20,Poor,row_81,81,family_16
+P006,16,2026-06-14,1,24,20,120.0,Out,Caught,Short,Off Stump,Cut,Right-arm Medium,T20,Average,row_82,82,family_16
+P004,16,2026-06-14,1,58,24,241.66666666666666,Out,Caught,Full,Leg Stump,Flick,Right-arm Fast,T20,Good,row_83,83,family_16
+P002,17,2026-06-15,1,26,17,152.94117647058823,Out,Caught,Good,Middle,Pull,Right-arm Fast,T20,Average,row_84,84,family_17
+P001,17,2026-06-15,1,5,5,100.0,Out,Caught,Good,Middle,Flick,Right-arm Medium,T20,Poor,row_85,85,family_17
+P009,17,2026-06-15,1,28,23,121.73913043478261,Out,LBW,Full,Off Stump,Sweep,Off Spin,T20,Average,row_86,86,family_17
+P007,17,2026-06-15,1,0,1,0.0,Out,LBW,Full,Middle,Defensive,Right-arm Fast,T20,Poor,row_87,87,family_17
+P006,17,2026-06-15,1,20,15,133.33333333333334,Out,Caught,Full,Leg Stump,Lofted Shot,Left-arm Orthodox,T20,Average,row_88,88,family_17
+P004,17,2026-06-15,1,16,13,123.07692307692308,Out,Bowled,Full,Leg Stump,Flick,Right-arm Medium,T20,Average,row_89,89,family_17
+P002,18,2026-06-25,1,2,6,33.333333333333336,Out,Caught,Good,Outside Off,Drive,Right-arm Fast,Test,Poor,row_90,90,family_18
+P011,18,2026-06-25,1,54,67,80.59701492537313,Out,Bowled,Full,Off Stump,Flick,Right-arm Fast,Test,Good,row_91,91,family_18
+P006,18,2026-06-25,1,0,1,0.0,Out,Caught,Good,Middle,Drive,Right-arm Fast,Test,Poor,row_92,92,family_18
+P012,18,2026-06-25,1,120,168,71.42857142857143,Out,Caught,Good,Middle,Defensive,Right-arm Medium,Test,Good,row_93,93,family_18
+P001,18,2026-06-25,1,0,4,0.0,Out,Caught,Good,Outside Off,Drive,Right-arm Fast,Test,Poor,row_94,94,family_18
+P002,18,2026-06-25,3,3,6,50.0,Out,Caught,Good,Outside Off,Drive,Right-arm Medium,Test,Poor,row_95,95,family_18
+P011,18,2026-06-25,3,43,60,71.66666666666667,Out,Caught,Short,Outside Off,Cut,Right-arm Fast,Test,Average,row_96,96,family_18
+P006,18,2026-06-25,3,9,34,26.470588235294116,Out,Bowled,Good,Off Stump,Leave,Right-arm Fast,Test,Poor,row_97,97,family_18
+P012,18,2026-06-25,3,0,7,0.0,Out,LBW,Good,Outside Off,Defensive,Right-arm Fast,Test,Poor,row_98,98,family_18
+P001,18,2026-06-25,3,8,20,40.0,Out,Bowled,Good,Outside Off,Leave,Right-arm Medium,Test,Poor,row_99,99,family_18
+P011,19,2026-03-07,1,1,15,6.666666666666667,Out,Caught,Good,Middle,Flick,Right-arm Fast,Test,Poor,row_100,100,family_19
+P006,19,2026-03-07,1,84,120,70.0,Out,Stumped,Full,Down Leg,Flick,Right-arm Medium,Test,Good,row_101,101,family_19
+P012,19,2026-03-07,1,33,90,36.666666666666664,Out,Caught,Full,Middle,Defensive,Right-arm Medium,Test,Average,row_102,102,family_19
+P001,19,2026-03-07,1,69,115,60.0,Out,Bowled,Good,Off Stump,Sweep,Right-arm Medium,Test,Good,row_103,103,family_19
+P011,19,2026-03-07,3,71,107,66.35514018691589,Out,Caught,Full,Outside Off,Cut,Right-arm Medium,Test,Good,row_104,104,family_19
+P006,19,2026-03-07,3,44,58,75.86206896551724,Out,Caught,Good,Outside Off,Lofted Shot,Right-arm Fast,Test,Average,row_105,105,family_19
+P012,19,2026-03-07,3,34,34,100.0,Out,Caught,Full,Outside Off,Lofted Shot,Off Spin,Test,Average,row_106,106,family_19
+P001,19,2026-03-07,3,2,3,66.66666666666667,Out,Caught,Good,Off Stump,Cut,Right-arm Medium,Test,Poor,row_107,107,family_19
+P002,20,2026-01-22,1,21,30,70.0,Out,Caught,Good,Outside Off,Sweep,Left-arm Medium,ODI,Average,row_108,108,family_20
+P009,20,2026-01-22,1,27,37,72.97297297297297,Out,Bowled,Full,Down Leg,Sweep,Leg Spin,ODI,Average,row_109,109,family_20
+P001,20,2026-01-22,1,93,117,79.48717948717949,Not Out,Not Out,NA,NA,NA,NA,ODI,Average,row_110,110,family_20
+P012,20,2026-01-22,1,10,21,47.61904761904762,Out,LBW,Full,Middle,Other,Leg Spin,ODI,Poor,row_111,111,family_20
+P003,20,2026-01-22,1,17,16,106.25,Out,Caught,Full,Off Stump,Sweep,Leg Spin,ODI,Poor,row_112,112,family_20
+P005,20,2026-01-22,1,46,53,86.79245283018868,Out,Caught,Short,Middle,Drive,Leg Spin,ODI,Average,row_113,113,family_20
+P007,20,2026-01-22,1,12,14,85.71428571428571,Out,Caught,Good,Outside Off,Lofted Shot,Left-arm Orthodox,ODI,Poor,row_114,114,family_20
+P002,21,2026-01-24,1,26,37,70.27027027027027,Out,Caught,Good,Outside Off,Drive,Leg Spin,ODI,Average,row_115,115,family_21
+P009,21,2026-01-24,1,5,12,41.666666666666664,Out,Caught,Full,Outside Off,Drive,Right-arm Medium,ODI,Poor,row_116,116,family_21
+P001,21,2026-01-24,1,26,45,57.77777777777778,Out,Run Out,NA,NA,NA,NA,ODI,Average,row_117,117,family_21
+P012,21,2026-01-24,1,40,59,67.79661016949153,Out,Caught,Full,Middle,Lofted Shot,Left-arm Orthodox,ODI,Average,row_118,118,family_21
+P003,21,2026-01-24,1,45,64,70.3125,Out,Caught,Full,Outside Off,Sweep,Leg Spin,ODI,Average,row_119,119,family_21
+P005,21,2026-01-24,1,12,11,109.0909090909091,Out,Caught,Good,Middle,Flick,Right-arm Medium,ODI,Poor,row_120,120,family_21
+P007,21,2026-01-24,1,29,34,85.29411764705883,Out,Caught,Good,Middle,Flick,Off Spin,ODI,Average,row_121,121,family_21
+P002,22,2026-01-27,2,50,25,200.0,Out,Caught,Bouncer,Outside Off,Pull,Right-arm Medium,ODI,Good,row_122,122,family_22
+P009,22,2026-01-27,2,22,17,129.41176470588235,Out,Caught,Short,Outside Off,Cut,Off Spin,ODI,Average,row_123,123,family_22
+P001,22,2026-01-27,2,20,9,222.22222222222223,Out,Caught,Full,Off Stump,Lofted Shot,Right-arm Medium,ODI,Average,row_124,124,family_22
+P007,22,2026-01-27,2,121,115,105.21739130434783,Out,Bowled,Yorker,Leg Stump,Flick,Left-arm Medium,ODI,Good,row_125,125,family_22
+P003,22,2026-01-27,2,13,16,81.25,Out,Caught,Good,Outside Off,Pull,Leg Spin,ODI,Poor,row_126,126,family_22
+P005,22,2026-01-27,2,22,36,61.111111111111114,Out,Run Out,NA,NA,NA,NA,ODI,Average,row_127,127,family_22
+P012,22,2026-01-27,2,9,16,56.25,Out,Caught,Full,Outside Off,Sweep,Off Spin,ODI,Poor,row_128,128,family_22
+P002,23,2026-01-30,1,23,20,115.0,Out,Caught,Full,Outside Off,Sweep,Leg Spin,T20,Average,row_129,129,family_23
+P009,23,2026-01-30,1,16,9,177.77777777777777,Out,Caught,Short,Middle,Pull,Right-arm Medium,T20,Average,row_130,130,family_23
+P001,23,2026-01-30,1,37,20,185.0,Out,Caught,Good,Middle,Lofted Shot,Leg Spin,T20,Good,row_131,131,family_23
+P003,23,2026-01-30,1,2,5,40.0,Out,Caught,Full,Outside Off,Sweep,Left-arm Orthodox,T20,Poor,row_132,132,family_23
+P012,23,2026-01-30,1,11,12,91.66666666666667,Out,Caught,Good,Middle,Sweep,Leg Spin,T20,Poor,row_133,133,family_23
+P005,23,2026-01-30,1,1,2,50.0,Out,LBW,Full,Middle,Defensive,Left-arm Orthodox,T20,Poor,row_134,134,family_23
+P004,23,2026-01-30,1,20,16,125.0,Out,Caught,Yorker,Off Stump,Lofted Shot,Left-arm Medium,T20,Average,row_135,135,family_23
+P002,24,2026-01-02,1,34,22,154.54545454545453,Out,Bowled,Short,Off Stump,Cut,Right-arm Fast,T20,Good,row_136,136,family_24
+P009,24,2026-01-02,1,36,30,120.0,Out,Caught,Full,Leg Stump,Lofted Shot,Off Spin,T20,Good,row_137,137,family_24
+P001,24,2026-01-02,1,32,17,188.23529411764707,Out,Caught,Good,Middle,Sweep,Left-arm Orthodox,T20,Good,row_138,138,family_24
+P007,24,2026-01-02,1,40,22,181.8181818181818,Out,Caught,Good,Middle,Lofted Shot,Right-arm Fast,T20,Good,row_139,139,family_24
+P004,24,2026-01-02,1,1,6,16.666666666666668,Out,LBW,Good,Outside Off,Pull,Leg Spin,T20,Poor,row_140,140,family_24
+P003,24,2026-01-02,1,28,22,127.27272727272727,Not Out,Not Out,NA,NA,NA,NA,T20,Average,row_141,141,family_24
+P005,24,2026-01-02,1,1,1,100.0,Not Out,Not Out,NA,NA,NA,NA,T20,Poor,row_142,142,family_24
+P002,25,2026-03-02,2,23,12,191.66666666666666,Out,Caught,Full,Outside Off,Lofted Shot,Left-arm Orthodox,T20,Average,row_143,143,family_25
+P009,25,2026-03-02,2,0,2,0.0,Out,Caught,Bouncer,Middle,Pull,Right-arm Fast,T20,Poor,row_144,144,family_25
+P001,25,2026-03-02,2,26,26,100.0,Out,Caught,Full,Down Leg,Sweep,Off Spin,T20,Average,row_145,145,family_25
+P007,25,2026-03-02,2,13,15,86.66666666666667,Out,Bowled,Good,Off Stump,Drive,Leg Spin,T20,Poor,row_146,146,family_25
+P006,25,2026-03-02,2,14,11,127.27272727272727,Out,LBW,Good,Middle,Flick,Off Spin,T20,Poor,row_147,147,family_25
+P005,25,2026-03-02,2,17,19,89.47368421052632,Out,Caught,Full,Leg Stump,Sweep,Off Spin,T20,Average,row_148,148,family_25
+P004,25,2026-03-02,2,4,6,66.66666666666667,Out,Stumped,Short,Outside Off,Lofted Shot,Left-arm Orthodox,T20,Poor,row_149,149,family_25
+P001,26,2023-01-01,2,18,23,78.26086956521739,Out,Caught,Good,Off Stump,Lofted Shot,Right-arm Medium,T20,Average,row_150,150,family_4
+P006,26,2023-01-01,2,32,29,110.34482758620689,Out,Caught,Short,Middle,Lofted Shot,Leg Spin,T20,Average,row_151,151,family_4
+P004,26,2023-01-01,2,20,13,153.84615384615384,Out,Caught,Good,Off Stump,Sweep,Off Spin,T20,Average,row_152,152,family_4
+P002,27,2023-01-05,1,31,19,163.1578947368421,Out,Caught,Short,Middle,Pull,Right-arm Fast,T20,Good,row_153,153,family_7
+P009,27,2023-01-05,1,0,1,0.0,Out,Caught,Good,Middle,Drive,Left-arm Orthodox,T20,Poor,row_154,154,family_7
+P003,27,2023-01-05,1,46,50,92.0,Out,Caught,Good,Off Stump,Lofted Shot,Leg Spin,T20,Average,row_155,155,family_7
+P006,27,2023-01-05,1,11,7,157.14285714285714,Out,Bowled,Short,Outside Off,Cut,Right-arm Fast,T20,Poor,row_156,156,family_7
+P004,27,2023-01-05,1,6,4,150.0,Out,Caught,Short,Middle,Pull,Left-arm Orthodox,T20,Poor,row_157,157,family_7
+P002,28,2023-01-09,2,9,9,100.0,Out,Caught,Good,Off Stump,Pull,Off Spin,T20,Poor,row_158,158,family_6
+P009,28,2023-01-09,2,8,10,80.0,Out,Bowled,Full,Off Stump,Flick,Right-arm Medium,T20,Poor,row_159,159,family_6
+P003,28,2023-01-09,2,10,7,142.85714285714286,Out,Caught,Good,Middle,Lofted Shot,Left-arm Orthodox,T20,Poor,row_160,160,family_6
+P004,28,2023-01-09,2,14,9,155.55555555555554,Out,Caught,Good,Middle,Defensive,Leg Spin,T20,Poor,row_161,161,family_6
+P006,28,2023-01-09,2,3,11,27.272727272727273,Out,Caught,Good,Outside Off,Lofted Shot,Right-arm Medium,T20,Poor,row_162,162,family_6
+P002,29,2023-01-13,1,10,9,111.11111111111111,Out,Caught,Full,Down Leg,Lofted Shot,Right-arm Medium,T20,Poor,row_163,163,family_16
+P001,29,2023-01-13,1,37,26,142.30769230769232,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Good,row_164,164,family_16
+P009,29,2023-01-13,1,47,37,127.02702702702703,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_165,165,family_16
+P007,29,2023-01-13,1,0,4,0.0,Out,Caught,Good,Off Stump,Cut,Right-arm Medium,T20,Poor,row_166,166,family_16
+P006,29,2023-01-13,1,17,15,113.33333333333333,Out,Caught,Short,Off Stump,Cut,Right-arm Medium,T20,Average,row_167,167,family_16
+P004,29,2023-01-13,1,53,21,252.38095238095238,Out,Caught,Full,Leg Stump,Flick,Right-arm Fast,T20,Good,row_168,168,family_16
+P002,30,2023-01-17,1,20,16,125.0,Out,Caught,Good,Middle,Pull,Right-arm Fast,T20,Average,row_169,169,family_17
+P001,30,2023-01-17,1,4,4,100.0,Out,Caught,Good,Middle,Flick,Right-arm Medium,T20,Poor,row_170,170,family_17
+P009,30,2023-01-17,1,36,29,124.13793103448276,Out,LBW,Full,Off Stump,Sweep,Off Spin,T20,Good,row_171,171,family_17
+P007,30,2023-01-17,1,0,1,0.0,Out,LBW,Full,Middle,Defensive,Right-arm Fast,T20,Poor,row_172,172,family_17
+P006,30,2023-01-17,1,22,16,137.5,Out,Caught,Full,Leg Stump,Lofted Shot,Left-arm Orthodox,T20,Average,row_173,173,family_17
+P004,30,2023-01-17,1,9,8,112.5,Out,Bowled,Full,Leg Stump,Flick,Right-arm Medium,T20,Poor,row_174,174,family_17
+P002,31,2023-01-21,1,9,9,100.0,Out,Caught,Full,Down Leg,Lofted Shot,Right-arm Medium,T20,Poor,row_175,175,family_16
+P001,31,2023-01-21,1,26,17,152.94117647058823,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Average,row_176,176,family_16
+P009,31,2023-01-21,1,61,42,145.23809523809524,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_177,177,family_16
+P007,31,2023-01-21,1,3,8,37.5,Out,Caught,Good,Off Stump,Cut,Right-arm Medium,T20,Poor,row_178,178,family_16
+P006,31,2023-01-21,1,24,23,104.34782608695652,Out,Caught,Short,Off Stump,Cut,Right-arm Medium,T20,Average,row_179,179,family_16
+P004,31,2023-01-21,1,53,20,265.0,Out,Caught,Full,Leg Stump,Flick,Right-arm Fast,T20,Good,row_180,180,family_16
+P002,32,2023-01-25,1,43,29,148.27586206896552,Out,Caught,Full,Outside Off,Sweep,Leg Spin,T20,Good,row_181,181,family_23
+P009,32,2023-01-25,1,29,15,193.33333333333334,Out,Caught,Short,Middle,Pull,Right-arm Medium,T20,Average,row_182,182,family_23
+P001,32,2023-01-25,1,49,26,188.46153846153845,Out,Caught,Good,Middle,Lofted Shot,Leg Spin,T20,Good,row_183,183,family_23
+P003,32,2023-01-25,1,1,5,20.0,Out,Caught,Full,Outside Off,Sweep,Left-arm Orthodox,T20,Poor,row_184,184,family_23
+P012,32,2023-01-25,1,17,18,94.44444444444444,Out,Caught,Good,Middle,Sweep,Leg Spin,T20,Average,row_185,185,family_23
+P005,32,2023-01-25,1,1,1,100.0,Out,LBW,Full,Middle,Defensive,Left-arm Orthodox,T20,Poor,row_186,186,family_23
+P004,32,2023-01-25,1,20,15,133.33333333333334,Out,Caught,Yorker,Off Stump,Lofted Shot,Left-arm Medium,T20,Average,row_187,187,family_23
+P002,33,2023-01-29,1,36,26,138.46153846153845,Out,Caught,Good,Middle,Pull,Right-arm Fast,T20,Good,row_188,188,family_17
+P001,33,2023-01-29,1,3,3,100.0,Out,Caught,Good,Middle,Flick,Right-arm Medium,T20,Poor,row_189,189,family_17
+P009,33,2023-01-29,1,62,45,137.77777777777777,Out,LBW,Full,Off Stump,Sweep,Off Spin,T20,Good,row_190,190,family_17
+P007,33,2023-01-29,1,1,1,100.0,Out,LBW,Full,Middle,Defensive,Right-arm Fast,T20,Poor,row_191,191,family_17
+P006,33,2023-01-29,1,31,25,124.0,Out,Caught,Full,Leg Stump,Lofted Shot,Left-arm Orthodox,T20,Good,row_192,192,family_17
+P004,33,2023-01-29,1,34,19,178.94736842105263,Out,Bowled,Full,Leg Stump,Flick,Right-arm Medium,T20,Good,row_193,193,family_17
+P011,34,2023-02-02,2,0,15,0.0,Out,Caught,Good,Off Stump,Defensive,Left-arm Orthodox,Test,Poor,row_194,194,family_12
+P006,34,2023-02-02,2,25,40,62.5,Out,Caught,Full,Off Stump,Drive,Leg Spin,Test,Average,row_195,195,family_12
+P012,34,2023-02-02,2,20,31,64.51612903225806,Out,Caught,Good,Middle,Defensive,Left-arm Orthodox,Test,Average,row_196,196,family_12
+P006,34,2023-02-02,4,1,13,7.6923076923076925,Out,Caught,Bouncer,Off Stump,Defensive,Right-arm Fast,Test,Poor,row_197,197,family_12
+P012,34,2023-02-02,4,40,130,30.76923076923077,Out,Caught,Full,Middle,Sweep,Left-arm Orthodox,Test,Average,row_198,198,family_12
+P002,35,2023-02-06,1,26,29,89.65517241379311,Out,LBW,Full,Middle,Flick,Right-arm Medium,ODI,Average,row_199,199,family_10
+P006,35,2023-02-06,1,46,55,83.63636363636364,Out,Caught,Good,Middle,Lofted Shot,Right-arm Medium,ODI,Average,row_200,200,family_10
+P001,35,2023-02-06,1,65,59,110.16949152542372,Out,Caught,Good,Leg Stump,Sweep,Leg Spin,ODI,Good,row_201,201,family_10
+P007,35,2023-02-06,1,63,62,101.61290322580645,Out,Run Out,NA,NA,NA,NA,ODI,Good,row_202,202,family_10
+P003,35,2023-02-06,1,6,16,37.5,Out,Caught,Full,Leg Stump,Sweep,Leg Spin,ODI,Poor,row_203,203,family_10
+P005,35,2023-02-06,1,44,31,141.93548387096774,Out,Caught,Short,Outside Off,Drive,Right-arm Fast,ODI,Average,row_204,204,family_10
+P002,36,2023-02-10,2,1,3,33.333333333333336,Out,Caught,Good,Off Stump,Defensive,Right-arm Medium,ODI,Poor,row_205,205,family_11
+P006,36,2023-02-10,2,15,25,60.0,Out,Caught,Good,Middle,Flick,Right-arm Fast,ODI,Poor,row_206,206,family_11
+P001,36,2023-02-10,2,39,27,144.44444444444446,Out,Caught,Short,Outside Off,Hook,Right-arm Fast,ODI,Average,row_207,207,family_11
+P007,36,2023-02-10,2,19,28,67.85714285714286,Out,Run Out,NA,NA,NA,NA,ODI,Poor,row_208,208,family_11
+P003,36,2023-02-10,2,7,34,20.58823529411765,Out,Caught,Short,Outside Off,Pull,Off Spin,ODI,Poor,row_209,209,family_11
+P005,36,2023-02-10,2,23,21,109.52380952380952,Out,Caught,Bouncer,Middle,Pull,Right-arm Fast,ODI,Average,row_210,210,family_11
+P002,37,2023-02-14,2,2,7,28.571428571428573,Out,Caught,Good,Off Stump,Defensive,Right-arm Medium,ODI,Poor,row_211,211,family_11
+P006,37,2023-02-14,2,6,14,42.857142857142854,Out,Caught,Good,Middle,Flick,Right-arm Fast,ODI,Poor,row_212,212,family_11
+P001,37,2023-02-14,2,54,35,154.28571428571428,Out,Caught,Short,Outside Off,Hook,Right-arm Fast,ODI,Good,row_213,213,family_11
+P007,37,2023-02-14,2,26,38,68.42105263157895,Out,Run Out,NA,NA,NA,NA,ODI,Average,row_214,214,family_11
+P003,37,2023-02-14,2,7,23,30.434782608695652,Out,Caught,Short,Outside Off,Pull,Off Spin,ODI,Poor,row_215,215,family_11
+P005,37,2023-02-14,2,37,28,132.14285714285714,Out,Caught,Bouncer,Middle,Pull,Right-arm Fast,ODI,Average,row_216,216,family_11
+P002,38,2023-02-18,1,15,15,100.0,Out,Bowled,Full,Leg Stump,Flick,Right-arm Medium,T20,Average,row_217,217,family_15
+P001,38,2023-02-18,1,51,27,188.88888888888889,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Good,row_218,218,family_15
+P007,38,2023-02-18,1,6,8,75.0,Out,Caught,Good,Middle,Lofted Shot,Right-arm Fast,T20,Poor,row_219,219,family_15
+P006,38,2023-02-18,1,61,37,164.86486486486487,Out,Run Out,NA,NA,NA,NA,T20,Good,row_220,220,family_15
+P004,38,2023-02-18,1,16,17,94.11764705882354,Out,Caught,Full,Middle,Sweep,Off Spin,T20,Average,row_221,221,family_15
+P011,39,2023-02-22,1,1,17,5.882352941176471,Out,Caught,Good,Middle,Flick,Right-arm Fast,Test,Poor,row_222,222,family_19
+P006,39,2023-02-22,1,94,140,67.14285714285714,Out,Stumped,Full,Down Leg,Flick,Right-arm Medium,Test,Good,row_223,223,family_19
+P012,39,2023-02-22,1,44,137,32.11678832116788,Out,Caught,Full,Middle,Defensive,Right-arm Medium,Test,Average,row_224,224,family_19
+P001,39,2023-02-22,1,93,103,90.29126213592232,Out,Bowled,Good,Off Stump,Sweep,Right-arm Medium,Test,Good,row_225,225,family_19
+P011,39,2023-02-22,3,81,89,91.01123595505618,Out,Caught,Full,Outside Off,Cut,Right-arm Medium,Test,Good,row_226,226,family_19
+P006,39,2023-02-22,3,32,42,76.19047619047619,Out,Caught,Good,Outside Off,Lofted Shot,Right-arm Fast,Test,Average,row_227,227,family_19
+P012,39,2023-02-22,3,35,34,102.94117647058823,Out,Caught,Full,Outside Off,Lofted Shot,Off Spin,Test,Average,row_228,228,family_19
+P001,39,2023-02-22,3,1,3,33.333333333333336,Out,Caught,Good,Off Stump,Cut,Right-arm Medium,Test,Poor,row_229,229,family_19
+P002,40,2023-02-26,1,31,15,206.66666666666666,Out,Caught,Good,Middle,Pull,Right-arm Fast,T20,Good,row_230,230,family_17
+P001,40,2023-02-26,1,6,4,150.0,Out,Caught,Good,Middle,Flick,Right-arm Medium,T20,Poor,row_231,231,family_17
+P009,40,2023-02-26,1,25,19,131.57894736842104,Out,LBW,Full,Off Stump,Sweep,Off Spin,T20,Average,row_232,232,family_17
+P007,40,2023-02-26,1,0,1,0.0,Out,LBW,Full,Middle,Defensive,Right-arm Fast,T20,Poor,row_233,233,family_17
+P006,40,2023-02-26,1,13,13,100.0,Out,Caught,Full,Leg Stump,Lofted Shot,Left-arm Orthodox,T20,Poor,row_234,234,family_17
+P004,40,2023-02-26,1,17,14,121.42857142857143,Out,Bowled,Full,Leg Stump,Flick,Right-arm Medium,T20,Average,row_235,235,family_17
+P002,41,2023-03-02,2,11,23,47.82608695652174,Out,Caught,Good,Outside Off,Defensive,Right-arm Medium,ODI,Poor,row_236,236,family_9
+P006,41,2023-03-02,2,26,21,123.80952380952381,Out,Caught,Short,Outside Off,Pull,Right-arm Fast,ODI,Average,row_237,237,family_9
+P001,41,2023-03-02,2,58,80,72.5,Out,LBW,Good,Off Stump,Flick,Off Spin,ODI,Average,row_238,238,family_9
+P007,41,2023-03-02,2,18,31,58.064516129032256,Out,Caught,Full,Outside Off,Drive,Right-arm Fast,ODI,Poor,row_239,239,family_9
+P003,41,2023-03-02,2,1,3,33.333333333333336,Out,LBW,Good,Middle,Defensive,Off Spin,ODI,Poor,row_240,240,family_9
+P005,41,2023-03-02,2,9,11,81.81818181818181,Out,Caught,Short,Outside Off,Cut,Right-arm Fast,ODI,Poor,row_241,241,family_9
+P002,42,2023-03-06,1,65,40,162.5,Out,Bowled,Short,Off Stump,Cut,Right-arm Fast,T20,Good,row_242,242,family_24
+P009,42,2023-03-06,1,30,23,130.43478260869566,Out,Caught,Full,Leg Stump,Lofted Shot,Off Spin,T20,Good,row_243,243,family_24
+P001,42,2023-03-06,1,23,9,255.55555555555554,Out,Caught,Good,Middle,Sweep,Left-arm Orthodox,T20,Average,row_244,244,family_24
+P007,42,2023-03-06,1,30,21,142.85714285714286,Out,Caught,Good,Middle,Lofted Shot,Right-arm Fast,T20,Good,row_245,245,family_24
+P004,42,2023-03-06,1,0,6,0.0,Out,LBW,Good,Outside Off,Pull,Leg Spin,T20,Poor,row_246,246,family_24
+P003,42,2023-03-06,1,37,29,127.58620689655173,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_247,247,family_24
+P005,42,2023-03-06,1,2,2,100.0,Not Out,Not Out,NA,NA,NA,NA,T20,Poor,row_248,248,family_24
+P002,43,2023-03-10,1,5,13,38.46153846153846,Out,Caught,Full,Down Leg,Lofted Shot,Right-arm Medium,T20,Poor,row_249,249,family_16
+P001,43,2023-03-10,1,43,19,226.31578947368422,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Good,row_250,250,family_16
+P009,43,2023-03-10,1,63,40,157.5,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_251,251,family_16
+P007,43,2023-03-10,1,3,5,60.0,Out,Caught,Good,Off Stump,Cut,Right-arm Medium,T20,Poor,row_252,252,family_16
+P006,43,2023-03-10,1,16,16,100.0,Out,Caught,Short,Off Stump,Cut,Right-arm Medium,T20,Average,row_253,253,family_16
+P004,43,2023-03-10,1,42,19,221.05263157894737,Out,Caught,Full,Leg Stump,Flick,Right-arm Fast,T20,Good,row_254,254,family_16
+P002,44,2023-03-14,1,18,31,58.064516129032256,Out,Caught,Good,Outside Off,Drive,Leg Spin,ODI,Poor,row_255,255,family_21
+P009,44,2023-03-14,1,2,8,25.0,Out,Caught,Full,Outside Off,Drive,Right-arm Medium,ODI,Poor,row_256,256,family_21
+P001,44,2023-03-14,1,17,26,65.38461538461539,Out,Run Out,NA,NA,NA,NA,ODI,Poor,row_257,257,family_21
+P012,44,2023-03-14,1,38,60,63.333333333333336,Out,Caught,Full,Middle,Lofted Shot,Left-arm Orthodox,ODI,Average,row_258,258,family_21
+P003,44,2023-03-14,1,56,71,78.87323943661971,Out,Caught,Full,Outside Off,Sweep,Leg Spin,ODI,Average,row_259,259,family_21
+P005,44,2023-03-14,1,11,11,100.0,Out,Caught,Good,Middle,Flick,Right-arm Medium,ODI,Poor,row_260,260,family_21
+P007,44,2023-03-14,1,33,40,82.5,Out,Caught,Good,Middle,Flick,Off Spin,ODI,Average,row_261,261,family_21
+P002,45,2023-03-18,1,27,20,135.0,Out,Caught,Short,Off Stump,Pull,Off Spin,T20,Average,row_262,262,family_8
+P009,45,2023-03-18,1,2,4,50.0,Out,Caught,Full,Outside Off,Lofted Shot,Off Spin,T20,Poor,row_263,263,family_8
+P003,45,2023-03-18,1,12,13,92.3076923076923,Out,Run Out,NA,NA,NA,NA,T20,Poor,row_264,264,family_8
+P006,45,2023-03-18,1,33,29,113.79310344827586,Out,Caught,Short,Outside Off,Pull,Right-arm Fast,T20,Average,row_265,265,family_8
+P004,45,2023-03-18,1,11,10,110.0,Out,Caught,Short,Outside Off,Cut,Left-arm Orthodox,T20,Poor,row_266,266,family_8
+P002,46,2023-03-22,2,42,26,161.53846153846155,Out,Caught,Bouncer,Outside Off,Pull,Right-arm Medium,ODI,Average,row_267,267,family_22
+P009,46,2023-03-22,2,49,29,168.9655172413793,Out,Caught,Short,Outside Off,Cut,Off Spin,ODI,Average,row_268,268,family_22
+P001,46,2023-03-22,2,28,10,280.0,Out,Caught,Full,Off Stump,Lofted Shot,Right-arm Medium,ODI,Average,row_269,269,family_22
+P007,46,2023-03-22,2,182,204,89.2156862745098,Out,Bowled,Yorker,Leg Stump,Flick,Left-arm Medium,ODI,Good,row_270,270,family_22
+P003,46,2023-03-22,2,27,24,112.5,Out,Caught,Good,Outside Off,Pull,Leg Spin,ODI,Average,row_271,271,family_22
+P005,46,2023-03-22,2,14,33,42.42424242424242,Out,Run Out,NA,NA,NA,NA,ODI,Poor,row_272,272,family_22
+P012,46,2023-03-22,2,14,19,73.6842105263158,Out,Caught,Full,Outside Off,Sweep,Off Spin,ODI,Poor,row_273,273,family_22
+P002,47,2023-03-26,2,39,22,177.27272727272728,Out,Caught,Bouncer,Outside Off,Pull,Right-arm Medium,ODI,Average,row_274,274,family_22
+P009,47,2023-03-26,2,22,26,84.61538461538461,Out,Caught,Short,Outside Off,Cut,Off Spin,ODI,Average,row_275,275,family_22
+P001,47,2023-03-26,2,16,6,266.6666666666667,Out,Caught,Full,Off Stump,Lofted Shot,Right-arm Medium,ODI,Poor,row_276,276,family_22
+P007,47,2023-03-26,2,141,121,116.52892561983471,Out,Bowled,Yorker,Leg Stump,Flick,Left-arm Medium,ODI,Good,row_277,277,family_22
+P003,47,2023-03-26,2,12,16,75.0,Out,Caught,Good,Outside Off,Pull,Leg Spin,ODI,Poor,row_278,278,family_22
+P005,47,2023-03-26,2,21,32,65.625,Out,Run Out,NA,NA,NA,NA,ODI,Average,row_279,279,family_22
+P012,47,2023-03-26,2,7,15,46.666666666666664,Out,Caught,Full,Outside Off,Sweep,Off Spin,ODI,Poor,row_280,280,family_22
+P002,48,2023-03-30,1,3,4,75.0,Out,Caught,Good,Outside Off,Drive,Right-arm Fast,Test,Poor,row_281,281,family_18
+P011,48,2023-03-30,1,88,98,89.79591836734694,Out,Bowled,Full,Off Stump,Flick,Right-arm Fast,Test,Good,row_282,282,family_18
+P006,48,2023-03-30,1,0,1,0.0,Out,Caught,Good,Middle,Drive,Right-arm Fast,Test,Poor,row_283,283,family_18
+P012,48,2023-03-30,1,77,117,65.8119658119658,Out,Caught,Good,Middle,Defensive,Right-arm Medium,Test,Good,row_284,284,family_18
+P001,48,2023-03-30,1,0,3,0.0,Out,Caught,Good,Outside Off,Drive,Right-arm Fast,Test,Poor,row_285,285,family_18
+P002,48,2023-03-30,3,1,3,33.333333333333336,Out,Caught,Good,Outside Off,Drive,Right-arm Medium,Test,Poor,row_286,286,family_18
+P011,48,2023-03-30,3,31,62,50.0,Out,Caught,Short,Outside Off,Cut,Right-arm Fast,Test,Average,row_287,287,family_18
+P006,48,2023-03-30,3,15,41,36.58536585365854,Out,Bowled,Good,Off Stump,Leave,Right-arm Fast,Test,Poor,row_288,288,family_18
+P012,48,2023-03-30,3,0,9,0.0,Out,LBW,Good,Outside Off,Defensive,Right-arm Fast,Test,Poor,row_289,289,family_18
+P001,48,2023-03-30,3,7,25,28.0,Out,Bowled,Good,Outside Off,Leave,Right-arm Medium,Test,Poor,row_290,290,family_18
+P002,49,2023-04-03,2,10,8,125.0,Out,Caught,Full,Outside Off,Lofted Shot,Left-arm Orthodox,T20,Poor,row_291,291,family_25
+P009,49,2023-04-03,2,0,1,0.0,Out,Caught,Bouncer,Middle,Pull,Right-arm Fast,T20,Poor,row_292,292,family_25
+P001,49,2023-04-03,2,29,23,126.08695652173913,Out,Caught,Full,Down Leg,Sweep,Off Spin,T20,Average,row_293,293,family_25
+P007,49,2023-04-03,2,14,18,77.77777777777777,Out,Bowled,Good,Off Stump,Drive,Leg Spin,T20,Poor,row_294,294,family_25
+P006,49,2023-04-03,2,10,10,100.0,Out,LBW,Good,Middle,Flick,Off Spin,T20,Poor,row_295,295,family_25
+P005,49,2023-04-03,2,22,22,100.0,Out,Caught,Full,Leg Stump,Sweep,Off Spin,T20,Average,row_296,296,family_25
+P004,49,2023-04-03,2,0,2,0.0,Out,Stumped,Short,Outside Off,Lofted Shot,Left-arm Orthodox,T20,Poor,row_297,297,family_25
+P002,50,2023-04-07,1,38,22,172.72727272727272,Out,Caught,Good,Middle,Pull,Right-arm Fast,T20,Good,row_298,298,family_17
+P001,50,2023-04-07,1,2,3,66.66666666666667,Out,Caught,Good,Middle,Flick,Right-arm Medium,T20,Poor,row_299,299,family_17
+P009,50,2023-04-07,1,31,22,140.9090909090909,Out,LBW,Full,Off Stump,Sweep,Off Spin,T20,Good,row_300,300,family_17
+P007,50,2023-04-07,1,1,1,100.0,Out,LBW,Full,Middle,Defensive,Right-arm Fast,T20,Poor,row_301,301,family_17
+P006,50,2023-04-07,1,14,12,116.66666666666667,Out,Caught,Full,Leg Stump,Lofted Shot,Left-arm Orthodox,T20,Poor,row_302,302,family_17
+P004,50,2023-04-07,1,17,11,154.54545454545453,Out,Bowled,Full,Leg Stump,Flick,Right-arm Medium,T20,Average,row_303,303,family_17
+P001,51,2023-04-11,2,14,17,82.3529411764706,Out,Caught,Good,Off Stump,Lofted Shot,Right-arm Medium,T20,Poor,row_304,304,family_4
+P006,51,2023-04-11,2,27,21,128.57142857142858,Out,Caught,Short,Middle,Lofted Shot,Leg Spin,T20,Average,row_305,305,family_4
+P004,51,2023-04-11,2,22,12,183.33333333333334,Out,Caught,Good,Off Stump,Sweep,Off Spin,T20,Average,row_306,306,family_4
+P009,52,2023-04-15,2,17,21,80.95238095238095,Out,Caught,Bouncer,Leg Stump,Hook,Right-arm Fast,Test,Poor,row_307,307,family_13
+P006,52,2023-04-15,2,12,46,26.08695652173913,Out,Caught,Short,Middle,Pull,Right-arm Fast,Test,Poor,row_308,308,family_13
+P012,52,2023-04-15,2,7,12,58.333333333333336,Out,Caught,Full,Middle,Defensive,Left-arm Orthodox,Test,Poor,row_309,309,family_13
+P009,52,2023-04-15,3,37,50,74.0,Out,LBW,Full,Middle,Sweep,Left-arm Orthodox,Test,Average,row_310,310,family_13
+P006,52,2023-04-15,3,85,128,66.40625,Out,Caught,Bouncer,Leg Stump,Pull,Right-arm Fast,Test,Good,row_311,311,family_13
+P012,52,2023-04-15,3,19,38,50.0,Out,Caught,Full,Off Stump,Flick,Left-arm Orthodox,Test,Poor,row_312,312,family_13
+P002,53,2023-04-19,2,17,25,68.0,Out,Caught,Good,Outside Off,Defensive,Right-arm Medium,ODI,Poor,row_313,313,family_9
+P006,53,2023-04-19,2,12,20,60.0,Out,Caught,Short,Outside Off,Pull,Right-arm Fast,ODI,Poor,row_314,314,family_9
+P001,53,2023-04-19,2,24,30,80.0,Out,LBW,Good,Off Stump,Flick,Off Spin,ODI,Average,row_315,315,family_9
+P007,53,2023-04-19,2,13,17,76.47058823529412,Out,Caught,Full,Outside Off,Drive,Right-arm Fast,ODI,Poor,row_316,316,family_9
+P003,53,2023-04-19,2,0,3,0.0,Out,LBW,Good,Middle,Defensive,Off Spin,ODI,Poor,row_317,317,family_9
+P005,53,2023-04-19,2,4,9,44.44444444444444,Out,Caught,Short,Outside Off,Cut,Right-arm Fast,ODI,Poor,row_318,318,family_9
+P002,54,2023-04-23,1,3,4,75.0,Out,Caught,Good,Outside Off,Drive,Right-arm Fast,Test,Poor,row_319,319,family_18
+P011,54,2023-04-23,1,74,75,98.66666666666667,Out,Bowled,Full,Off Stump,Flick,Right-arm Fast,Test,Good,row_320,320,family_18
+P006,54,2023-04-23,1,0,1,0.0,Out,Caught,Good,Middle,Drive,Right-arm Fast,Test,Poor,row_321,321,family_18
+P012,54,2023-04-23,1,186,271,68.63468634686348,Out,Caught,Good,Middle,Defensive,Right-arm Medium,Test,Good,row_322,322,family_18
+P001,54,2023-04-23,1,0,6,0.0,Out,Caught,Good,Outside Off,Drive,Right-arm Fast,Test,Poor,row_323,323,family_18
+P002,54,2023-04-23,3,5,8,62.5,Out,Caught,Good,Outside Off,Drive,Right-arm Medium,Test,Poor,row_324,324,family_18
+P011,54,2023-04-23,3,36,58,62.06896551724138,Out,Caught,Short,Outside Off,Cut,Right-arm Fast,Test,Average,row_325,325,family_18
+P006,54,2023-04-23,3,2,29,6.896551724137931,Out,Bowled,Good,Off Stump,Leave,Right-arm Fast,Test,Poor,row_326,326,family_18
+P012,54,2023-04-23,3,0,5,0.0,Out,LBW,Good,Outside Off,Defensive,Right-arm Fast,Test,Poor,row_327,327,family_18
+P001,54,2023-04-23,3,9,23,39.130434782608695,Out,Bowled,Good,Outside Off,Leave,Right-arm Medium,Test,Poor,row_328,328,family_18
+P002,55,2023-04-27,1,10,12,83.33333333333333,Out,Caught,Good,Middle,Pull,Right-arm Fast,T20,Poor,row_329,329,family_17
+P001,55,2023-04-27,1,5,4,125.0,Out,Caught,Good,Middle,Flick,Right-arm Medium,T20,Poor,row_330,330,family_17
+P009,55,2023-04-27,1,26,17,152.94117647058823,Out,LBW,Full,Off Stump,Sweep,Off Spin,T20,Average,row_331,331,family_17
+P007,55,2023-04-27,1,1,1,100.0,Out,LBW,Full,Middle,Defensive,Right-arm Fast,T20,Poor,row_332,332,family_17
+P006,55,2023-04-27,1,12,13,92.3076923076923,Out,Caught,Full,Leg Stump,Lofted Shot,Left-arm Orthodox,T20,Poor,row_333,333,family_17
+P004,55,2023-04-27,1,12,14,85.71428571428571,Out,Bowled,Full,Leg Stump,Flick,Right-arm Medium,T20,Poor,row_334,334,family_17
+P001,56,2023-05-01,2,82,62,132.25806451612902,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_335,335,family_5
+P006,56,2023-05-01,2,52,31,167.74193548387098,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_336,336,family_5
+P002,57,2023-05-05,2,10,10,100.0,Out,Caught,Good,Off Stump,Pull,Off Spin,T20,Poor,row_337,337,family_6
+P009,57,2023-05-05,2,11,11,100.0,Out,Bowled,Full,Off Stump,Flick,Right-arm Medium,T20,Poor,row_338,338,family_6
+P003,57,2023-05-05,2,10,9,111.11111111111111,Out,Caught,Good,Middle,Lofted Shot,Left-arm Orthodox,T20,Poor,row_339,339,family_6
+P004,57,2023-05-05,2,21,9,233.33333333333334,Out,Caught,Good,Middle,Defensive,Leg Spin,T20,Average,row_340,340,family_6
+P006,57,2023-05-05,2,4,11,36.36363636363637,Out,Caught,Good,Outside Off,Lofted Shot,Right-arm Medium,T20,Poor,row_341,341,family_6
+P002,58,2023-05-09,1,19,33,57.57575757575758,Out,Caught,Good,Outside Off,Sweep,Left-arm Medium,ODI,Poor,row_342,342,family_20
+P009,58,2023-05-09,1,42,44,95.45454545454545,Out,Bowled,Full,Down Leg,Sweep,Leg Spin,ODI,Average,row_343,343,family_20
+P001,58,2023-05-09,1,108,138,78.26086956521739,Not Out,Not Out,NA,NA,NA,NA,ODI,Average,row_344,344,family_20
+P012,58,2023-05-09,1,18,26,69.23076923076923,Out,LBW,Full,Middle,Other,Leg Spin,ODI,Poor,row_345,345,family_20
+P003,58,2023-05-09,1,14,11,127.27272727272727,Out,Caught,Full,Off Stump,Sweep,Leg Spin,ODI,Poor,row_346,346,family_20
+P005,58,2023-05-09,1,43,55,78.18181818181819,Out,Caught,Short,Middle,Drive,Leg Spin,ODI,Average,row_347,347,family_20
+P007,58,2023-05-09,1,17,16,106.25,Out,Caught,Good,Outside Off,Lofted Shot,Left-arm Orthodox,ODI,Poor,row_348,348,family_20
+P002,59,2023-05-13,2,22,11,200.0,Out,Caught,Full,Outside Off,Lofted Shot,Left-arm Orthodox,T20,Average,row_349,349,family_25
+P009,59,2023-05-13,2,0,1,0.0,Out,Caught,Bouncer,Middle,Pull,Right-arm Fast,T20,Poor,row_350,350,family_25
+P001,59,2023-05-13,2,15,15,100.0,Out,Caught,Full,Down Leg,Sweep,Off Spin,T20,Average,row_351,351,family_25
+P007,59,2023-05-13,2,18,20,90.0,Out,Bowled,Good,Off Stump,Drive,Leg Spin,T20,Average,row_352,352,family_25
+P006,59,2023-05-13,2,22,10,220.0,Out,LBW,Good,Middle,Flick,Off Spin,T20,Average,row_353,353,family_25
+P005,59,2023-05-13,2,22,19,115.78947368421052,Out,Caught,Full,Leg Stump,Sweep,Off Spin,T20,Average,row_354,354,family_25
+P004,59,2023-05-13,2,3,6,50.0,Out,Stumped,Short,Outside Off,Lofted Shot,Left-arm Orthodox,T20,Poor,row_355,355,family_25
+P002,60,2023-05-17,1,13,18,72.22222222222223,Out,Caught,Full,Down Leg,Lofted Shot,Right-arm Medium,T20,Poor,row_356,356,family_16
+P001,60,2023-05-17,1,16,10,160.0,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Average,row_357,357,family_16
+P009,60,2023-05-17,1,54,34,158.8235294117647,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_358,358,family_16
+P007,60,2023-05-17,1,1,4,25.0,Out,Caught,Good,Off Stump,Cut,Right-arm Medium,T20,Poor,row_359,359,family_16
+P006,60,2023-05-17,1,23,17,135.2941176470588,Out,Caught,Short,Off Stump,Cut,Right-arm Medium,T20,Average,row_360,360,family_16
+P004,60,2023-05-17,1,66,22,300.0,Out,Caught,Full,Leg Stump,Flick,Right-arm Fast,T20,Good,row_361,361,family_16
+P002,61,2023-05-21,1,60,38,157.89473684210526,Out,Caught,Short,Off Stump,Pull,Off Spin,T20,Good,row_362,362,family_8
+P009,61,2023-05-21,1,4,8,50.0,Out,Caught,Full,Outside Off,Lofted Shot,Off Spin,T20,Poor,row_363,363,family_8
+P003,61,2023-05-21,1,10,8,125.0,Out,Run Out,NA,NA,NA,NA,T20,Poor,row_364,364,family_8
+P006,61,2023-05-21,1,67,34,197.05882352941177,Out,Caught,Short,Outside Off,Pull,Right-arm Fast,T20,Good,row_365,365,family_8
+P004,61,2023-05-21,1,20,17,117.6470588235294,Out,Caught,Short,Outside Off,Cut,Left-arm Orthodox,T20,Average,row_366,366,family_8
+P002,62,2023-05-25,1,28,20,140.0,Out,Bowled,Short,Off Stump,Cut,Right-arm Fast,T20,Average,row_367,367,family_24
+P009,62,2023-05-25,1,26,31,83.87096774193549,Out,Caught,Full,Leg Stump,Lofted Shot,Off Spin,T20,Average,row_368,368,family_24
+P001,62,2023-05-25,1,28,16,175.0,Out,Caught,Good,Middle,Sweep,Left-arm Orthodox,T20,Average,row_369,369,family_24
+P007,62,2023-05-25,1,66,28,235.71428571428572,Out,Caught,Good,Middle,Lofted Shot,Right-arm Fast,T20,Good,row_370,370,family_24
+P004,62,2023-05-25,1,2,6,33.333333333333336,Out,LBW,Good,Outside Off,Pull,Leg Spin,T20,Poor,row_371,371,family_24
+P003,62,2023-05-25,1,34,23,147.82608695652175,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_372,372,family_24
+P005,62,2023-05-25,1,3,2,150.0,Not Out,Not Out,NA,NA,NA,NA,T20,Poor,row_373,373,family_24
+P006,63,2023-05-29,2,49,33,148.4848484848485,Out,Bowled,Good,Off Stump,Defensive,Right-arm Medium,ODI,Average,row_374,374,family_2
+P008,63,2023-05-29,2,76,69,110.14492753623189,Out,Caught,Short,Middle,Flick,Right-arm Fast,ODI,Good,row_375,375,family_2
+P001,63,2023-05-29,2,0,0,0.0,Out,Run Out,NA,NA,NA,NA,ODI,Poor,row_376,376,family_2
+P007,63,2023-05-29,2,89,69,128.9855072463768,Out,Caught,Good,Middle,Lofted Shot,Left-arm Medium,ODI,Good,row_377,377,family_2
+P004,63,2023-05-29,2,170,66,257.57575757575756,Out,Caught,Good,Middle,Lofted Shot,Left-arm Orthodox,ODI,Good,row_378,378,family_2
+P005,63,2023-05-29,2,64,28,228.57142857142858,Not Out,Not Out,NA,NA,NA,NA,ODI,Good,row_379,379,family_2
+P002,64,2023-06-02,2,38,49,77.55102040816327,Out,Caught,Good,Outside Off,Defensive,Right-arm Medium,ODI,Average,row_380,380,family_9
+P006,64,2023-06-02,2,6,18,33.333333333333336,Out,Caught,Short,Outside Off,Pull,Right-arm Fast,ODI,Poor,row_381,381,family_9
+P001,64,2023-06-02,2,51,48,106.25,Out,LBW,Good,Off Stump,Flick,Off Spin,ODI,Good,row_382,382,family_9
+P007,64,2023-06-02,2,8,22,36.36363636363637,Out,Caught,Full,Outside Off,Drive,Right-arm Fast,ODI,Poor,row_383,383,family_9
+P003,64,2023-06-02,2,3,4,75.0,Out,LBW,Good,Middle,Defensive,Off Spin,ODI,Poor,row_384,384,family_9
+P005,64,2023-06-02,2,3,8,37.5,Out,Caught,Short,Outside Off,Cut,Right-arm Fast,ODI,Poor,row_385,385,family_9
+P002,65,2023-06-06,2,9,7,128.57142857142858,Out,Caught,Good,Off Stump,Pull,Off Spin,T20,Poor,row_386,386,family_6
+P009,65,2023-06-06,2,13,14,92.85714285714286,Out,Bowled,Full,Off Stump,Flick,Right-arm Medium,T20,Poor,row_387,387,family_6
+P003,65,2023-06-06,2,7,8,87.5,Out,Caught,Good,Middle,Lofted Shot,Left-arm Orthodox,T20,Poor,row_388,388,family_6
+P004,65,2023-06-06,2,41,24,170.83333333333334,Out,Caught,Good,Middle,Defensive,Leg Spin,T20,Good,row_389,389,family_6
+P006,65,2023-06-06,2,2,7,28.571428571428573,Out,Caught,Good,Outside Off,Lofted Shot,Right-arm Medium,T20,Poor,row_390,390,family_6
+P002,66,2023-06-10,1,0,4,0.0,Out,Caught,Good,Outside Off,Drive,Right-arm Fast,Test,Poor,row_391,391,family_18
+P011,66,2023-06-10,1,40,54,74.07407407407408,Out,Bowled,Full,Off Stump,Flick,Right-arm Fast,Test,Average,row_392,392,family_18
+P006,66,2023-06-10,1,1,1,100.0,Out,Caught,Good,Middle,Drive,Right-arm Fast,Test,Poor,row_393,393,family_18
+P012,66,2023-06-10,1,145,227,63.87665198237885,Out,Caught,Good,Middle,Defensive,Right-arm Medium,Test,Good,row_394,394,family_18
+P001,66,2023-06-10,1,0,4,0.0,Out,Caught,Good,Outside Off,Drive,Right-arm Fast,Test,Poor,row_395,395,family_18
+P002,66,2023-06-10,3,1,6,16.666666666666668,Out,Caught,Good,Outside Off,Drive,Right-arm Medium,Test,Poor,row_396,396,family_18
+P011,66,2023-06-10,3,41,66,62.121212121212125,Out,Caught,Short,Outside Off,Cut,Right-arm Fast,Test,Average,row_397,397,family_18
+P006,66,2023-06-10,3,14,39,35.8974358974359,Out,Bowled,Good,Off Stump,Leave,Right-arm Fast,Test,Poor,row_398,398,family_18
+P012,66,2023-06-10,3,0,4,0.0,Out,LBW,Good,Outside Off,Defensive,Right-arm Fast,Test,Poor,row_399,399,family_18
+P001,66,2023-06-10,3,6,22,27.272727272727273,Out,Bowled,Good,Outside Off,Leave,Right-arm Medium,Test,Poor,row_400,400,family_18
+P002,67,2023-06-14,2,72,32,225.0,Out,Caught,Bouncer,Outside Off,Pull,Right-arm Medium,ODI,Good,row_401,401,family_22
+P009,67,2023-06-14,2,22,15,146.66666666666666,Out,Caught,Short,Outside Off,Cut,Off Spin,ODI,Average,row_402,402,family_22
+P001,67,2023-06-14,2,40,13,307.6923076923077,Out,Caught,Full,Off Stump,Lofted Shot,Right-arm Medium,ODI,Average,row_403,403,family_22
+P007,67,2023-06-14,2,159,169,94.0828402366864,Out,Bowled,Yorker,Leg Stump,Flick,Left-arm Medium,ODI,Good,row_404,404,family_22
+P003,67,2023-06-14,2,10,15,66.66666666666667,Out,Caught,Good,Outside Off,Pull,Leg Spin,ODI,Poor,row_405,405,family_22
+P005,67,2023-06-14,2,26,36,72.22222222222223,Out,Run Out,NA,NA,NA,NA,ODI,Average,row_406,406,family_22
+P012,67,2023-06-14,2,6,14,42.857142857142854,Out,Caught,Full,Outside Off,Sweep,Off Spin,ODI,Poor,row_407,407,family_22
+P002,68,2023-06-18,1,26,34,76.47058823529412,Out,Caught,Good,Outside Off,Drive,Leg Spin,ODI,Average,row_408,408,family_21
+P009,68,2023-06-18,1,4,9,44.44444444444444,Out,Caught,Full,Outside Off,Drive,Right-arm Medium,ODI,Poor,row_409,409,family_21
+P001,68,2023-06-18,1,17,36,47.22222222222222,Out,Run Out,NA,NA,NA,NA,ODI,Poor,row_410,410,family_21
+P012,68,2023-06-18,1,49,81,60.49382716049383,Out,Caught,Full,Middle,Lofted Shot,Left-arm Orthodox,ODI,Average,row_411,411,family_21
+P003,68,2023-06-18,1,35,62,56.45161290322581,Out,Caught,Full,Outside Off,Sweep,Leg Spin,ODI,Average,row_412,412,family_21
+P005,68,2023-06-18,1,14,11,127.27272727272727,Out,Caught,Good,Middle,Flick,Right-arm Medium,ODI,Poor,row_413,413,family_21
+P007,68,2023-06-18,1,40,54,74.07407407407408,Out,Caught,Good,Middle,Flick,Off Spin,ODI,Average,row_414,414,family_21
+P001,69,2023-06-22,2,84,43,195.34883720930233,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_415,415,family_5
+P006,69,2023-06-22,2,47,31,151.61290322580646,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_416,416,family_5
+P002,70,2023-06-26,2,19,39,48.717948717948715,Out,Caught,Good,Outside Off,Defensive,Right-arm Medium,ODI,Poor,row_417,417,family_9
+P006,70,2023-06-26,2,18,23,78.26086956521739,Out,Caught,Short,Outside Off,Pull,Right-arm Fast,ODI,Poor,row_418,418,family_9
+P001,70,2023-06-26,2,31,46,67.3913043478261,Out,LBW,Good,Off Stump,Flick,Off Spin,ODI,Average,row_419,419,family_9
+P007,70,2023-06-26,2,11,16,68.75,Out,Caught,Full,Outside Off,Drive,Right-arm Fast,ODI,Poor,row_420,420,family_9
+P003,70,2023-06-26,2,1,5,20.0,Out,LBW,Good,Middle,Defensive,Off Spin,ODI,Poor,row_421,421,family_9
+P005,70,2023-06-26,2,4,9,44.44444444444444,Out,Caught,Short,Outside Off,Cut,Right-arm Fast,ODI,Poor,row_422,422,family_9
+P002,71,2023-06-30,1,32,19,168.42105263157896,Out,Caught,Short,Middle,Pull,Right-arm Fast,T20,Good,row_423,423,family_7
+P009,71,2023-06-30,1,1,2,50.0,Out,Caught,Good,Middle,Drive,Left-arm Orthodox,T20,Poor,row_424,424,family_7
+P003,71,2023-06-30,1,31,32,96.875,Out,Caught,Good,Off Stump,Lofted Shot,Leg Spin,T20,Average,row_425,425,family_7
+P006,71,2023-06-30,1,8,6,133.33333333333334,Out,Bowled,Short,Outside Off,Cut,Right-arm Fast,T20,Poor,row_426,426,family_7
+P004,71,2023-06-30,1,3,2,150.0,Out,Caught,Short,Middle,Pull,Left-arm Orthodox,T20,Poor,row_427,427,family_7
+P002,72,2023-07-04,1,28,19,147.3684210526316,Out,Bowled,Full,Leg Stump,Flick,Right-arm Medium,T20,Average,row_428,428,family_15
+P001,72,2023-07-04,1,39,26,150.0,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Good,row_429,429,family_15
+P007,72,2023-07-04,1,3,5,60.0,Out,Caught,Good,Middle,Lofted Shot,Right-arm Fast,T20,Poor,row_430,430,family_15
+P006,72,2023-07-04,1,35,21,166.66666666666666,Out,Run Out,NA,NA,NA,NA,T20,Good,row_431,431,family_15
+P004,72,2023-07-04,1,28,26,107.6923076923077,Out,Caught,Full,Middle,Sweep,Off Spin,T20,Average,row_432,432,family_15
+P002,73,2023-07-08,1,33,24,137.5,Out,Caught,Short,Off Stump,Pull,Off Spin,T20,Good,row_433,433,family_8
+P009,73,2023-07-08,1,2,3,66.66666666666667,Out,Caught,Full,Outside Off,Lofted Shot,Off Spin,T20,Poor,row_434,434,family_8
+P003,73,2023-07-08,1,15,13,115.38461538461539,Out,Run Out,NA,NA,NA,NA,T20,Average,row_435,435,family_8
+P006,73,2023-07-08,1,32,18,177.77777777777777,Out,Caught,Short,Outside Off,Pull,Right-arm Fast,T20,Good,row_436,436,family_8
+P004,73,2023-07-08,1,14,16,87.5,Out,Caught,Short,Outside Off,Cut,Left-arm Orthodox,T20,Poor,row_437,437,family_8
+P002,74,2023-07-12,1,5,8,62.5,Out,Caught,Full,Down Leg,Lofted Shot,Right-arm Medium,T20,Poor,row_438,438,family_16
+P001,74,2023-07-12,1,27,20,135.0,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Average,row_439,439,family_16
+P009,74,2023-07-12,1,109,47,231.91489361702128,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_440,440,family_16
+P007,74,2023-07-12,1,1,6,16.666666666666668,Out,Caught,Good,Off Stump,Cut,Right-arm Medium,T20,Poor,row_441,441,family_16
+P006,74,2023-07-12,1,51,49,104.08163265306122,Out,Caught,Short,Off Stump,Cut,Right-arm Medium,T20,Average,row_442,442,family_16
+P004,74,2023-07-12,1,51,28,182.14285714285714,Out,Caught,Full,Leg Stump,Flick,Right-arm Fast,T20,Good,row_443,443,family_16
+P002,75,2023-07-16,1,4,6,66.66666666666667,Out,Caught,Full,Down Leg,Lofted Shot,Right-arm Medium,T20,Poor,row_444,444,family_16
+P001,75,2023-07-16,1,43,20,215.0,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Good,row_445,445,family_16
+P009,75,2023-07-16,1,51,44,115.9090909090909,Not Out,Not Out,NA,NA,NA,NA,T20,Average,row_446,446,family_16
+P007,75,2023-07-16,1,0,9,0.0,Out,Caught,Good,Off Stump,Cut,Right-arm Medium,T20,Poor,row_447,447,family_16
+P006,75,2023-07-16,1,16,16,100.0,Out,Caught,Short,Off Stump,Cut,Right-arm Medium,T20,Average,row_448,448,family_16
+P004,75,2023-07-16,1,79,31,254.83870967741936,Out,Caught,Full,Leg Stump,Flick,Right-arm Fast,T20,Good,row_449,449,family_16
+P009,76,2023-07-20,2,20,29,68.96551724137932,Out,Caught,Bouncer,Leg Stump,Hook,Right-arm Fast,Test,Average,row_450,450,family_13
+P006,76,2023-07-20,2,36,59,61.016949152542374,Out,Caught,Short,Middle,Pull,Right-arm Fast,Test,Average,row_451,451,family_13
+P012,76,2023-07-20,2,7,12,58.333333333333336,Out,Caught,Full,Middle,Defensive,Left-arm Orthodox,Test,Poor,row_452,452,family_13
+P009,76,2023-07-20,3,34,37,91.89189189189189,Out,LBW,Full,Middle,Sweep,Left-arm Orthodox,Test,Average,row_453,453,family_13
+P006,76,2023-07-20,3,49,92,53.26086956521739,Out,Caught,Bouncer,Leg Stump,Pull,Right-arm Fast,Test,Average,row_454,454,family_13
+P012,76,2023-07-20,3,19,51,37.254901960784316,Out,Caught,Full,Off Stump,Flick,Left-arm Orthodox,Test,Poor,row_455,455,family_13
+P002,77,2023-07-24,1,16,17,94.11764705882354,Out,Caught,Full,Outside Off,Sweep,Leg Spin,T20,Average,row_456,456,family_23
+P009,77,2023-07-24,1,18,10,180.0,Out,Caught,Short,Middle,Pull,Right-arm Medium,T20,Average,row_457,457,family_23
+P001,77,2023-07-24,1,17,9,188.88888888888889,Out,Caught,Good,Middle,Lofted Shot,Leg Spin,T20,Average,row_458,458,family_23
+P003,77,2023-07-24,1,2,4,50.0,Out,Caught,Full,Outside Off,Sweep,Left-arm Orthodox,T20,Poor,row_459,459,family_23
+P012,77,2023-07-24,1,7,8,87.5,Out,Caught,Good,Middle,Sweep,Leg Spin,T20,Poor,row_460,460,family_23
+P005,77,2023-07-24,1,1,2,50.0,Out,LBW,Full,Middle,Defensive,Left-arm Orthodox,T20,Poor,row_461,461,family_23
+P004,77,2023-07-24,1,23,16,143.75,Out,Caught,Yorker,Off Stump,Lofted Shot,Left-arm Medium,T20,Average,row_462,462,family_23
+P002,78,2023-07-28,1,24,53,45.283018867924525,Out,Caught,Good,Outside Off,Drive,Leg Spin,ODI,Average,row_463,463,family_21
+P009,78,2023-07-28,1,7,14,50.0,Out,Caught,Full,Outside Off,Drive,Right-arm Medium,ODI,Poor,row_464,464,family_21
+P001,78,2023-07-28,1,24,32,75.0,Out,Run Out,NA,NA,NA,NA,ODI,Average,row_465,465,family_21
+P012,78,2023-07-28,1,38,54,70.37037037037037,Out,Caught,Full,Middle,Lofted Shot,Left-arm Orthodox,ODI,Average,row_466,466,family_21
+P003,78,2023-07-28,1,46,69,66.66666666666667,Out,Caught,Full,Outside Off,Sweep,Leg Spin,ODI,Average,row_467,467,family_21
+P005,78,2023-07-28,1,13,12,108.33333333333333,Out,Caught,Good,Middle,Flick,Right-arm Medium,ODI,Poor,row_468,468,family_21
+P007,78,2023-07-28,1,15,20,75.0,Out,Caught,Good,Middle,Flick,Off Spin,ODI,Poor,row_469,469,family_21
+P002,79,2023-08-01,2,35,20,175.0,Out,Caught,Bouncer,Outside Off,Pull,Right-arm Medium,ODI,Average,row_470,470,family_22
+P009,79,2023-08-01,2,23,16,143.75,Out,Caught,Short,Outside Off,Cut,Off Spin,ODI,Average,row_471,471,family_22
+P001,79,2023-08-01,2,23,9,255.55555555555554,Out,Caught,Full,Off Stump,Lofted Shot,Right-arm Medium,ODI,Average,row_472,472,family_22
+P007,79,2023-08-01,2,92,101,91.08910891089108,Out,Bowled,Yorker,Leg Stump,Flick,Left-arm Medium,ODI,Good,row_473,473,family_22
+P003,79,2023-08-01,2,27,32,84.375,Out,Caught,Good,Outside Off,Pull,Leg Spin,ODI,Average,row_474,474,family_22
+P005,79,2023-08-01,2,23,43,53.48837209302326,Out,Run Out,NA,NA,NA,NA,ODI,Average,row_475,475,family_22
+P012,79,2023-08-01,2,10,23,43.47826086956522,Out,Caught,Full,Outside Off,Sweep,Off Spin,ODI,Poor,row_476,476,family_22
+P009,80,2023-08-05,2,16,20,80.0,Out,Caught,Bouncer,Leg Stump,Hook,Right-arm Fast,Test,Poor,row_477,477,family_13
+P006,80,2023-08-05,2,18,51,35.294117647058826,Out,Caught,Short,Middle,Pull,Right-arm Fast,Test,Poor,row_478,478,family_13
+P012,80,2023-08-05,2,5,11,45.45454545454545,Out,Caught,Full,Middle,Defensive,Left-arm Orthodox,Test,Poor,row_479,479,family_13
+P009,80,2023-08-05,3,22,26,84.61538461538461,Out,LBW,Full,Middle,Sweep,Left-arm Orthodox,Test,Average,row_480,480,family_13
+P006,80,2023-08-05,3,30,87,34.48275862068966,Out,Caught,Bouncer,Leg Stump,Pull,Right-arm Fast,Test,Average,row_481,481,family_13
+P012,80,2023-08-05,3,15,41,36.58536585365854,Out,Caught,Full,Off Stump,Flick,Left-arm Orthodox,Test,Poor,row_482,482,family_13
+P002,81,2023-08-09,1,21,18,116.66666666666667,Out,Bowled,Short,Off Stump,Cut,Right-arm Fast,T20,Average,row_483,483,family_24
+P009,81,2023-08-09,1,26,24,108.33333333333333,Out,Caught,Full,Leg Stump,Lofted Shot,Off Spin,T20,Average,row_484,484,family_24
+P001,81,2023-08-09,1,30,13,230.76923076923077,Out,Caught,Good,Middle,Sweep,Left-arm Orthodox,T20,Good,row_485,485,family_24
+P007,81,2023-08-09,1,21,14,150.0,Out,Caught,Good,Middle,Lofted Shot,Right-arm Fast,T20,Average,row_486,486,family_24
+P004,81,2023-08-09,1,1,4,25.0,Out,LBW,Good,Outside Off,Pull,Leg Spin,T20,Poor,row_487,487,family_24
+P003,81,2023-08-09,1,39,31,125.80645161290323,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_488,488,family_24
+P005,81,2023-08-09,1,2,2,100.0,Not Out,Not Out,NA,NA,NA,NA,T20,Poor,row_489,489,family_24
+P002,82,2023-08-13,1,57,32,178.125,Out,Bowled,Short,Off Stump,Cut,Right-arm Fast,T20,Good,row_490,490,family_24
+P009,82,2023-08-13,1,40,34,117.6470588235294,Out,Caught,Full,Leg Stump,Lofted Shot,Off Spin,T20,Average,row_491,491,family_24
+P001,82,2023-08-13,1,29,15,193.33333333333334,Out,Caught,Good,Middle,Sweep,Left-arm Orthodox,T20,Average,row_492,492,family_24
+P007,82,2023-08-13,1,16,13,123.07692307692308,Out,Caught,Good,Middle,Lofted Shot,Right-arm Fast,T20,Average,row_493,493,family_24
+P004,82,2023-08-13,1,3,5,60.0,Out,LBW,Good,Outside Off,Pull,Leg Spin,T20,Poor,row_494,494,family_24
+P003,82,2023-08-13,1,29,25,116.0,Not Out,Not Out,NA,NA,NA,NA,T20,Average,row_495,495,family_24
+P005,82,2023-08-13,1,1,2,50.0,Not Out,Not Out,NA,NA,NA,NA,T20,Poor,row_496,496,family_24
+P006,83,2023-08-17,2,11,10,110.0,Out,Bowled,Good,Off Stump,Defensive,Right-arm Medium,ODI,Poor,row_497,497,family_2
+P008,83,2023-08-17,2,65,67,97.01492537313433,Out,Caught,Short,Middle,Flick,Right-arm Fast,ODI,Good,row_498,498,family_2
+P001,83,2023-08-17,2,0,0,0.0,Out,Run Out,NA,NA,NA,NA,ODI,Poor,row_499,499,family_2
+P007,83,2023-08-17,2,111,83,133.73493975903614,Out,Caught,Good,Middle,Lofted Shot,Left-arm Medium,ODI,Good,row_500,500,family_2
+P004,83,2023-08-17,2,68,46,147.82608695652175,Out,Caught,Good,Middle,Lofted Shot,Left-arm Orthodox,ODI,Good,row_501,501,family_2
+P005,83,2023-08-17,2,32,17,188.23529411764707,Not Out,Not Out,NA,NA,NA,NA,ODI,Average,row_502,502,family_2
+P006,84,2023-08-21,2,20,14,142.85714285714286,Out,Bowled,Good,Off Stump,Defensive,Right-arm Medium,ODI,Average,row_503,503,family_2
+P008,84,2023-08-21,2,121,111,109.009009009009,Out,Caught,Short,Middle,Flick,Right-arm Fast,ODI,Good,row_504,504,family_2
+P001,84,2023-08-21,2,0,0,0.0,Out,Run Out,NA,NA,NA,NA,ODI,Poor,row_505,505,family_2
+P007,84,2023-08-21,2,100,68,147.05882352941177,Out,Caught,Good,Middle,Lofted Shot,Left-arm Medium,ODI,Good,row_506,506,family_2
+P004,84,2023-08-21,2,167,76,219.73684210526315,Out,Caught,Good,Middle,Lofted Shot,Left-arm Orthodox,ODI,Good,row_507,507,family_2
+P005,84,2023-08-21,2,69,28,246.42857142857142,Not Out,Not Out,NA,NA,NA,NA,ODI,Good,row_508,508,family_2
+P002,85,2023-08-25,1,50,49,102.04081632653062,Out,Caught,Good,Outside Off,Sweep,Left-arm Medium,ODI,Good,row_509,509,family_20
+P009,85,2023-08-25,1,22,33,66.66666666666667,Out,Bowled,Full,Down Leg,Sweep,Leg Spin,ODI,Average,row_510,510,family_20
+P001,85,2023-08-25,1,119,136,87.5,Not Out,Not Out,NA,NA,NA,NA,ODI,Good,row_511,511,family_20
+P012,85,2023-08-25,1,21,38,55.26315789473684,Out,LBW,Full,Middle,Other,Leg Spin,ODI,Average,row_512,512,family_20
+P003,85,2023-08-25,1,17,17,100.0,Out,Caught,Full,Off Stump,Sweep,Leg Spin,ODI,Poor,row_513,513,family_20
+P005,85,2023-08-25,1,55,55,100.0,Out,Caught,Short,Middle,Drive,Leg Spin,ODI,Good,row_514,514,family_20
+P007,85,2023-08-25,1,13,13,100.0,Out,Caught,Good,Outside Off,Lofted Shot,Left-arm Orthodox,ODI,Poor,row_515,515,family_20
+P006,86,2023-08-29,2,13,29,44.827586206896555,Out,Caught,Full,Off Stump,Drive,Left-arm Fast,ODI,Poor,row_516,516,family_1
+P008,86,2023-08-29,2,5,6,83.33333333333333,Out,Caught,Bouncer,Middle,Pull,Right-arm Fast,ODI,Poor,row_517,517,family_1
+P001,86,2023-08-29,2,14,34,41.1764705882353,Out,Caught,Short,Outside Off,Cut,Right-arm Medium,ODI,Poor,row_518,518,family_1
+P007,86,2023-08-29,2,89,110,80.9090909090909,Out,Caught,Good,Outside Off,Drive,Right-arm Medium,ODI,Good,row_519,519,family_1
+P005,86,2023-08-29,2,86,93,92.47311827956989,Out,Caught,Good,Middle,Flick,Right-arm Fast,ODI,Good,row_520,520,family_1
+P004,86,2023-08-29,2,31,22,140.9090909090909,Out,Caught,Full,Middle,Lofted Shot,Left-arm Fast,ODI,Average,row_521,521,family_1
+P011,87,2023-09-02,1,0,19,0.0,Out,Caught,Good,Middle,Flick,Right-arm Fast,Test,Poor,row_522,522,family_19
+P006,87,2023-09-02,1,44,99,44.44444444444444,Out,Stumped,Full,Down Leg,Flick,Right-arm Medium,Test,Average,row_523,523,family_19
+P012,87,2023-09-02,1,33,97,34.02061855670103,Out,Caught,Full,Middle,Defensive,Right-arm Medium,Test,Average,row_524,524,family_19
+P001,87,2023-09-02,1,54,111,48.648648648648646,Out,Bowled,Good,Off Stump,Sweep,Right-arm Medium,Test,Good,row_525,525,family_19
+P011,87,2023-09-02,3,90,141,63.829787234042556,Out,Caught,Full,Outside Off,Cut,Right-arm Medium,Test,Good,row_526,526,family_19
+P006,87,2023-09-02,3,50,60,83.33333333333333,Out,Caught,Good,Outside Off,Lofted Shot,Right-arm Fast,Test,Good,row_527,527,family_19
+P012,87,2023-09-02,3,16,29,55.172413793103445,Out,Caught,Full,Outside Off,Lofted Shot,Off Spin,Test,Poor,row_528,528,family_19
+P001,87,2023-09-02,3,1,2,50.0,Out,Caught,Good,Off Stump,Cut,Right-arm Medium,Test,Poor,row_529,529,family_19
+P002,88,2023-09-06,2,29,27,107.4074074074074,Out,Caught,Bouncer,Outside Off,Pull,Right-arm Medium,ODI,Average,row_530,530,family_22
+P009,88,2023-09-06,2,43,33,130.3030303030303,Out,Caught,Short,Outside Off,Cut,Off Spin,ODI,Average,row_531,531,family_22
+P001,88,2023-09-06,2,21,10,210.0,Out,Caught,Full,Off Stump,Lofted Shot,Right-arm Medium,ODI,Average,row_532,532,family_22
+P007,88,2023-09-06,2,175,162,108.0246913580247,Out,Bowled,Yorker,Leg Stump,Flick,Left-arm Medium,ODI,Good,row_533,533,family_22
+P003,88,2023-09-06,2,14,19,73.6842105263158,Out,Caught,Good,Outside Off,Pull,Leg Spin,ODI,Poor,row_534,534,family_22
+P005,88,2023-09-06,2,20,33,60.60606060606061,Out,Run Out,NA,NA,NA,NA,ODI,Average,row_535,535,family_22
+P012,88,2023-09-06,2,14,19,73.6842105263158,Out,Caught,Full,Outside Off,Sweep,Off Spin,ODI,Poor,row_536,536,family_22
+P001,89,2023-09-10,1,2,4,50.0,Out,Caught,Full,Outside Off,Cut,Left-arm Fast,T20,Poor,row_537,537,family_3
+P009,89,2023-09-10,1,4,8,50.0,Out,Caught,Good,Outside Off,Pull,Right-arm Medium,T20,Poor,row_538,538,family_3
+P006,89,2023-09-10,1,22,19,115.78947368421052,Out,Caught,Good,Outside Off,Lofted Shot,Off Spin,T20,Average,row_539,539,family_3
+P004,89,2023-09-10,1,16,14,114.28571428571429,Out,Caught,Short,Middle,Hook,Leg Spin,T20,Average,row_540,540,family_3
+P002,90,2023-09-14,1,16,26,61.53846153846154,Out,LBW,Full,Middle,Flick,Right-arm Medium,ODI,Poor,row_541,541,family_10
+P006,90,2023-09-14,1,82,89,92.13483146067416,Out,Caught,Good,Middle,Lofted Shot,Right-arm Medium,ODI,Good,row_542,542,family_10
+P001,90,2023-09-14,1,100,69,144.92753623188406,Out,Caught,Good,Leg Stump,Sweep,Leg Spin,ODI,Good,row_543,543,family_10
+P007,90,2023-09-14,1,43,31,138.70967741935485,Out,Run Out,NA,NA,NA,NA,ODI,Average,row_544,544,family_10
+P003,90,2023-09-14,1,8,16,50.0,Out,Caught,Full,Leg Stump,Sweep,Leg Spin,ODI,Poor,row_545,545,family_10
+P005,90,2023-09-14,1,32,26,123.07692307692308,Out,Caught,Short,Outside Off,Drive,Right-arm Fast,ODI,Average,row_546,546,family_10
+P002,91,2023-09-18,1,19,37,51.351351351351354,Out,Caught,Good,Outside Off,Drive,Leg Spin,ODI,Poor,row_547,547,family_21
+P009,91,2023-09-18,1,4,11,36.36363636363637,Out,Caught,Full,Outside Off,Drive,Right-arm Medium,ODI,Poor,row_548,548,family_21
+P001,91,2023-09-18,1,20,47,42.5531914893617,Out,Run Out,NA,NA,NA,NA,ODI,Average,row_549,549,family_21
+P012,91,2023-09-18,1,44,71,61.971830985915496,Out,Caught,Full,Middle,Lofted Shot,Left-arm Orthodox,ODI,Average,row_550,550,family_21
+P003,91,2023-09-18,1,115,93,123.65591397849462,Out,Caught,Full,Outside Off,Sweep,Leg Spin,ODI,Good,row_551,551,family_21
+P005,91,2023-09-18,1,20,16,125.0,Out,Caught,Good,Middle,Flick,Right-arm Medium,ODI,Average,row_552,552,family_21
+P007,91,2023-09-18,1,50,50,100.0,Out,Caught,Good,Middle,Flick,Off Spin,ODI,Good,row_553,553,family_21
+P002,92,2023-09-22,2,22,13,169.23076923076923,Out,Caught,Full,Outside Off,Lofted Shot,Left-arm Orthodox,T20,Average,row_554,554,family_25
+P009,92,2023-09-22,2,1,2,50.0,Out,Caught,Bouncer,Middle,Pull,Right-arm Fast,T20,Poor,row_555,555,family_25
+P001,92,2023-09-22,2,21,23,91.30434782608695,Out,Caught,Full,Down Leg,Sweep,Off Spin,T20,Average,row_556,556,family_25
+P007,92,2023-09-22,2,10,16,62.5,Out,Bowled,Good,Off Stump,Drive,Leg Spin,T20,Poor,row_557,557,family_25
+P006,92,2023-09-22,2,23,15,153.33333333333334,Out,LBW,Good,Middle,Flick,Off Spin,T20,Average,row_558,558,family_25
+P005,92,2023-09-22,2,16,21,76.19047619047619,Out,Caught,Full,Leg Stump,Sweep,Off Spin,T20,Average,row_559,559,family_25
+P004,92,2023-09-22,2,5,4,125.0,Out,Stumped,Short,Outside Off,Lofted Shot,Left-arm Orthodox,T20,Poor,row_560,560,family_25
+P002,93,2023-09-26,2,9,9,100.0,Out,Caught,Good,Off Stump,Pull,Off Spin,T20,Poor,row_561,561,family_6
+P009,93,2023-09-26,2,12,16,75.0,Out,Bowled,Full,Off Stump,Flick,Right-arm Medium,T20,Poor,row_562,562,family_6
+P003,93,2023-09-26,2,9,9,100.0,Out,Caught,Good,Middle,Lofted Shot,Left-arm Orthodox,T20,Poor,row_563,563,family_6
+P004,93,2023-09-26,2,17,10,170.0,Out,Caught,Good,Middle,Defensive,Leg Spin,T20,Average,row_564,564,family_6
+P006,93,2023-09-26,2,0,9,0.0,Out,Caught,Good,Outside Off,Lofted Shot,Right-arm Medium,T20,Poor,row_565,565,family_6
+P002,94,2023-09-30,2,1,4,25.0,Out,Caught,Good,Off Stump,Defensive,Right-arm Medium,ODI,Poor,row_566,566,family_11
+P006,94,2023-09-30,2,12,20,60.0,Out,Caught,Good,Middle,Flick,Right-arm Fast,ODI,Poor,row_567,567,family_11
+P001,94,2023-09-30,2,38,29,131.0344827586207,Out,Caught,Short,Outside Off,Hook,Right-arm Fast,ODI,Average,row_568,568,family_11
+P007,94,2023-09-30,2,17,25,68.0,Out,Run Out,NA,NA,NA,NA,ODI,Poor,row_569,569,family_11
+P003,94,2023-09-30,2,8,22,36.36363636363637,Out,Caught,Short,Outside Off,Pull,Off Spin,ODI,Poor,row_570,570,family_11
+P005,94,2023-09-30,2,23,20,115.0,Out,Caught,Bouncer,Middle,Pull,Right-arm Fast,ODI,Average,row_571,571,family_11
+P002,95,2023-10-04,1,3,5,60.0,Out,Caught,Good,Outside Off,Drive,Right-arm Fast,Test,Poor,row_572,572,family_18
+P011,95,2023-10-04,1,40,50,80.0,Out,Bowled,Full,Off Stump,Flick,Right-arm Fast,Test,Average,row_573,573,family_18
+P006,95,2023-10-04,1,0,1,0.0,Out,Caught,Good,Middle,Drive,Right-arm Fast,Test,Poor,row_574,574,family_18
+P012,95,2023-10-04,1,104,174,59.770114942528735,Out,Caught,Good,Middle,Defensive,Right-arm Medium,Test,Good,row_575,575,family_18
+P001,95,2023-10-04,1,0,5,0.0,Out,Caught,Good,Outside Off,Drive,Right-arm Fast,Test,Poor,row_576,576,family_18
+P002,95,2023-10-04,3,4,8,50.0,Out,Caught,Good,Outside Off,Drive,Right-arm Medium,Test,Poor,row_577,577,family_18
+P011,95,2023-10-04,3,74,93,79.56989247311827,Out,Caught,Short,Outside Off,Cut,Right-arm Fast,Test,Good,row_578,578,family_18
+P006,95,2023-10-04,3,4,22,18.181818181818183,Out,Bowled,Good,Off Stump,Leave,Right-arm Fast,Test,Poor,row_579,579,family_18
+P012,95,2023-10-04,3,0,3,0.0,Out,LBW,Good,Outside Off,Defensive,Right-arm Fast,Test,Poor,row_580,580,family_18
+P001,95,2023-10-04,3,1,11,9.090909090909092,Out,Bowled,Good,Outside Off,Leave,Right-arm Medium,Test,Poor,row_581,581,family_18
+P002,96,2023-10-08,1,43,25,172.0,Out,Caught,Short,Middle,Pull,Right-arm Fast,T20,Good,row_582,582,family_7
+P009,96,2023-10-08,1,0,2,0.0,Out,Caught,Good,Middle,Drive,Left-arm Orthodox,T20,Poor,row_583,583,family_7
+P003,96,2023-10-08,1,40,48,83.33333333333333,Out,Caught,Good,Off Stump,Lofted Shot,Leg Spin,T20,Average,row_584,584,family_7
+P006,96,2023-10-08,1,17,9,188.88888888888889,Out,Bowled,Short,Outside Off,Cut,Right-arm Fast,T20,Average,row_585,585,family_7
+P004,96,2023-10-08,1,4,3,133.33333333333334,Out,Caught,Short,Middle,Pull,Left-arm Orthodox,T20,Poor,row_586,586,family_7
+P002,97,2023-10-12,1,55,55,100.0,Out,Caught,Good,Off Stump,Flick,Off Spin,ODI,Good,row_587,587,family_14
+P006,97,2023-10-12,1,6,14,42.857142857142854,Out,Caught,Short,Off Stump,Pull,Right-arm Medium,ODI,Poor,row_588,588,family_14
+P001,97,2023-10-12,1,88,74,118.91891891891892,Out,Caught,NA,Leg Stump,Sweep,Right-arm Fast,ODI,Good,row_589,589,family_14
+P007,97,2023-10-12,1,25,25,100.0,Out,Caught,Full,Off Stump,Sweep,Off Spin,ODI,Average,row_590,590,family_14
+P003,97,2023-10-12,1,35,41,85.36585365853658,Out,Caught,Yorker,Leg Stump,Lofted Shot,Right-arm Fast,ODI,Average,row_591,591,family_14
+P005,97,2023-10-12,1,69,37,186.48648648648648,Not Out,Not Out,NA,NA,NA,NA,ODI,Good,row_592,592,family_14
+P001,98,2023-10-16,2,72,43,167.4418604651163,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_593,593,family_5
+P006,98,2023-10-16,2,50,31,161.29032258064515,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_594,594,family_5
+P001,99,2023-10-20,1,0,2,0.0,Out,Caught,Full,Outside Off,Cut,Left-arm Fast,T20,Poor,row_595,595,family_3
+P009,99,2023-10-20,1,5,9,55.55555555555556,Out,Caught,Good,Outside Off,Pull,Right-arm Medium,T20,Poor,row_596,596,family_3
+P006,99,2023-10-20,1,21,24,87.5,Out,Caught,Good,Outside Off,Lofted Shot,Off Spin,T20,Average,row_597,597,family_3
+P004,99,2023-10-20,1,15,16,93.75,Out,Caught,Short,Middle,Hook,Leg Spin,T20,Average,row_598,598,family_3
+P006,100,2023-10-24,2,37,36,102.77777777777777,Out,Bowled,Good,Off Stump,Defensive,Right-arm Medium,ODI,Average,row_599,599,family_2
+P008,100,2023-10-24,2,88,62,141.93548387096774,Out,Caught,Short,Middle,Flick,Right-arm Fast,ODI,Good,row_600,600,family_2
+P001,100,2023-10-24,2,0,0,0.0,Out,Run Out,NA,NA,NA,NA,ODI,Poor,row_601,601,family_2
+P007,100,2023-10-24,2,196,145,135.17241379310346,Out,Caught,Good,Middle,Lofted Shot,Left-arm Medium,ODI,Good,row_602,602,family_2
+P004,100,2023-10-24,2,39,28,139.28571428571428,Out,Caught,Good,Middle,Lofted Shot,Left-arm Orthodox,ODI,Average,row_603,603,family_2
+P005,100,2023-10-24,2,36,13,276.9230769230769,Not Out,Not Out,NA,NA,NA,NA,ODI,Average,row_604,604,family_2
+P011,101,2023-10-28,2,6,18,33.333333333333336,Out,Caught,Good,Off Stump,Defensive,Left-arm Orthodox,Test,Poor,row_605,605,family_12
+P006,101,2023-10-28,2,30,48,62.5,Out,Caught,Full,Off Stump,Drive,Leg Spin,Test,Average,row_606,606,family_12
+P012,101,2023-10-28,2,12,31,38.70967741935484,Out,Caught,Good,Middle,Defensive,Left-arm Orthodox,Test,Poor,row_607,607,family_12
+P006,101,2023-10-28,4,1,12,8.333333333333334,Out,Caught,Bouncer,Off Stump,Defensive,Right-arm Fast,Test,Poor,row_608,608,family_12
+P012,101,2023-10-28,4,32,87,36.7816091954023,Out,Caught,Full,Middle,Sweep,Left-arm Orthodox,Test,Average,row_609,609,family_12
+P002,102,2023-11-01,1,0,5,0.0,Out,Caught,Good,Outside Off,Drive,Right-arm Fast,Test,Poor,row_610,610,family_18
+P011,102,2023-11-01,1,53,50,106.0,Out,Bowled,Full,Off Stump,Flick,Right-arm Fast,Test,Good,row_611,611,family_18
+P006,102,2023-11-01,1,1,1,100.0,Out,Caught,Good,Middle,Drive,Right-arm Fast,Test,Poor,row_612,612,family_18
+P012,102,2023-11-01,1,81,142,57.04225352112676,Out,Caught,Good,Middle,Defensive,Right-arm Medium,Test,Good,row_613,613,family_18
+P001,102,2023-11-01,1,1,4,25.0,Out,Caught,Good,Outside Off,Drive,Right-arm Fast,Test,Poor,row_614,614,family_18
+P002,102,2023-11-01,3,3,7,42.857142857142854,Out,Caught,Good,Outside Off,Drive,Right-arm Medium,Test,Poor,row_615,615,family_18
+P011,102,2023-11-01,3,42,58,72.41379310344827,Out,Caught,Short,Outside Off,Cut,Right-arm Fast,Test,Average,row_616,616,family_18
+P006,102,2023-11-01,3,7,24,29.166666666666668,Out,Bowled,Good,Off Stump,Leave,Right-arm Fast,Test,Poor,row_617,617,family_18
+P012,102,2023-11-01,3,1,12,8.333333333333334,Out,LBW,Good,Outside Off,Defensive,Right-arm Fast,Test,Poor,row_618,618,family_18
+P001,102,2023-11-01,3,9,16,56.25,Out,Bowled,Good,Outside Off,Leave,Right-arm Medium,Test,Poor,row_619,619,family_18
+P002,103,2023-11-05,2,36,40,90.0,Out,Caught,Good,Outside Off,Defensive,Right-arm Medium,ODI,Average,row_620,620,family_9
+P006,103,2023-11-05,2,20,23,86.95652173913044,Out,Caught,Short,Outside Off,Pull,Right-arm Fast,ODI,Average,row_621,621,family_9
+P001,103,2023-11-05,2,32,51,62.745098039215684,Out,LBW,Good,Off Stump,Flick,Off Spin,ODI,Average,row_622,622,family_9
+P007,103,2023-11-05,2,11,15,73.33333333333333,Out,Caught,Full,Outside Off,Drive,Right-arm Fast,ODI,Poor,row_623,623,family_9
+P003,103,2023-11-05,2,1,3,33.333333333333336,Out,LBW,Good,Middle,Defensive,Off Spin,ODI,Poor,row_624,624,family_9
+P005,103,2023-11-05,2,7,13,53.84615384615385,Out,Caught,Short,Outside Off,Cut,Right-arm Fast,ODI,Poor,row_625,625,family_9
+P002,104,2023-11-09,1,16,11,145.45454545454547,Out,Bowled,Full,Leg Stump,Flick,Right-arm Medium,T20,Average,row_626,626,family_15
+P001,104,2023-11-09,1,41,27,151.85185185185185,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Good,row_627,627,family_15
+P007,104,2023-11-09,1,4,5,80.0,Out,Caught,Good,Middle,Lofted Shot,Right-arm Fast,T20,Poor,row_628,628,family_15
+P006,104,2023-11-09,1,152,77,197.4025974025974,Out,Run Out,NA,NA,NA,NA,T20,Good,row_629,629,family_15
+P004,104,2023-11-09,1,27,34,79.41176470588235,Out,Caught,Full,Middle,Sweep,Off Spin,T20,Average,row_630,630,family_15
+P002,105,2023-11-13,1,7,13,53.84615384615385,Out,Caught,Full,Down Leg,Lofted Shot,Right-arm Medium,T20,Poor,row_631,631,family_16
+P001,105,2023-11-13,1,38,21,180.95238095238096,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Good,row_632,632,family_16
+P009,105,2023-11-13,1,66,46,143.47826086956522,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_633,633,family_16
+P007,105,2023-11-13,1,0,5,0.0,Out,Caught,Good,Off Stump,Cut,Right-arm Medium,T20,Poor,row_634,634,family_16
+P006,105,2023-11-13,1,18,20,90.0,Out,Caught,Short,Off Stump,Cut,Right-arm Medium,T20,Average,row_635,635,family_16
+P004,105,2023-11-13,1,48,24,200.0,Out,Caught,Full,Leg Stump,Flick,Right-arm Fast,T20,Good,row_636,636,family_16
+P002,106,2023-11-17,2,34,51,66.66666666666667,Out,Caught,Good,Outside Off,Defensive,Right-arm Medium,ODI,Average,row_637,637,family_9
+P006,106,2023-11-17,2,12,23,52.17391304347826,Out,Caught,Short,Outside Off,Pull,Right-arm Fast,ODI,Poor,row_638,638,family_9
+P001,106,2023-11-17,2,45,39,115.38461538461539,Out,LBW,Good,Off Stump,Flick,Off Spin,ODI,Average,row_639,639,family_9
+P007,106,2023-11-17,2,13,21,61.904761904761905,Out,Caught,Full,Outside Off,Drive,Right-arm Fast,ODI,Poor,row_640,640,family_9
+P003,106,2023-11-17,2,1,3,33.333333333333336,Out,LBW,Good,Middle,Defensive,Off Spin,ODI,Poor,row_641,641,family_9
+P005,106,2023-11-17,2,6,10,60.0,Out,Caught,Short,Outside Off,Cut,Right-arm Fast,ODI,Poor,row_642,642,family_9
+P002,107,2023-11-21,1,64,29,220.68965517241378,Out,Caught,Short,Middle,Pull,Right-arm Fast,T20,Good,row_643,643,family_7
+P009,107,2023-11-21,1,0,2,0.0,Out,Caught,Good,Middle,Drive,Left-arm Orthodox,T20,Poor,row_644,644,family_7
+P003,107,2023-11-21,1,21,21,100.0,Out,Caught,Good,Off Stump,Lofted Shot,Leg Spin,T20,Average,row_645,645,family_7
+P006,107,2023-11-21,1,11,9,122.22222222222223,Out,Bowled,Short,Outside Off,Cut,Right-arm Fast,T20,Poor,row_646,646,family_7
+P004,107,2023-11-21,1,5,5,100.0,Out,Caught,Short,Middle,Pull,Left-arm Orthodox,T20,Poor,row_647,647,family_7
+P002,108,2023-11-25,1,17,14,121.42857142857143,Out,Caught,Short,Off Stump,Pull,Off Spin,T20,Average,row_648,648,family_8
+P009,108,2023-11-25,1,4,6,66.66666666666667,Out,Caught,Full,Outside Off,Lofted Shot,Off Spin,T20,Poor,row_649,649,family_8
+P003,108,2023-11-25,1,14,12,116.66666666666667,Out,Run Out,NA,NA,NA,NA,T20,Poor,row_650,650,family_8
+P006,108,2023-11-25,1,36,25,144.0,Out,Caught,Short,Outside Off,Pull,Right-arm Fast,T20,Good,row_651,651,family_8
+P004,108,2023-11-25,1,12,13,92.3076923076923,Out,Caught,Short,Outside Off,Cut,Left-arm Orthodox,T20,Poor,row_652,652,family_8
+P002,109,2023-11-29,1,3,5,60.0,Out,Caught,Full,Down Leg,Lofted Shot,Right-arm Medium,T20,Poor,row_653,653,family_16
+P001,109,2023-11-29,1,67,31,216.1290322580645,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Good,row_654,654,family_16
+P009,109,2023-11-29,1,71,44,161.36363636363637,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_655,655,family_16
+P007,109,2023-11-29,1,1,5,20.0,Out,Caught,Good,Off Stump,Cut,Right-arm Medium,T20,Poor,row_656,656,family_16
+P006,109,2023-11-29,1,16,17,94.11764705882354,Out,Caught,Short,Off Stump,Cut,Right-arm Medium,T20,Average,row_657,657,family_16
+P004,109,2023-11-29,1,33,19,173.68421052631578,Out,Caught,Full,Leg Stump,Flick,Right-arm Fast,T20,Good,row_658,658,family_16
+P002,110,2023-12-03,1,29,36,80.55555555555556,Out,LBW,Full,Middle,Flick,Right-arm Medium,ODI,Average,row_659,659,family_10
+P006,110,2023-12-03,1,34,44,77.27272727272727,Out,Caught,Good,Middle,Lofted Shot,Right-arm Medium,ODI,Average,row_660,660,family_10
+P001,110,2023-12-03,1,106,122,86.88524590163935,Out,Caught,Good,Leg Stump,Sweep,Leg Spin,ODI,Good,row_661,661,family_10
+P007,110,2023-12-03,1,72,57,126.3157894736842,Out,Run Out,NA,NA,NA,NA,ODI,Good,row_662,662,family_10
+P003,110,2023-12-03,1,10,16,62.5,Out,Caught,Full,Leg Stump,Sweep,Leg Spin,ODI,Poor,row_663,663,family_10
+P005,110,2023-12-03,1,25,16,156.25,Out,Caught,Short,Outside Off,Drive,Right-arm Fast,ODI,Average,row_664,664,family_10
+P002,111,2023-12-07,1,4,7,57.142857142857146,Out,Caught,Full,Down Leg,Lofted Shot,Right-arm Medium,T20,Poor,row_665,665,family_16
+P001,111,2023-12-07,1,22,20,110.0,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Average,row_666,666,family_16
+P009,111,2023-12-07,1,52,30,173.33333333333334,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_667,667,family_16
+P007,111,2023-12-07,1,0,4,0.0,Out,Caught,Good,Off Stump,Cut,Right-arm Medium,T20,Poor,row_668,668,family_16
+P006,111,2023-12-07,1,17,15,113.33333333333333,Out,Caught,Short,Off Stump,Cut,Right-arm Medium,T20,Average,row_669,669,family_16
+P004,111,2023-12-07,1,79,36,219.44444444444446,Out,Caught,Full,Leg Stump,Flick,Right-arm Fast,T20,Good,row_670,670,family_16
+P009,112,2023-12-11,2,91,69,131.8840579710145,Out,Caught,Bouncer,Leg Stump,Hook,Right-arm Fast,Test,Good,row_671,671,family_13
+P006,112,2023-12-11,2,39,78,50.0,Out,Caught,Short,Middle,Pull,Right-arm Fast,Test,Average,row_672,672,family_13
+P012,112,2023-12-11,2,4,17,23.529411764705884,Out,Caught,Full,Middle,Defensive,Left-arm Orthodox,Test,Poor,row_673,673,family_13
+P009,112,2023-12-11,3,30,49,61.224489795918366,Out,LBW,Full,Middle,Sweep,Left-arm Orthodox,Test,Average,row_674,674,family_13
+P006,112,2023-12-11,3,46,89,51.68539325842696,Out,Caught,Bouncer,Leg Stump,Pull,Right-arm Fast,Test,Average,row_675,675,family_13
+P012,112,2023-12-11,3,21,37,56.75675675675676,Out,Caught,Full,Off Stump,Flick,Left-arm Orthodox,Test,Average,row_676,676,family_13
+P011,113,2023-12-15,1,1,14,7.142857142857143,Out,Caught,Good,Middle,Flick,Right-arm Fast,Test,Poor,row_677,677,family_19
+P006,113,2023-12-15,1,74,106,69.81132075471699,Out,Stumped,Full,Down Leg,Flick,Right-arm Medium,Test,Good,row_678,678,family_19
+P012,113,2023-12-15,1,24,76,31.57894736842105,Out,Caught,Full,Middle,Defensive,Right-arm Medium,Test,Average,row_679,679,family_19
+P001,113,2023-12-15,1,97,125,77.6,Out,Bowled,Good,Off Stump,Sweep,Right-arm Medium,Test,Good,row_680,680,family_19
+P011,113,2023-12-15,3,76,103,73.7864077669903,Out,Caught,Full,Outside Off,Cut,Right-arm Medium,Test,Good,row_681,681,family_19
+P006,113,2023-12-15,3,33,62,53.225806451612904,Out,Caught,Good,Outside Off,Lofted Shot,Right-arm Fast,Test,Average,row_682,682,family_19
+P012,113,2023-12-15,3,14,18,77.77777777777777,Out,Caught,Full,Outside Off,Lofted Shot,Off Spin,Test,Poor,row_683,683,family_19
+P001,113,2023-12-15,3,1,2,50.0,Out,Caught,Good,Off Stump,Cut,Right-arm Medium,Test,Poor,row_684,684,family_19
+P002,114,2023-12-19,2,22,9,244.44444444444446,Out,Caught,Full,Outside Off,Lofted Shot,Left-arm Orthodox,T20,Average,row_685,685,family_25
+P009,114,2023-12-19,2,0,1,0.0,Out,Caught,Bouncer,Middle,Pull,Right-arm Fast,T20,Poor,row_686,686,family_25
+P001,114,2023-12-19,2,16,16,100.0,Out,Caught,Full,Down Leg,Sweep,Off Spin,T20,Average,row_687,687,family_25
+P007,114,2023-12-19,2,21,21,100.0,Out,Bowled,Good,Off Stump,Drive,Leg Spin,T20,Average,row_688,688,family_25
+P006,114,2023-12-19,2,14,14,100.0,Out,LBW,Good,Middle,Flick,Off Spin,T20,Poor,row_689,689,family_25
+P005,114,2023-12-19,2,18,23,78.26086956521739,Out,Caught,Full,Leg Stump,Sweep,Off Spin,T20,Average,row_690,690,family_25
+P004,114,2023-12-19,2,4,5,80.0,Out,Stumped,Short,Outside Off,Lofted Shot,Left-arm Orthodox,T20,Poor,row_691,691,family_25
+P001,115,2023-12-23,2,112,75,149.33333333333334,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_692,692,family_5
+P006,115,2023-12-23,2,40,24,166.66666666666666,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_693,693,family_5
+P011,116,2023-12-27,2,4,15,26.666666666666668,Out,Caught,Good,Off Stump,Defensive,Left-arm Orthodox,Test,Poor,row_694,694,family_12
+P006,116,2023-12-27,2,8,21,38.095238095238095,Out,Caught,Full,Off Stump,Drive,Leg Spin,Test,Poor,row_695,695,family_12
+P012,116,2023-12-27,2,17,36,47.22222222222222,Out,Caught,Good,Middle,Defensive,Left-arm Orthodox,Test,Poor,row_696,696,family_12
+P006,116,2023-12-27,4,1,14,7.142857142857143,Out,Caught,Bouncer,Off Stump,Defensive,Right-arm Fast,Test,Poor,row_697,697,family_12
+P012,116,2023-12-27,4,83,184,45.108695652173914,Out,Caught,Full,Middle,Sweep,Left-arm Orthodox,Test,Good,row_698,698,family_12
+P002,117,2023-12-31,1,10,16,62.5,Out,Caught,Full,Down Leg,Lofted Shot,Right-arm Medium,T20,Poor,row_699,699,family_16
+P001,117,2023-12-31,1,23,12,191.66666666666666,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Average,row_700,700,family_16
+P009,117,2023-12-31,1,65,44,147.72727272727272,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_701,701,family_16
+P007,117,2023-12-31,1,0,11,0.0,Out,Caught,Good,Off Stump,Cut,Right-arm Medium,T20,Poor,row_702,702,family_16
+P006,117,2023-12-31,1,20,18,111.11111111111111,Out,Caught,Short,Off Stump,Cut,Right-arm Medium,T20,Average,row_703,703,family_16
+P004,117,2023-12-31,1,57,20,285.0,Out,Caught,Full,Leg Stump,Flick,Right-arm Fast,T20,Good,row_704,704,family_16
+P002,118,2024-01-04,1,22,16,137.5,Out,Caught,Full,Outside Off,Sweep,Leg Spin,T20,Average,row_705,705,family_23
+P009,118,2024-01-04,1,14,7,200.0,Out,Caught,Short,Middle,Pull,Right-arm Medium,T20,Poor,row_706,706,family_23
+P001,118,2024-01-04,1,31,25,124.0,Out,Caught,Good,Middle,Lofted Shot,Leg Spin,T20,Good,row_707,707,family_23
+P003,118,2024-01-04,1,1,2,50.0,Out,Caught,Full,Outside Off,Sweep,Left-arm Orthodox,T20,Poor,row_708,708,family_23
+P012,118,2024-01-04,1,6,7,85.71428571428571,Out,Caught,Good,Middle,Sweep,Leg Spin,T20,Poor,row_709,709,family_23
+P005,118,2024-01-04,1,2,2,100.0,Out,LBW,Full,Middle,Defensive,Left-arm Orthodox,T20,Poor,row_710,710,family_23
+P004,118,2024-01-04,1,19,13,146.15384615384616,Out,Caught,Yorker,Off Stump,Lofted Shot,Left-arm Medium,T20,Average,row_711,711,family_23
+P002,119,2024-01-08,2,14,9,155.55555555555554,Out,Caught,Good,Off Stump,Pull,Off Spin,T20,Poor,row_712,712,family_6
+P009,119,2024-01-08,2,10,15,66.66666666666667,Out,Bowled,Full,Off Stump,Flick,Right-arm Medium,T20,Poor,row_713,713,family_6
+P003,119,2024-01-08,2,3,6,50.0,Out,Caught,Good,Middle,Lofted Shot,Left-arm Orthodox,T20,Poor,row_714,714,family_6
+P004,119,2024-01-08,2,16,11,145.45454545454547,Out,Caught,Good,Middle,Defensive,Leg Spin,T20,Average,row_715,715,family_6
+P006,119,2024-01-08,2,2,10,20.0,Out,Caught,Good,Outside Off,Lofted Shot,Right-arm Medium,T20,Poor,row_716,716,family_6
+P002,120,2024-01-12,1,42,17,247.05882352941177,Out,Bowled,Short,Off Stump,Cut,Right-arm Fast,T20,Good,row_717,717,family_24
+P009,120,2024-01-12,1,38,21,180.95238095238096,Out,Caught,Full,Leg Stump,Lofted Shot,Off Spin,T20,Good,row_718,718,family_24
+P001,120,2024-01-12,1,47,21,223.8095238095238,Out,Caught,Good,Middle,Sweep,Left-arm Orthodox,T20,Good,row_719,719,family_24
+P007,120,2024-01-12,1,30,18,166.66666666666666,Out,Caught,Good,Middle,Lofted Shot,Right-arm Fast,T20,Good,row_720,720,family_24
+P004,120,2024-01-12,1,0,9,0.0,Out,LBW,Good,Outside Off,Pull,Leg Spin,T20,Poor,row_721,721,family_24
+P003,120,2024-01-12,1,32,23,139.1304347826087,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_722,722,family_24
+P005,120,2024-01-12,1,1,1,100.0,Not Out,Not Out,NA,NA,NA,NA,T20,Poor,row_723,723,family_24
+P002,121,2024-01-16,1,30,24,125.0,Out,Caught,Short,Off Stump,Pull,Off Spin,T20,Good,row_724,724,family_8
+P009,121,2024-01-16,1,0,6,0.0,Out,Caught,Full,Outside Off,Lofted Shot,Off Spin,T20,Poor,row_725,725,family_8
+P003,121,2024-01-16,1,16,11,145.45454545454547,Out,Run Out,NA,NA,NA,NA,T20,Average,row_726,726,family_8
+P006,121,2024-01-16,1,46,22,209.0909090909091,Out,Caught,Short,Outside Off,Pull,Right-arm Fast,T20,Good,row_727,727,family_8
+P004,121,2024-01-16,1,6,7,85.71428571428571,Out,Caught,Short,Outside Off,Cut,Left-arm Orthodox,T20,Poor,row_728,728,family_8
+P002,122,2024-01-20,1,14,16,87.5,Out,Caught,Full,Outside Off,Sweep,Leg Spin,T20,Poor,row_729,729,family_23
+P009,122,2024-01-20,1,22,10,220.0,Out,Caught,Short,Middle,Pull,Right-arm Medium,T20,Average,row_730,730,family_23
+P001,122,2024-01-20,1,37,19,194.73684210526315,Out,Caught,Good,Middle,Lofted Shot,Leg Spin,T20,Good,row_731,731,family_23
+P003,122,2024-01-20,1,7,6,116.66666666666667,Out,Caught,Full,Outside Off,Sweep,Left-arm Orthodox,T20,Poor,row_732,732,family_23
+P012,122,2024-01-20,1,12,14,85.71428571428571,Out,Caught,Good,Middle,Sweep,Leg Spin,T20,Poor,row_733,733,family_23
+P005,122,2024-01-20,1,0,1,0.0,Out,LBW,Full,Middle,Defensive,Left-arm Orthodox,T20,Poor,row_734,734,family_23
+P004,122,2024-01-20,1,18,18,100.0,Out,Caught,Yorker,Off Stump,Lofted Shot,Left-arm Medium,T20,Average,row_735,735,family_23
+P002,123,2024-01-24,2,75,31,241.93548387096774,Out,Caught,Bouncer,Outside Off,Pull,Right-arm Medium,ODI,Good,row_736,736,family_22
+P009,123,2024-01-24,2,25,17,147.05882352941177,Out,Caught,Short,Outside Off,Cut,Off Spin,ODI,Average,row_737,737,family_22
+P001,123,2024-01-24,2,16,5,320.0,Out,Caught,Full,Off Stump,Lofted Shot,Right-arm Medium,ODI,Poor,row_738,738,family_22
+P007,123,2024-01-24,2,119,117,101.7094017094017,Out,Bowled,Yorker,Leg Stump,Flick,Left-arm Medium,ODI,Good,row_739,739,family_22
+P003,123,2024-01-24,2,11,18,61.111111111111114,Out,Caught,Good,Outside Off,Pull,Leg Spin,ODI,Poor,row_740,740,family_22
+P005,123,2024-01-24,2,23,32,71.875,Out,Run Out,NA,NA,NA,NA,ODI,Average,row_741,741,family_22
+P012,123,2024-01-24,2,11,19,57.89473684210526,Out,Caught,Full,Outside Off,Sweep,Off Spin,ODI,Poor,row_742,742,family_22
+P002,124,2024-01-28,1,5,7,71.42857142857143,Out,Caught,Full,Down Leg,Lofted Shot,Right-arm Medium,T20,Poor,row_743,743,family_16
+P001,124,2024-01-28,1,45,23,195.65217391304347,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Good,row_744,744,family_16
+P009,124,2024-01-28,1,42,29,144.82758620689654,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_745,745,family_16
+P007,124,2024-01-28,1,0,5,0.0,Out,Caught,Good,Off Stump,Cut,Right-arm Medium,T20,Poor,row_746,746,family_16
+P006,124,2024-01-28,1,14,13,107.6923076923077,Out,Caught,Short,Off Stump,Cut,Right-arm Medium,T20,Poor,row_747,747,family_16
+P004,124,2024-01-28,1,53,20,265.0,Out,Caught,Full,Leg Stump,Flick,Right-arm Fast,T20,Good,row_748,748,family_16
+P006,125,2024-02-01,2,26,16,162.5,Out,Bowled,Good,Off Stump,Defensive,Right-arm Medium,ODI,Average,row_749,749,family_2
+P008,125,2024-02-01,2,120,106,113.20754716981132,Out,Caught,Short,Middle,Flick,Right-arm Fast,ODI,Good,row_750,750,family_2
+P001,125,2024-02-01,2,0,0,0.0,Out,Run Out,NA,NA,NA,NA,ODI,Poor,row_751,751,family_2
+P007,125,2024-02-01,2,122,87,140.22988505747125,Out,Caught,Good,Middle,Lofted Shot,Left-arm Medium,ODI,Good,row_752,752,family_2
+P004,125,2024-02-01,2,132,61,216.39344262295083,Out,Caught,Good,Middle,Lofted Shot,Left-arm Orthodox,ODI,Good,row_753,753,family_2
+P005,125,2024-02-01,2,102,32,318.75,Not Out,Not Out,NA,NA,NA,NA,ODI,Good,row_754,754,family_2
+P002,126,2024-02-05,1,21,42,50.0,Out,Caught,Good,Outside Off,Sweep,Left-arm Medium,ODI,Average,row_755,755,family_20
+P009,126,2024-02-05,1,13,31,41.935483870967744,Out,Bowled,Full,Down Leg,Sweep,Leg Spin,ODI,Poor,row_756,756,family_20
+P001,126,2024-02-05,1,85,123,69.10569105691057,Not Out,Not Out,NA,NA,NA,NA,ODI,Average,row_757,757,family_20
+P012,126,2024-02-05,1,10,19,52.63157894736842,Out,LBW,Full,Middle,Other,Leg Spin,ODI,Poor,row_758,758,family_20
+P003,126,2024-02-05,1,24,18,133.33333333333334,Out,Caught,Full,Off Stump,Sweep,Leg Spin,ODI,Average,row_759,759,family_20
+P005,126,2024-02-05,1,30,47,63.829787234042556,Out,Caught,Short,Middle,Drive,Leg Spin,ODI,Average,row_760,760,family_20
+P007,126,2024-02-05,1,22,19,115.78947368421052,Out,Caught,Good,Outside Off,Lofted Shot,Left-arm Orthodox,ODI,Average,row_761,761,family_20
+P002,127,2024-02-09,2,0,2,0.0,Out,Caught,Good,Off Stump,Defensive,Right-arm Medium,ODI,Poor,row_762,762,family_11
+P006,127,2024-02-09,2,8,15,53.333333333333336,Out,Caught,Good,Middle,Flick,Right-arm Fast,ODI,Poor,row_763,763,family_11
+P001,127,2024-02-09,2,31,25,124.0,Out,Caught,Short,Outside Off,Hook,Right-arm Fast,ODI,Average,row_764,764,family_11
+P007,127,2024-02-09,2,29,42,69.04761904761905,Out,Run Out,NA,NA,NA,NA,ODI,Average,row_765,765,family_11
+P003,127,2024-02-09,2,11,24,45.833333333333336,Out,Caught,Short,Outside Off,Pull,Off Spin,ODI,Poor,row_766,766,family_11
+P005,127,2024-02-09,2,23,25,92.0,Out,Caught,Bouncer,Middle,Pull,Right-arm Fast,ODI,Average,row_767,767,family_11
+P002,128,2024-02-13,2,2,4,50.0,Out,Caught,Good,Off Stump,Defensive,Right-arm Medium,ODI,Poor,row_768,768,family_11
+P006,128,2024-02-13,2,9,15,60.0,Out,Caught,Good,Middle,Flick,Right-arm Fast,ODI,Poor,row_769,769,family_11
+P001,128,2024-02-13,2,34,20,170.0,Out,Caught,Short,Outside Off,Hook,Right-arm Fast,ODI,Average,row_770,770,family_11
+P007,128,2024-02-13,2,19,25,76.0,Out,Run Out,NA,NA,NA,NA,ODI,Poor,row_771,771,family_11
+P003,128,2024-02-13,2,6,21,28.571428571428573,Out,Caught,Short,Outside Off,Pull,Off Spin,ODI,Poor,row_772,772,family_11
+P005,128,2024-02-13,2,10,12,83.33333333333333,Out,Caught,Bouncer,Middle,Pull,Right-arm Fast,ODI,Poor,row_773,773,family_11
+P002,129,2024-02-17,1,49,26,188.46153846153845,Out,Bowled,Short,Off Stump,Cut,Right-arm Fast,T20,Good,row_774,774,family_24
+P009,129,2024-02-17,1,48,39,123.07692307692308,Out,Caught,Full,Leg Stump,Lofted Shot,Off Spin,T20,Good,row_775,775,family_24
+P001,129,2024-02-17,1,58,22,263.6363636363636,Out,Caught,Good,Middle,Sweep,Left-arm Orthodox,T20,Good,row_776,776,family_24
+P007,129,2024-02-17,1,35,22,159.0909090909091,Out,Caught,Good,Middle,Lofted Shot,Right-arm Fast,T20,Good,row_777,777,family_24
+P004,129,2024-02-17,1,0,3,0.0,Out,LBW,Good,Outside Off,Pull,Leg Spin,T20,Poor,row_778,778,family_24
+P003,129,2024-02-17,1,27,24,112.5,Not Out,Not Out,NA,NA,NA,NA,T20,Average,row_779,779,family_24
+P005,129,2024-02-17,1,1,1,100.0,Not Out,Not Out,NA,NA,NA,NA,T20,Poor,row_780,780,family_24
+P002,130,2024-02-21,1,5,10,50.0,Out,Caught,Full,Down Leg,Lofted Shot,Right-arm Medium,T20,Poor,row_781,781,family_16
+P001,130,2024-02-21,1,55,26,211.53846153846155,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Good,row_782,782,family_16
+P009,130,2024-02-21,1,53,42,126.19047619047619,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_783,783,family_16
+P007,130,2024-02-21,1,2,7,28.571428571428573,Out,Caught,Good,Off Stump,Cut,Right-arm Medium,T20,Poor,row_784,784,family_16
+P006,130,2024-02-21,1,25,22,113.63636363636364,Out,Caught,Short,Off Stump,Cut,Right-arm Medium,T20,Average,row_785,785,family_16
+P004,130,2024-02-21,1,42,21,200.0,Out,Caught,Full,Leg Stump,Flick,Right-arm Fast,T20,Good,row_786,786,family_16
+P001,131,2024-02-25,2,16,21,76.19047619047619,Out,Caught,Good,Off Stump,Lofted Shot,Right-arm Medium,T20,Average,row_787,787,family_4
+P006,131,2024-02-25,2,24,24,100.0,Out,Caught,Short,Middle,Lofted Shot,Leg Spin,T20,Average,row_788,788,family_4
+P004,131,2024-02-25,2,4,3,133.33333333333334,Out,Caught,Good,Off Stump,Sweep,Off Spin,T20,Poor,row_789,789,family_4
+P002,132,2024-02-29,1,3,8,37.5,Out,Caught,Good,Outside Off,Drive,Right-arm Fast,Test,Poor,row_790,790,family_18
+P011,132,2024-02-29,1,59,67,88.05970149253731,Out,Bowled,Full,Off Stump,Flick,Right-arm Fast,Test,Good,row_791,791,family_18
+P006,132,2024-02-29,1,0,1,0.0,Out,Caught,Good,Middle,Drive,Right-arm Fast,Test,Poor,row_792,792,family_18
+P012,132,2024-02-29,1,169,197,85.78680203045685,Out,Caught,Good,Middle,Defensive,Right-arm Medium,Test,Good,row_793,793,family_18
+P001,132,2024-02-29,1,0,3,0.0,Out,Caught,Good,Outside Off,Drive,Right-arm Fast,Test,Poor,row_794,794,family_18
+P002,132,2024-02-29,3,2,5,40.0,Out,Caught,Good,Outside Off,Drive,Right-arm Medium,Test,Poor,row_795,795,family_18
+P011,132,2024-02-29,3,34,61,55.73770491803279,Out,Caught,Short,Outside Off,Cut,Right-arm Fast,Test,Average,row_796,796,family_18
+P006,132,2024-02-29,3,7,31,22.580645161290324,Out,Bowled,Good,Off Stump,Leave,Right-arm Fast,Test,Poor,row_797,797,family_18
+P012,132,2024-02-29,3,2,8,25.0,Out,LBW,Good,Outside Off,Defensive,Right-arm Fast,Test,Poor,row_798,798,family_18
+P001,132,2024-02-29,3,22,37,59.45945945945946,Out,Bowled,Good,Outside Off,Leave,Right-arm Medium,Test,Average,row_799,799,family_18
+P002,133,2024-03-04,1,10,6,166.66666666666666,Out,Bowled,Full,Leg Stump,Flick,Right-arm Medium,T20,Poor,row_800,800,family_15
+P001,133,2024-03-04,1,23,20,115.0,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Average,row_801,801,family_15
+P007,133,2024-03-04,1,4,4,100.0,Out,Caught,Good,Middle,Lofted Shot,Right-arm Fast,T20,Poor,row_802,802,family_15
+P006,133,2024-03-04,1,38,29,131.0344827586207,Out,Run Out,NA,NA,NA,NA,T20,Good,row_803,803,family_15
+P004,133,2024-03-04,1,24,17,141.1764705882353,Out,Caught,Full,Middle,Sweep,Off Spin,T20,Average,row_804,804,family_15
+P002,134,2024-03-08,1,35,29,120.6896551724138,Out,Caught,Short,Middle,Pull,Right-arm Fast,T20,Good,row_805,805,family_7
+P009,134,2024-03-08,1,0,1,0.0,Out,Caught,Good,Middle,Drive,Left-arm Orthodox,T20,Poor,row_806,806,family_7
+P003,134,2024-03-08,1,26,21,123.80952380952381,Out,Caught,Good,Off Stump,Lofted Shot,Leg Spin,T20,Average,row_807,807,family_7
+P006,134,2024-03-08,1,9,7,128.57142857142858,Out,Bowled,Short,Outside Off,Cut,Right-arm Fast,T20,Poor,row_808,808,family_7
+P004,134,2024-03-08,1,3,3,100.0,Out,Caught,Short,Middle,Pull,Left-arm Orthodox,T20,Poor,row_809,809,family_7
+P002,135,2024-03-12,1,54,26,207.69230769230768,Out,Bowled,Short,Off Stump,Cut,Right-arm Fast,T20,Good,row_810,810,family_24
+P009,135,2024-03-12,1,29,38,76.3157894736842,Out,Caught,Full,Leg Stump,Lofted Shot,Off Spin,T20,Average,row_811,811,family_24
+P001,135,2024-03-12,1,26,13,200.0,Out,Caught,Good,Middle,Sweep,Left-arm Orthodox,T20,Average,row_812,812,family_24
+P007,135,2024-03-12,1,22,13,169.23076923076923,Out,Caught,Good,Middle,Lofted Shot,Right-arm Fast,T20,Average,row_813,813,family_24
+P004,135,2024-03-12,1,0,6,0.0,Out,LBW,Good,Outside Off,Pull,Leg Spin,T20,Poor,row_814,814,family_24
+P003,135,2024-03-12,1,31,21,147.61904761904762,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_815,815,family_24
+P005,135,2024-03-12,1,1,1,100.0,Not Out,Not Out,NA,NA,NA,NA,T20,Poor,row_816,816,family_24
+P002,136,2024-03-16,1,14,12,116.66666666666667,Out,Bowled,Full,Leg Stump,Flick,Right-arm Medium,T20,Poor,row_817,817,family_15
+P001,136,2024-03-16,1,31,23,134.7826086956522,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Good,row_818,818,family_15
+P007,136,2024-03-16,1,2,3,66.66666666666667,Out,Caught,Good,Middle,Lofted Shot,Right-arm Fast,T20,Poor,row_819,819,family_15
+P006,136,2024-03-16,1,40,29,137.93103448275863,Out,Run Out,NA,NA,NA,NA,T20,Good,row_820,820,family_15
+P004,136,2024-03-16,1,23,23,100.0,Out,Caught,Full,Middle,Sweep,Off Spin,T20,Average,row_821,821,family_15
+P002,137,2024-03-20,2,15,10,150.0,Out,Caught,Good,Off Stump,Pull,Off Spin,T20,Average,row_822,822,family_6
+P009,137,2024-03-20,2,7,10,70.0,Out,Bowled,Full,Off Stump,Flick,Right-arm Medium,T20,Poor,row_823,823,family_6
+P003,137,2024-03-20,2,8,6,133.33333333333334,Out,Caught,Good,Middle,Lofted Shot,Left-arm Orthodox,T20,Poor,row_824,824,family_6
+P004,137,2024-03-20,2,36,22,163.63636363636363,Out,Caught,Good,Middle,Defensive,Leg Spin,T20,Good,row_825,825,family_6
+P006,137,2024-03-20,2,1,7,14.285714285714286,Out,Caught,Good,Outside Off,Lofted Shot,Right-arm Medium,T20,Poor,row_826,826,family_6
+P002,138,2024-03-24,2,51,24,212.5,Out,Caught,Bouncer,Outside Off,Pull,Right-arm Medium,ODI,Good,row_827,827,family_22
+P009,138,2024-03-24,2,29,21,138.0952380952381,Out,Caught,Short,Outside Off,Cut,Off Spin,ODI,Average,row_828,828,family_22
+P001,138,2024-03-24,2,26,11,236.36363636363637,Out,Caught,Full,Off Stump,Lofted Shot,Right-arm Medium,ODI,Average,row_829,829,family_22
+P007,138,2024-03-24,2,73,82,89.02439024390245,Out,Bowled,Yorker,Leg Stump,Flick,Left-arm Medium,ODI,Good,row_830,830,family_22
+P003,138,2024-03-24,2,13,15,86.66666666666667,Out,Caught,Good,Outside Off,Pull,Leg Spin,ODI,Poor,row_831,831,family_22
+P005,138,2024-03-24,2,25,47,53.191489361702125,Out,Run Out,NA,NA,NA,NA,ODI,Average,row_832,832,family_22
+P012,138,2024-03-24,2,11,17,64.70588235294117,Out,Caught,Full,Outside Off,Sweep,Off Spin,ODI,Poor,row_833,833,family_22
+P002,139,2024-03-28,1,60,25,240.0,Out,Caught,Short,Middle,Pull,Right-arm Fast,T20,Good,row_834,834,family_7
+P009,139,2024-03-28,1,0,1,0.0,Out,Caught,Good,Middle,Drive,Left-arm Orthodox,T20,Poor,row_835,835,family_7
+P003,139,2024-03-28,1,22,19,115.78947368421052,Out,Caught,Good,Off Stump,Lofted Shot,Leg Spin,T20,Average,row_836,836,family_7
+P006,139,2024-03-28,1,7,6,116.66666666666667,Out,Bowled,Short,Outside Off,Cut,Right-arm Fast,T20,Poor,row_837,837,family_7
+P004,139,2024-03-28,1,5,5,100.0,Out,Caught,Short,Middle,Pull,Left-arm Orthodox,T20,Poor,row_838,838,family_7
+P011,140,2024-04-01,2,5,12,41.666666666666664,Out,Caught,Good,Off Stump,Defensive,Left-arm Orthodox,Test,Poor,row_839,839,family_12
+P006,140,2024-04-01,2,20,31,64.51612903225806,Out,Caught,Full,Off Stump,Drive,Leg Spin,Test,Average,row_840,840,family_12
+P012,140,2024-04-01,2,20,46,43.47826086956522,Out,Caught,Good,Middle,Defensive,Left-arm Orthodox,Test,Average,row_841,841,family_12
+P006,140,2024-04-01,4,5,10,50.0,Out,Caught,Bouncer,Off Stump,Defensive,Right-arm Fast,Test,Poor,row_842,842,family_12
+P012,140,2024-04-01,4,97,165,58.78787878787879,Out,Caught,Full,Middle,Sweep,Left-arm Orthodox,Test,Good,row_843,843,family_12
+P002,141,2024-04-05,1,42,31,135.48387096774192,Out,Caught,Short,Off Stump,Pull,Off Spin,T20,Good,row_844,844,family_8
+P009,141,2024-04-05,1,5,6,83.33333333333333,Out,Caught,Full,Outside Off,Lofted Shot,Off Spin,T20,Poor,row_845,845,family_8
+P003,141,2024-04-05,1,15,14,107.14285714285714,Out,Run Out,NA,NA,NA,NA,T20,Average,row_846,846,family_8
+P006,141,2024-04-05,1,33,30,110.0,Out,Caught,Short,Outside Off,Pull,Right-arm Fast,T20,Average,row_847,847,family_8
+P004,141,2024-04-05,1,12,16,75.0,Out,Caught,Short,Outside Off,Cut,Left-arm Orthodox,T20,Poor,row_848,848,family_8
+P002,142,2024-04-09,2,1,3,33.333333333333336,Out,Caught,Good,Off Stump,Defensive,Right-arm Medium,ODI,Poor,row_849,849,family_11
+P006,142,2024-04-09,2,7,15,46.666666666666664,Out,Caught,Good,Middle,Flick,Right-arm Fast,ODI,Poor,row_850,850,family_11
+P001,142,2024-04-09,2,25,27,92.5925925925926,Out,Caught,Short,Outside Off,Hook,Right-arm Fast,ODI,Average,row_851,851,family_11
+P007,142,2024-04-09,2,35,42,83.33333333333333,Out,Run Out,NA,NA,NA,NA,ODI,Average,row_852,852,family_11
+P003,142,2024-04-09,2,7,22,31.818181818181817,Out,Caught,Short,Outside Off,Pull,Off Spin,ODI,Poor,row_853,853,family_11
+P005,142,2024-04-09,2,14,17,82.3529411764706,Out,Caught,Bouncer,Middle,Pull,Right-arm Fast,ODI,Poor,row_854,854,family_11
+P006,143,2024-04-13,2,37,56,66.07142857142857,Out,Caught,Full,Off Stump,Drive,Left-arm Fast,ODI,Average,row_855,855,family_1
+P008,143,2024-04-13,2,6,14,42.857142857142854,Out,Caught,Bouncer,Middle,Pull,Right-arm Fast,ODI,Poor,row_856,856,family_1
+P001,143,2024-04-13,2,20,38,52.63157894736842,Out,Caught,Short,Outside Off,Cut,Right-arm Medium,ODI,Average,row_857,857,family_1
+P007,143,2024-04-13,2,77,60,128.33333333333334,Out,Caught,Good,Outside Off,Drive,Right-arm Medium,ODI,Good,row_858,858,family_1
+P005,143,2024-04-13,2,45,53,84.90566037735849,Out,Caught,Good,Middle,Flick,Right-arm Fast,ODI,Average,row_859,859,family_1
+P004,143,2024-04-13,2,25,19,131.57894736842104,Out,Caught,Full,Middle,Lofted Shot,Left-arm Fast,ODI,Average,row_860,860,family_1
+P006,144,2024-04-17,2,14,13,107.6923076923077,Out,Bowled,Good,Off Stump,Defensive,Right-arm Medium,ODI,Poor,row_861,861,family_2
+P008,144,2024-04-17,2,84,70,120.0,Out,Caught,Short,Middle,Flick,Right-arm Fast,ODI,Good,row_862,862,family_2
+P001,144,2024-04-17,2,0,0,0.0,Out,Run Out,NA,NA,NA,NA,ODI,Poor,row_863,863,family_2
+P007,144,2024-04-17,2,107,108,99.07407407407408,Out,Caught,Good,Middle,Lofted Shot,Left-arm Medium,ODI,Good,row_864,864,family_2
+P004,144,2024-04-17,2,78,47,165.95744680851064,Out,Caught,Good,Middle,Lofted Shot,Left-arm Orthodox,ODI,Good,row_865,865,family_2
+P005,144,2024-04-17,2,46,21,219.04761904761904,Not Out,Not Out,NA,NA,NA,NA,ODI,Average,row_866,866,family_2
+P001,145,2024-04-21,2,4,18,22.22222222222222,Out,Caught,Good,Off Stump,Lofted Shot,Right-arm Medium,T20,Poor,row_867,867,family_4
+P006,145,2024-04-21,2,25,15,166.66666666666666,Out,Caught,Short,Middle,Lofted Shot,Leg Spin,T20,Average,row_868,868,family_4
+P004,145,2024-04-21,2,15,10,150.0,Out,Caught,Good,Off Stump,Sweep,Off Spin,T20,Average,row_869,869,family_4
+P002,146,2024-04-25,2,37,21,176.1904761904762,Out,Caught,Bouncer,Outside Off,Pull,Right-arm Medium,ODI,Average,row_870,870,family_22
+P009,146,2024-04-25,2,25,17,147.05882352941177,Out,Caught,Short,Outside Off,Cut,Off Spin,ODI,Average,row_871,871,family_22
+P001,146,2024-04-25,2,15,8,187.5,Out,Caught,Full,Off Stump,Lofted Shot,Right-arm Medium,ODI,Poor,row_872,872,family_22
+P007,146,2024-04-25,2,118,102,115.68627450980392,Out,Bowled,Yorker,Leg Stump,Flick,Left-arm Medium,ODI,Good,row_873,873,family_22
+P003,146,2024-04-25,2,35,25,140.0,Out,Caught,Good,Outside Off,Pull,Leg Spin,ODI,Average,row_874,874,family_22
+P005,146,2024-04-25,2,18,43,41.86046511627907,Out,Run Out,NA,NA,NA,NA,ODI,Poor,row_875,875,family_22
+P012,146,2024-04-25,2,2,13,15.384615384615385,Out,Caught,Full,Outside Off,Sweep,Off Spin,ODI,Poor,row_876,876,family_22
+P001,147,2024-04-29,1,0,1,0.0,Out,Caught,Full,Outside Off,Cut,Left-arm Fast,T20,Poor,row_877,877,family_3
+P009,147,2024-04-29,1,10,20,50.0,Out,Caught,Good,Outside Off,Pull,Right-arm Medium,T20,Poor,row_878,878,family_3
+P006,147,2024-04-29,1,21,18,116.66666666666667,Out,Caught,Good,Outside Off,Lofted Shot,Off Spin,T20,Average,row_879,879,family_3
+P004,147,2024-04-29,1,22,18,122.22222222222223,Out,Caught,Short,Middle,Hook,Leg Spin,T20,Average,row_880,880,family_3
+P002,148,2024-05-03,1,4,11,36.36363636363637,Out,Caught,Good,Outside Off,Drive,Right-arm Fast,Test,Poor,row_881,881,family_18
+P011,148,2024-05-03,1,25,43,58.13953488372093,Out,Bowled,Full,Off Stump,Flick,Right-arm Fast,Test,Average,row_882,882,family_18
+P006,148,2024-05-03,1,0,1,0.0,Out,Caught,Good,Middle,Drive,Right-arm Fast,Test,Poor,row_883,883,family_18
+P012,148,2024-05-03,1,282,267,105.61797752808988,Out,Caught,Good,Middle,Defensive,Right-arm Medium,Test,Good,row_884,884,family_18
+P001,148,2024-05-03,1,0,4,0.0,Out,Caught,Good,Outside Off,Drive,Right-arm Fast,Test,Poor,row_885,885,family_18
+P002,148,2024-05-03,3,4,6,66.66666666666667,Out,Caught,Good,Outside Off,Drive,Right-arm Medium,Test,Poor,row_886,886,family_18
+P011,148,2024-05-03,3,42,78,53.84615384615385,Out,Caught,Short,Outside Off,Cut,Right-arm Fast,Test,Average,row_887,887,family_18
+P006,148,2024-05-03,3,8,37,21.62162162162162,Out,Bowled,Good,Off Stump,Leave,Right-arm Fast,Test,Poor,row_888,888,family_18
+P012,148,2024-05-03,3,1,6,16.666666666666668,Out,LBW,Good,Outside Off,Defensive,Right-arm Fast,Test,Poor,row_889,889,family_18
+P001,148,2024-05-03,3,6,23,26.08695652173913,Out,Bowled,Good,Outside Off,Leave,Right-arm Medium,Test,Poor,row_890,890,family_18
+P006,149,2024-05-07,2,17,15,113.33333333333333,Out,Bowled,Good,Off Stump,Defensive,Right-arm Medium,ODI,Poor,row_891,891,family_2
+P008,149,2024-05-07,2,90,80,112.5,Out,Caught,Short,Middle,Flick,Right-arm Fast,ODI,Good,row_892,892,family_2
+P001,149,2024-05-07,2,0,0,0.0,Out,Run Out,NA,NA,NA,NA,ODI,Poor,row_893,893,family_2
+P007,149,2024-05-07,2,117,89,131.46067415730337,Out,Caught,Good,Middle,Lofted Shot,Left-arm Medium,ODI,Good,row_894,894,family_2
+P004,149,2024-05-07,2,90,60,150.0,Out,Caught,Good,Middle,Lofted Shot,Left-arm Orthodox,ODI,Good,row_895,895,family_2
+P005,149,2024-05-07,2,72,35,205.71428571428572,Not Out,Not Out,NA,NA,NA,NA,ODI,Good,row_896,896,family_2
+P002,150,2024-05-11,1,22,14,157.14285714285714,Out,Caught,Short,Off Stump,Pull,Off Spin,T20,Average,row_897,897,family_8
+P009,150,2024-05-11,1,3,3,100.0,Out,Caught,Full,Outside Off,Lofted Shot,Off Spin,T20,Poor,row_898,898,family_8
+P003,150,2024-05-11,1,38,25,152.0,Out,Run Out,NA,NA,NA,NA,T20,Good,row_899,899,family_8
+P006,150,2024-05-11,1,40,31,129.03225806451613,Out,Caught,Short,Outside Off,Pull,Right-arm Fast,T20,Good,row_900,900,family_8
+P004,150,2024-05-11,1,10,16,62.5,Out,Caught,Short,Outside Off,Cut,Left-arm Orthodox,T20,Poor,row_901,901,family_8
+P002,151,2024-05-15,2,29,16,181.25,Out,Caught,Bouncer,Outside Off,Pull,Right-arm Medium,ODI,Average,row_902,902,family_22
+P009,151,2024-05-15,2,36,28,128.57142857142858,Out,Caught,Short,Outside Off,Cut,Off Spin,ODI,Average,row_903,903,family_22
+P001,151,2024-05-15,2,26,9,288.8888888888889,Out,Caught,Full,Off Stump,Lofted Shot,Right-arm Medium,ODI,Average,row_904,904,family_22
+P007,151,2024-05-15,2,126,132,95.45454545454545,Out,Bowled,Yorker,Leg Stump,Flick,Left-arm Medium,ODI,Good,row_905,905,family_22
+P003,151,2024-05-15,2,14,18,77.77777777777777,Out,Caught,Good,Outside Off,Pull,Leg Spin,ODI,Poor,row_906,906,family_22
+P005,151,2024-05-15,2,17,30,56.666666666666664,Out,Run Out,NA,NA,NA,NA,ODI,Poor,row_907,907,family_22
+P012,151,2024-05-15,2,10,18,55.55555555555556,Out,Caught,Full,Outside Off,Sweep,Off Spin,ODI,Poor,row_908,908,family_22
+P002,152,2024-05-19,2,28,13,215.3846153846154,Out,Caught,Full,Outside Off,Lofted Shot,Left-arm Orthodox,T20,Average,row_909,909,family_25
+P009,152,2024-05-19,2,0,2,0.0,Out,Caught,Bouncer,Middle,Pull,Right-arm Fast,T20,Poor,row_910,910,family_25
+P001,152,2024-05-19,2,15,21,71.42857142857143,Out,Caught,Full,Down Leg,Sweep,Off Spin,T20,Average,row_911,911,family_25
+P007,152,2024-05-19,2,16,22,72.72727272727273,Out,Bowled,Good,Off Stump,Drive,Leg Spin,T20,Average,row_912,912,family_25
+P006,152,2024-05-19,2,11,10,110.0,Out,LBW,Good,Middle,Flick,Off Spin,T20,Poor,row_913,913,family_25
+P005,152,2024-05-19,2,25,25,100.0,Out,Caught,Full,Leg Stump,Sweep,Off Spin,T20,Average,row_914,914,family_25
+P004,152,2024-05-19,2,3,6,50.0,Out,Stumped,Short,Outside Off,Lofted Shot,Left-arm Orthodox,T20,Poor,row_915,915,family_25
+P011,153,2024-05-23,1,0,16,0.0,Out,Caught,Good,Middle,Flick,Right-arm Fast,Test,Poor,row_916,916,family_19
+P006,153,2024-05-23,1,79,131,60.30534351145038,Out,Stumped,Full,Down Leg,Flick,Right-arm Medium,Test,Good,row_917,917,family_19
+P012,153,2024-05-23,1,25,104,24.03846153846154,Out,Caught,Full,Middle,Defensive,Right-arm Medium,Test,Average,row_918,918,family_19
+P001,153,2024-05-23,1,53,88,60.22727272727273,Out,Bowled,Good,Off Stump,Sweep,Right-arm Medium,Test,Good,row_919,919,family_19
+P011,153,2024-05-23,3,70,129,54.263565891472865,Out,Caught,Full,Outside Off,Cut,Right-arm Medium,Test,Good,row_920,920,family_19
+P006,153,2024-05-23,3,52,75,69.33333333333333,Out,Caught,Good,Outside Off,Lofted Shot,Right-arm Fast,Test,Good,row_921,921,family_19
+P012,153,2024-05-23,3,39,34,114.70588235294117,Out,Caught,Full,Outside Off,Lofted Shot,Off Spin,Test,Average,row_922,922,family_19
+P001,153,2024-05-23,3,3,3,100.0,Out,Caught,Good,Off Stump,Cut,Right-arm Medium,Test,Poor,row_923,923,family_19
+P002,154,2024-05-27,1,28,30,93.33333333333333,Out,Caught,Full,Outside Off,Sweep,Leg Spin,T20,Average,row_924,924,family_23
+P009,154,2024-05-27,1,15,11,136.36363636363637,Out,Caught,Short,Middle,Pull,Right-arm Medium,T20,Average,row_925,925,family_23
+P001,154,2024-05-27,1,28,16,175.0,Out,Caught,Good,Middle,Lofted Shot,Leg Spin,T20,Average,row_926,926,family_23
+P003,154,2024-05-27,1,3,5,60.0,Out,Caught,Full,Outside Off,Sweep,Left-arm Orthodox,T20,Poor,row_927,927,family_23
+P012,154,2024-05-27,1,8,10,80.0,Out,Caught,Good,Middle,Sweep,Leg Spin,T20,Poor,row_928,928,family_23
+P005,154,2024-05-27,1,0,2,0.0,Out,LBW,Full,Middle,Defensive,Left-arm Orthodox,T20,Poor,row_929,929,family_23
+P004,154,2024-05-27,1,24,20,120.0,Out,Caught,Yorker,Off Stump,Lofted Shot,Left-arm Medium,T20,Average,row_930,930,family_23
+P001,155,2024-05-31,2,6,10,60.0,Out,Caught,Good,Off Stump,Lofted Shot,Right-arm Medium,T20,Poor,row_931,931,family_4
+P006,155,2024-05-31,2,35,24,145.83333333333334,Out,Caught,Short,Middle,Lofted Shot,Leg Spin,T20,Good,row_932,932,family_4
+P004,155,2024-05-31,2,4,6,66.66666666666667,Out,Caught,Good,Off Stump,Sweep,Off Spin,T20,Poor,row_933,933,family_4
+P006,156,2024-06-04,2,23,22,104.54545454545455,Out,Bowled,Good,Off Stump,Defensive,Right-arm Medium,ODI,Average,row_934,934,family_2
+P008,156,2024-06-04,2,92,115,80.0,Out,Caught,Short,Middle,Flick,Right-arm Fast,ODI,Good,row_935,935,family_2
+P001,156,2024-06-04,2,0,0,0.0,Out,Run Out,NA,NA,NA,NA,ODI,Poor,row_936,936,family_2
+P007,156,2024-06-04,2,86,87,98.85057471264368,Out,Caught,Good,Middle,Lofted Shot,Left-arm Medium,ODI,Good,row_937,937,family_2
+P004,156,2024-06-04,2,133,58,229.31034482758622,Out,Caught,Good,Middle,Lofted Shot,Left-arm Orthodox,ODI,Good,row_938,938,family_2
+P005,156,2024-06-04,2,65,31,209.67741935483872,Not Out,Not Out,NA,NA,NA,NA,ODI,Good,row_939,939,family_2
+P002,157,2024-06-08,1,13,9,144.44444444444446,Out,Bowled,Full,Leg Stump,Flick,Right-arm Medium,T20,Poor,row_940,940,family_15
+P001,157,2024-06-08,1,59,25,236.0,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Good,row_941,941,family_15
+P007,157,2024-06-08,1,4,3,133.33333333333334,Out,Caught,Good,Middle,Lofted Shot,Right-arm Fast,T20,Poor,row_942,942,family_15
+P006,157,2024-06-08,1,44,24,183.33333333333334,Out,Run Out,NA,NA,NA,NA,T20,Good,row_943,943,family_15
+P004,157,2024-06-08,1,13,20,65.0,Out,Caught,Full,Middle,Sweep,Off Spin,T20,Poor,row_944,944,family_15
+P002,158,2024-06-12,1,23,23,100.0,Out,Caught,Full,Outside Off,Sweep,Leg Spin,T20,Average,row_945,945,family_23
+P009,158,2024-06-12,1,13,8,162.5,Out,Caught,Short,Middle,Pull,Right-arm Medium,T20,Poor,row_946,946,family_23
+P001,158,2024-06-12,1,56,31,180.6451612903226,Out,Caught,Good,Middle,Lofted Shot,Leg Spin,T20,Good,row_947,947,family_23
+P003,158,2024-06-12,1,3,7,42.857142857142854,Out,Caught,Full,Outside Off,Sweep,Left-arm Orthodox,T20,Poor,row_948,948,family_23
+P012,158,2024-06-12,1,7,8,87.5,Out,Caught,Good,Middle,Sweep,Leg Spin,T20,Poor,row_949,949,family_23
+P005,158,2024-06-12,1,1,2,50.0,Out,LBW,Full,Middle,Defensive,Left-arm Orthodox,T20,Poor,row_950,950,family_23
+P004,158,2024-06-12,1,17,13,130.76923076923077,Out,Caught,Yorker,Off Stump,Lofted Shot,Left-arm Medium,T20,Average,row_951,951,family_23
+P009,159,2024-06-16,2,12,25,48.0,Out,Caught,Bouncer,Leg Stump,Hook,Right-arm Fast,Test,Poor,row_952,952,family_13
+P006,159,2024-06-16,2,24,38,63.1578947368421,Out,Caught,Short,Middle,Pull,Right-arm Fast,Test,Average,row_953,953,family_13
+P012,159,2024-06-16,2,2,7,28.571428571428573,Out,Caught,Full,Middle,Defensive,Left-arm Orthodox,Test,Poor,row_954,954,family_13
+P009,159,2024-06-16,3,33,43,76.74418604651163,Out,LBW,Full,Middle,Sweep,Left-arm Orthodox,Test,Average,row_955,955,family_13
+P006,159,2024-06-16,3,52,98,53.06122448979592,Out,Caught,Bouncer,Leg Stump,Pull,Right-arm Fast,Test,Good,row_956,956,family_13
+P012,159,2024-06-16,3,11,35,31.428571428571427,Out,Caught,Full,Off Stump,Flick,Left-arm Orthodox,Test,Poor,row_957,957,family_13
+P002,160,2024-06-20,1,20,16,125.0,Out,Caught,Short,Off Stump,Pull,Off Spin,T20,Average,row_958,958,family_8
+P009,160,2024-06-20,1,2,4,50.0,Out,Caught,Full,Outside Off,Lofted Shot,Off Spin,T20,Poor,row_959,959,family_8
+P003,160,2024-06-20,1,11,12,91.66666666666667,Out,Run Out,NA,NA,NA,NA,T20,Poor,row_960,960,family_8
+P006,160,2024-06-20,1,36,27,133.33333333333334,Out,Caught,Short,Outside Off,Pull,Right-arm Fast,T20,Good,row_961,961,family_8
+P004,160,2024-06-20,1,17,17,100.0,Out,Caught,Short,Outside Off,Cut,Left-arm Orthodox,T20,Average,row_962,962,family_8
+P006,161,2024-06-24,2,81,88,92.04545454545455,Out,Caught,Full,Off Stump,Drive,Left-arm Fast,ODI,Good,row_963,963,family_1
+P008,161,2024-06-24,2,6,9,66.66666666666667,Out,Caught,Bouncer,Middle,Pull,Right-arm Fast,ODI,Poor,row_964,964,family_1
+P001,161,2024-06-24,2,16,30,53.333333333333336,Out,Caught,Short,Outside Off,Cut,Right-arm Medium,ODI,Poor,row_965,965,family_1
+P007,161,2024-06-24,2,81,90,90.0,Out,Caught,Good,Outside Off,Drive,Right-arm Medium,ODI,Good,row_966,966,family_1
+P005,161,2024-06-24,2,35,39,89.74358974358974,Out,Caught,Good,Middle,Flick,Right-arm Fast,ODI,Average,row_967,967,family_1
+P004,161,2024-06-24,2,22,12,183.33333333333334,Out,Caught,Full,Middle,Lofted Shot,Left-arm Fast,ODI,Average,row_968,968,family_1
+P002,162,2024-06-28,1,35,20,175.0,Out,Bowled,Short,Off Stump,Cut,Right-arm Fast,T20,Good,row_969,969,family_24
+P009,162,2024-06-28,1,28,23,121.73913043478261,Out,Caught,Full,Leg Stump,Lofted Shot,Off Spin,T20,Average,row_970,970,family_24
+P001,162,2024-06-28,1,24,13,184.6153846153846,Out,Caught,Good,Middle,Sweep,Left-arm Orthodox,T20,Average,row_971,971,family_24
+P007,162,2024-06-28,1,42,24,175.0,Out,Caught,Good,Middle,Lofted Shot,Right-arm Fast,T20,Good,row_972,972,family_24
+P004,162,2024-06-28,1,0,5,0.0,Out,LBW,Good,Outside Off,Pull,Leg Spin,T20,Poor,row_973,973,family_24
+P003,162,2024-06-28,1,24,15,160.0,Not Out,Not Out,NA,NA,NA,NA,T20,Average,row_974,974,family_24
+P005,162,2024-06-28,1,2,1,200.0,Not Out,Not Out,NA,NA,NA,NA,T20,Poor,row_975,975,family_24
+P002,163,2024-07-02,1,16,24,66.66666666666667,Out,LBW,Full,Middle,Flick,Right-arm Medium,ODI,Poor,row_976,976,family_10
+P006,163,2024-07-02,1,53,69,76.81159420289855,Out,Caught,Good,Middle,Lofted Shot,Right-arm Medium,ODI,Average,row_977,977,family_10
+P001,163,2024-07-02,1,131,89,147.19101123595505,Out,Caught,Good,Leg Stump,Sweep,Leg Spin,ODI,Good,row_978,978,family_10
+P007,163,2024-07-02,1,49,35,140.0,Out,Run Out,NA,NA,NA,NA,ODI,Average,row_979,979,family_10
+P003,163,2024-07-02,1,14,19,73.6842105263158,Out,Caught,Full,Leg Stump,Sweep,Leg Spin,ODI,Poor,row_980,980,family_10
+P005,163,2024-07-02,1,36,24,150.0,Out,Caught,Short,Outside Off,Drive,Right-arm Fast,ODI,Average,row_981,981,family_10
+P006,164,2024-07-06,2,25,33,75.75757575757575,Out,Caught,Full,Off Stump,Drive,Left-arm Fast,ODI,Average,row_982,982,family_1
+P008,164,2024-07-06,2,6,9,66.66666666666667,Out,Caught,Bouncer,Middle,Pull,Right-arm Fast,ODI,Poor,row_983,983,family_1
+P001,164,2024-07-06,2,5,18,27.77777777777778,Out,Caught,Short,Outside Off,Cut,Right-arm Medium,ODI,Poor,row_984,984,family_1
+P007,164,2024-07-06,2,123,91,135.16483516483515,Out,Caught,Good,Outside Off,Drive,Right-arm Medium,ODI,Good,row_985,985,family_1
+P005,164,2024-07-06,2,74,64,115.625,Out,Caught,Good,Middle,Flick,Right-arm Fast,ODI,Good,row_986,986,family_1
+P004,164,2024-07-06,2,27,23,117.3913043478261,Out,Caught,Full,Middle,Lofted Shot,Left-arm Fast,ODI,Average,row_987,987,family_1
+P002,165,2024-07-10,1,5,8,62.5,Out,Caught,Full,Down Leg,Lofted Shot,Right-arm Medium,T20,Poor,row_988,988,family_16
+P001,165,2024-07-10,1,22,14,157.14285714285714,Out,Caught,Full,Middle,Flick,Right-arm Fast,T20,Average,row_989,989,family_16
+P009,165,2024-07-10,1,83,47,176.59574468085106,Not Out,Not Out,NA,NA,NA,NA,T20,Good,row_990,990,family_16
+P007,165,2024-07-10,1,0,4,0.0,Out,Caught,Good,Off Stump,Cut,Right-arm Medium,T20,Poor,row_991,991,family_16
+P006,165,2024-07-10,1,18,21,85.71428571428571,Out,Caught,Short,Off Stump,Cut,Right-arm Medium,T20,Average,row_992,992,family_16
+P004,165,2024-07-10,1,54,28,192.85714285714286,Out,Caught,Full,Leg Stump,Flick,Right-arm Fast,T20,Good,row_993,993,family_16
+P006,166,2024-07-14,2,17,20,85.0,Out,Bowled,Good,Off Stump,Defensive,Right-arm Medium,ODI,Poor,row_994,994,family_2
+P008,166,2024-07-14,2,94,106,88.67924528301887,Out,Caught,Short,Middle,Flick,Right-arm Fast,ODI,Good,row_995,995,family_2
+P001,166,2024-07-14,2,0,0,0.0,Out,Run Out,NA,NA,NA,NA,ODI,Poor,row_996,996,family_2
+P007,166,2024-07-14,2,178,139,128.05755395683454,Out,Caught,Good,Middle,Lofted Shot,Left-arm Medium,ODI,Good,row_997,997,family_2
+P004,166,2024-07-14,2,84,40,210.0,Out,Caught,Good,Middle,Lofted Shot,Left-arm Orthodox,ODI,Good,row_998,998,family_2
+P005,166,2024-07-14,2,58,27,214.8148148148148,Not Out,Not Out,NA,NA,NA,NA,ODI,Good,row_999,999,family_2
+P002,167,2024-07-18,1,28,21,133.33333333333334,Out,Caught,Good,Middle,Pull,Right-arm Fast,T20,Average,row_1000,1000,family_17
+P001,167,2024-07-18,1,7,8,87.5,Out,Caught,Good,Middle,Flick,Right-arm Medium,T20,Poor,row_1001,1001,family_17

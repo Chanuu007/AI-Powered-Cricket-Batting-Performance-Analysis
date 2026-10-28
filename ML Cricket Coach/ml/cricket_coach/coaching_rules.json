@@ -1,0 +1,50 @@
+[
+  {
+    "id": "short_ball", "when": {"bowling_length": ["Short", "Bouncer"]},
+    "title": "Review short-ball decisions",
+    "tip": "Review when you choose to pull, hook, evade or defend against short bowling. The recorded dismissals do not establish a particular mechanical fault.",
+    "drill": "In a supervised net session, mix shorter and fuller feeds and practise deciding whether to attack or leave each delivery."
+  },
+  {
+    "id": "outside_off", "when": {"bowling_line": ["Outside Off"]},
+    "title": "Practise selection outside off stump",
+    "tip": "Review which outside-off deliveries you attack and which you can leave, considering your match format.",
+    "drill": "Use an off-stump reference in the nets and alternate leave, defence and controlled-drive decisions with feedback from a coach."
+  },
+  {
+    "id": "full_ball", "when": {"bowling_length": ["Full", "Yorker"]},
+    "title": "Review responses to fuller deliveries",
+    "tip": "Review balance, bat presentation and shot choice when facing fuller deliveries; the data alone cannot diagnose footwork.",
+    "drill": "Practise controlled straight-bat responses to mixed full-length and yorker feeds under supervision."
+  },
+  {
+    "id": "lofted_shot", "when": {"shot_type": ["Lofted Shot"]},
+    "title": "Review lofted-shot selection",
+    "tip": "Review the delivery, field and match situation before choosing an aerial shot.",
+    "drill": "Alternate grounded and aerial targets in the nets and discuss the selection decision after each feed."
+  },
+  {
+    "id": "spin", "when": {"bowler_type": ["Off Spin", "Leg Spin", "Left-arm Orthodox", "Left-arm Wrist Spin"]},
+    "title": "Review scoring options against spin",
+    "tip": "Review length recognition and your scoring options against the recorded spin type. Frequent dismissals do not by themselves establish that spin is a weakness.",
+    "drill": "Use varied spin feeds to practise defending, rotating strike and attacking selected lengths with a coach's feedback."
+  },
+  {
+    "id": "run_out", "when": {"dismissal_type": ["Run Out"]},
+    "title": "Review running and communication",
+    "tip": "Review calling, partner communication and decisions on marginal runs in the recorded run-outs.",
+    "drill": "Practise clear yes/no/wait calls and turning between wickets with a partner."
+  },
+  {
+    "id": "bowled", "when": {"dismissal_type": ["Bowled"]},
+    "title": "Review dismissals that hit the stumps",
+    "tip": "Review the length, line and shot choice in bowled dismissals with a coach before attributing them to a technical issue.",
+    "drill": "Practise controlled straight-bat defence against varied lines and lengths, checking balance and bat path with feedback."
+  },
+  {
+    "id": "lbw", "when": {"dismissal_type": ["LBW"]},
+    "title": "Review LBW dismissal decisions",
+    "tip": "Review the delivery line, movement and your response in LBW dismissals with a coach.",
+    "drill": "Practise identifying stump-threatening deliveries and selecting an appropriate straight-bat response."
+  }
+]

@@ -1,0 +1,435 @@
+{
+  "player_id": "P006",
+  "player_name": "Kamindu Mendis",
+  "match_format": "ODI",
+  "as_of": "2026-10-26",
+  "eligible_history_innings": 36,
+  "excluded_invalid_date_rows": 0,
+  "excluded_future_date_rows": 0,
+  "date_warning": "Chronology uses stored dates; verify possible day/month errors before relying on recent-form conclusions.",
+  "current_form": {
+    "method": "Descriptive majority of existing performance labels across the latest 5 completed innings in this format",
+    "requested_window": 5,
+    "available_in_window": 5,
+    "status": "Available",
+    "summary_label": "Poor",
+    "label_counts": {
+      "Poor": 3,
+      "Average": 1,
+      "Good": 1
+    },
+    "mean_runs": 28.4,
+    "weighted_strike_rate": 84.02,
+    "runs_sample_std": 19.26,
+    "model_label_counts": {
+      "Poor": 3,
+      "Good": 1,
+      "Average": 1
+    },
+    "note": "The descriptive form summary and model labels are separate. Neither is an independently validated coach form assessment."
+  },
+  "recent_innings": [
+    {
+      "record_id": "row_39",
+      "match_id": "9",
+      "match_date": "2026-09-22",
+      "innings_number": 2,
+      "runs": 14,
+      "balls_faced": 19,
+      "strike_rate": 73.68,
+      "performance_label": "Poor",
+      "model_label": "Poor"
+    },
+    {
+      "record_id": "row_45",
+      "match_id": "10",
+      "match_date": "2026-09-24",
+      "innings_number": 1,
+      "runs": 54,
+      "balls_faced": 65,
+      "strike_rate": 83.08,
+      "performance_label": "Good",
+      "model_label": "Good"
+    },
+    {
+      "record_id": "row_51",
+      "match_id": "11",
+      "match_date": "2026-09-27",
+      "innings_number": 2,
+      "runs": 12,
+      "balls_faced": 19,
+      "strike_rate": 63.16,
+      "performance_label": "Poor",
+      "model_label": "Poor"
+    },
+    {
+      "record_id": "row_2",
+      "match_id": "1",
+      "match_date": "2026-10-18",
+      "innings_number": 2,
+      "runs": 44,
+      "balls_faced": 50,
+      "strike_rate": 88.0,
+      "performance_label": "Average",
+      "model_label": "Average"
+    },
+    {
+      "record_id": "row_8",
+      "match_id": "2",
+      "match_date": "2026-10-22",
+      "innings_number": 2,
+      "runs": 18,
+      "balls_faced": 16,
+      "strike_rate": 112.5,
+      "performance_label": "Poor",
+      "model_label": "Poor"
+    }
+  ],
+  "pattern_scope": "All eligible past innings for this player and format, not only the recent form window.",
+  "pattern_thresholds": {
+    "min_rows": 3,
+    "min_matches": 3,
+    "min_related_match_groups": 2,
+    "min_share_of_dismissals": 0.2
+  },
+  "weakness_review_candidates": [
+    {
+      "pattern": {
+        "bowling_length": "Good",
+        "bowler_type": "Right-arm Medium"
+      },
+      "dismissal_count": 15,
+      "all_recorded_dismissals": 36,
+      "share_of_recorded_dismissals": 0.4167,
+      "distinct_matches": 15,
+      "distinct_related_match_groups": 2,
+      "poor_performance_share_within_pattern": 0.3333,
+      "evidence_record_ids": [
+        "row_200",
+        "row_374",
+        "row_497",
+        "row_503",
+        "row_542",
+        "row_599",
+        "row_660",
+        "row_749",
+        "row_861",
+        "row_891",
+        "row_934",
+        "row_977",
+        "row_994",
+        "row_45",
+        "row_8"
+      ],
+      "interpretation": "Recurring recorded dismissal pattern to review; not a per-delivery dismissal probability or confirmed technical fault."
+    },
+    {
+      "pattern": {
+        "bowling_length": "Good",
+        "bowling_line": "Middle"
+      },
+      "dismissal_count": 12,
+      "all_recorded_dismissals": 36,
+      "share_of_recorded_dismissals": 0.3333,
+      "distinct_matches": 12,
+      "distinct_related_match_groups": 2,
+      "poor_performance_share_within_pattern": 0.5833,
+      "evidence_record_ids": [
+        "row_200",
+        "row_206",
+        "row_212",
+        "row_542",
+        "row_567",
+        "row_660",
+        "row_763",
+        "row_769",
+        "row_850",
+        "row_977",
+        "row_45",
+        "row_51"
+      ],
+      "interpretation": "Recurring recorded dismissal pattern to review; not a per-delivery dismissal probability or confirmed technical fault."
+    },
+    {
+      "pattern": {
+        "bowling_length": "Short",
+        "shot_type": "Pull"
+      },
+      "dismissal_count": 9,
+      "all_recorded_dismissals": 36,
+      "share_of_recorded_dismissals": 0.25,
+      "distinct_matches": 9,
+      "distinct_related_match_groups": 2,
+      "poor_performance_share_within_pattern": 0.7778,
+      "evidence_record_ids": [
+        "row_237",
+        "row_314",
+        "row_381",
+        "row_418",
+        "row_588",
+        "row_621",
+        "row_638",
+        "row_68",
+        "row_39"
+      ],
+      "interpretation": "Recurring recorded dismissal pattern to review; not a per-delivery dismissal probability or confirmed technical fault."
+    },
+    {
+      "pattern": {
+        "dismissal_type": "Caught"
+      },
+      "dismissal_count": 26,
+      "all_recorded_dismissals": 36,
+      "share_of_recorded_dismissals": 0.7222,
+      "distinct_matches": 26,
+      "distinct_related_match_groups": 5,
+      "poor_performance_share_within_pattern": 0.5769,
+      "evidence_record_ids": [
+        "row_200",
+        "row_206",
+        "row_212",
+        "row_237",
+        "row_314",
+        "row_381",
+        "row_418",
+        "row_516",
+        "row_542",
+        "row_567",
+        "row_588",
+        "row_621",
+        "row_638",
+        "row_660",
+        "row_763",
+        "row_769",
+        "row_850",
+        "row_855",
+        "row_963",
+        "row_977",
+        "row_982",
+        "row_68",
+        "row_39",
+        "row_45",
+        "row_51",
+        "row_2"
+      ],
+      "interpretation": "Recurring recorded dismissal pattern to review; not a per-delivery dismissal probability or confirmed technical fault."
+    },
+    {
+      "pattern": {
+        "bowling_length": "Good"
+      },
+      "dismissal_count": 22,
+      "all_recorded_dismissals": 36,
+      "share_of_recorded_dismissals": 0.6111,
+      "distinct_matches": 22,
+      "distinct_related_match_groups": 3,
+      "poor_performance_share_within_pattern": 0.5455,
+      "evidence_record_ids": [
+        "row_200",
+        "row_206",
+        "row_212",
+        "row_374",
+        "row_497",
+        "row_503",
+        "row_542",
+        "row_567",
+        "row_599",
+        "row_660",
+        "row_749",
+        "row_763",
+        "row_769",
+        "row_850",
+        "row_861",
+        "row_891",
+        "row_934",
+        "row_977",
+        "row_994",
+        "row_45",
+        "row_51",
+        "row_8"
+      ],
+      "interpretation": "Recurring recorded dismissal pattern to review; not a per-delivery dismissal probability or confirmed technical fault."
+    },
+    {
+      "pattern": {
+        "bowler_type": "Right-arm Medium"
+      },
+      "dismissal_count": 17,
+      "all_recorded_dismissals": 36,
+      "share_of_recorded_dismissals": 0.4722,
+      "distinct_matches": 17,
+      "distinct_related_match_groups": 3,
+      "poor_performance_share_within_pattern": 0.4118,
+      "evidence_record_ids": [
+        "row_200",
+        "row_374",
+        "row_497",
+        "row_503",
+        "row_542",
+        "row_588",
+        "row_599",
+        "row_660",
+        "row_749",
+        "row_861",
+        "row_891",
+        "row_934",
+        "row_977",
+        "row_994",
+        "row_68",
+        "row_45",
+        "row_8"
+      ],
+      "interpretation": "Recurring recorded dismissal pattern to review; not a per-delivery dismissal probability or confirmed technical fault."
+    },
+    {
+      "pattern": {
+        "bowling_line": "Off Stump"
+      },
+      "dismissal_count": 17,
+      "all_recorded_dismissals": 36,
+      "share_of_recorded_dismissals": 0.4722,
+      "distinct_matches": 17,
+      "distinct_related_match_groups": 3,
+      "poor_performance_share_within_pattern": 0.4706,
+      "evidence_record_ids": [
+        "row_374",
+        "row_497",
+        "row_503",
+        "row_516",
+        "row_588",
+        "row_599",
+        "row_749",
+        "row_855",
+        "row_861",
+        "row_891",
+        "row_934",
+        "row_963",
+        "row_982",
+        "row_994",
+        "row_68",
+        "row_2",
+        "row_8"
+      ],
+      "interpretation": "Recurring recorded dismissal pattern to review; not a per-delivery dismissal probability or confirmed technical fault."
+    },
+    {
+      "pattern": {
+        "bowler_type": "Right-arm Fast"
+      },
+      "dismissal_count": 14,
+      "all_recorded_dismissals": 36,
+      "share_of_recorded_dismissals": 0.3889,
+      "distinct_matches": 14,
+      "distinct_related_match_groups": 2,
+      "poor_performance_share_within_pattern": 0.8571,
+      "evidence_record_ids": [
+        "row_206",
+        "row_212",
+        "row_237",
+        "row_314",
+        "row_381",
+        "row_418",
+        "row_567",
+        "row_621",
+        "row_638",
+        "row_763",
+        "row_769",
+        "row_850",
+        "row_39",
+        "row_51"
+      ],
+      "interpretation": "Recurring recorded dismissal pattern to review; not a per-delivery dismissal probability or confirmed technical fault."
+    },
+    {
+      "pattern": {
+        "bowling_line": "Middle"
+      },
+      "dismissal_count": 12,
+      "all_recorded_dismissals": 36,
+      "share_of_recorded_dismissals": 0.3333,
+      "distinct_matches": 12,
+      "distinct_related_match_groups": 2,
+      "poor_performance_share_within_pattern": 0.5833,
+      "evidence_record_ids": [
+        "row_200",
+        "row_206",
+        "row_212",
+        "row_542",
+        "row_567",
+        "row_660",
+        "row_763",
+        "row_769",
+        "row_850",
+        "row_977",
+        "row_45",
+        "row_51"
+      ],
+      "interpretation": "Recurring recorded dismissal pattern to review; not a per-delivery dismissal probability or confirmed technical fault."
+    },
+    {
+      "pattern": {
+        "bowling_length": "Short"
+      },
+      "dismissal_count": 9,
+      "all_recorded_dismissals": 36,
+      "share_of_recorded_dismissals": 0.25,
+      "distinct_matches": 9,
+      "distinct_related_match_groups": 2,
+      "poor_performance_share_within_pattern": 0.7778,
+      "evidence_record_ids": [
+        "row_237",
+        "row_314",
+        "row_381",
+        "row_418",
+        "row_588",
+        "row_621",
+        "row_638",
+        "row_68",
+        "row_39"
+      ],
+      "interpretation": "Recurring recorded dismissal pattern to review; not a per-delivery dismissal probability or confirmed technical fault."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "short_ball",
+      "title": "Review short-ball decisions",
+      "tip": "Review when you choose to pull, hook, evade or defend against short bowling. The recorded dismissals do not establish a particular mechanical fault.",
+      "practice_drill": "In a supervised net session, mix shorter and fuller feeds and practise deciding whether to attack or leave each delivery.",
+      "evidence": {
+        "pattern": {
+          "bowling_length": "Short",
+          "shot_type": "Pull"
+        },
+        "dismissal_count": 9,
+        "all_recorded_dismissals": 36,
+        "share_of_recorded_dismissals": 0.25,
+        "distinct_matches": 9,
+        "distinct_related_match_groups": 2,
+        "poor_performance_share_within_pattern": 0.7778,
+        "evidence_record_ids": [
+          "row_237",
+          "row_314",
+          "row_381",
+          "row_418",
+          "row_588",
+          "row_621",
+          "row_638",
+          "row_68",
+          "row_39"
+        ],
+        "interpretation": "Recurring recorded dismissal pattern to review; not a per-delivery dismissal probability or confirmed technical fault."
+      },
+      "method": "Evidence-linked rule catalogue; not learned coaching text"
+    }
+  ],
+  "evidence_status": "Supported recurring patterns found",
+  "limitations": [
+    "Retrospective assessment of completed innings; no next-match forecasting.",
+    "Performance_Label is a researcher-defined rubric, not independent coach ground truth.",
+    "Classification scores measure agreement with that rubric, not coaching effectiveness.",
+    "The workbook records supplied and generated innings. All rows are processed together; scores are an internal mixed-data benchmark, not verified-real-world accuracy.",
+    "Dismissal-only context lacks successful deliveries faced; patterns are review candidates, not per-ball dismissal risks or proven technical faults.",
+    "Practice tips are evidence-linked suggestions from a fixed rule catalogue, not learned or coach-validated prescriptions."
+  ]
+}

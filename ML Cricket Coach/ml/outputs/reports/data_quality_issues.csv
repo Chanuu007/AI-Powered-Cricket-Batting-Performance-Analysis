@@ -1,0 +1,131 @@
+record_id,field,issue,original_value,processed_value
+row_139,strike_rate,Recalculated in processed data only,182.82,181.8181818181818
+row_10,strike_rate,Zero balls faced: encoded SR=0 for the existing rubric,0.0,0
+row_376,strike_rate,Zero balls faced: encoded SR=0 for the existing rubric,0.0,0
+row_499,strike_rate,Zero balls faced: encoded SR=0 for the existing rubric,0.0,0
+row_505,strike_rate,Zero balls faced: encoded SR=0 for the existing rubric,0.0,0
+row_601,strike_rate,Zero balls faced: encoded SR=0 for the existing rubric,0.0,0
+row_751,strike_rate,Zero balls faced: encoded SR=0 for the existing rubric,0.0,0
+row_863,strike_rate,Zero balls faced: encoded SR=0 for the existing rubric,0.0,0
+row_893,strike_rate,Zero balls faced: encoded SR=0 for the existing rubric,0.0,0
+row_936,strike_rate,Zero balls faced: encoded SR=0 for the existing rubric,0.0,0
+row_996,strike_rate,Zero balls faced: encoded SR=0 for the existing rubric,0.0,0
+row_18,match_date,Recorded future date; verify possible day/month conversion,2026-11-10 00:00:00,
+row_19,match_date,Recorded future date; verify possible day/month conversion,2026-11-10 00:00:00,
+row_20,match_date,Recorded future date; verify possible day/month conversion,2026-11-10 00:00:00,
+row_73,match_date,Recorded future date; verify possible day/month conversion,2026-12-06 00:00:00,
+row_74,match_date,Recorded future date; verify possible day/month conversion,2026-12-06 00:00:00,
+row_75,match_date,Recorded future date; verify possible day/month conversion,2026-12-06 00:00:00,
+row_76,match_date,Recorded future date; verify possible day/month conversion,2026-12-06 00:00:00,
+row_77,match_date,Recorded future date; verify possible day/month conversion,2026-12-06 00:00:00,
+row_10,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_13,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_21,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_22,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_35,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_47,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_53,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_72,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_76,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_80,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_110,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_117,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_127,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_141,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_142,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_165,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_177,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_202,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_208,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_214,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_220,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_247,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_248,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_251,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_257,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_264,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_272,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_279,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_335,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_336,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_344,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_358,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_364,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_372,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_373,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_376,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_379,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_406,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_410,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_415,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_416,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_431,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_435,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_440,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_446,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_465,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_475,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_488,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_489,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_495,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_496,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_499,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_502,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_505,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_508,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_511,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_535,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_544,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_549,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_569,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_592,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_593,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_594,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_601,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_604,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_629,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_633,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_650,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_655,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_662,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_667,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_692,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_693,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_701,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_722,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_723,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_726,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_741,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_745,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_751,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_754,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_757,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_765,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_771,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_779,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_780,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_783,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_803,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_815,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_816,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_820,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_832,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_846,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_852,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_863,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_866,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_875,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_893,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_896,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_899,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_907,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_936,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_939,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_943,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_960,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_974,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_975,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_979,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_990,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_996,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA
+row_999,shot_type,No applicable dismissal delivery; normalized in processed copy,Other,NA

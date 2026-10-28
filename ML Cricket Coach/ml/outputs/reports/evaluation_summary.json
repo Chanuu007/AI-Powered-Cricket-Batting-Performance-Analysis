@@ -1,0 +1,51 @@
+{
+  "selected_model": "random_forest",
+  "selected_before_test": true,
+  "test_rows": 236,
+  "metrics": [
+    {
+      "model": "decision_tree",
+      "accuracy": 0.9745762711864406,
+      "macro_precision": 0.970959595959596,
+      "macro_recall": 0.976507713884993,
+      "macro_f1": 0.9732638888888889
+    },
+    {
+      "model": "random_forest",
+      "accuracy": 0.9533898305084746,
+      "macro_precision": 0.9497716894977168,
+      "macro_recall": 0.9601449275362319,
+      "macro_f1": 0.9516449011632057
+    },
+    {
+      "model": "logistic_regression",
+      "accuracy": 0.923728813559322,
+      "macro_precision": 0.9229644624381467,
+      "macro_recall": 0.9330294530154277,
+      "macro_f1": 0.9214285714285714
+    },
+    {
+      "model": "majority_baseline",
+      "accuracy": 0.3474576271186441,
+      "macro_precision": 0.11581920903954802,
+      "macro_recall": 0.3333333333333333,
+      "macro_f1": 0.1719077568134172
+    },
+    {
+      "model": "exact_rubric_baseline",
+      "accuracy": 1.0,
+      "macro_precision": 1.0,
+      "macro_recall": 1.0,
+      "macro_f1": 1.0
+    }
+  ],
+  "interpretation": "Scores measure reproduction of rule-based labels in this combined dataset. The exact rubric is the relevant non-ML baseline.",
+  "limitations": [
+    "Retrospective assessment of completed innings; no next-match forecasting.",
+    "Performance_Label is a researcher-defined rubric, not independent coach ground truth.",
+    "Classification scores measure agreement with that rubric, not coaching effectiveness.",
+    "The workbook records supplied and generated innings. All rows are processed together; scores are an internal mixed-data benchmark, not verified-real-world accuracy.",
+    "Dismissal-only context lacks successful deliveries faced; patterns are review candidates, not per-ball dismissal risks or proven technical faults.",
+    "Practice tips are evidence-linked suggestions from a fixed rule catalogue, not learned or coach-validated prescriptions."
+  ]
+}

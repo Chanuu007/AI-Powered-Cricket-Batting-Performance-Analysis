@@ -1,0 +1,76 @@
+{
+  "trained_utc": "2026-10-28T07:04:58.714795+00:00",
+  "python": "3.12.0",
+  "dependency_versions": {
+    "pandas": "2.2.3",
+    "numpy": "2.3.5",
+    "scikit-learn": "1.8.0",
+    "scipy": "1.17.0",
+    "joblib": "1.5.3",
+    "openpyxl": "3.1.5",
+    "matplotlib": "3.10.8"
+  },
+  "dataset_sha256": "4f43b0df189cf8e67c5dc8b3b887d04f4478ca616f90f5c1dad4b2fbcdbf155f",
+  "prepared_data_sha256": "115f1b8f5f3c2a15dae9c8da624402bd33b57f0a9d768aeea1e513e3005e68a6",
+  "split_assignments_sha256": "bb2c5d95fb56e32befc56cdd2ac06e4b2a589cdd652887d707ab13c782fff2cc",
+  "features": [
+    "runs",
+    "balls_faced",
+    "strike_rate",
+    "match_format"
+  ],
+  "target": "performance_label",
+  "labels": [
+    "Poor",
+    "Average",
+    "Good"
+  ],
+  "task": "Post-match classification of the existing rule-based innings performance label",
+  "selected_model": "random_forest",
+  "selection_criterion": "Highest training-only 5-fold grouped CV macro F1; alphabetical model name breaks exact ties.",
+  "test_used_for_selection": false,
+  "fit_scope": "Training partition only; no silent refit on test records.",
+  "train_rows": 764,
+  "test_rows": 236,
+  "train_groups": 20,
+  "test_groups": 5,
+  "train_class_counts": {
+    "Poor": 357,
+    "Average": 262,
+    "Good": 145
+  },
+  "test_class_counts": {
+    "Good": 92,
+    "Poor": 82,
+    "Average": 62
+  },
+  "split_method": "GroupShuffleSplit, 20% of match-family groups held out, seed 42; not a temporal or new-player generalization experiment.",
+  "cv_folds": 5,
+  "best_parameters": {
+    "decision_tree": {
+      "classifier__max_depth": 6,
+      "classifier__min_samples_leaf": 1
+    },
+    "random_forest": {
+      "classifier__max_depth": null,
+      "classifier__min_samples_leaf": 3
+    },
+    "logistic_regression": {
+      "classifier__C": 10.0
+    }
+  },
+  "selected_model_sha256": "8c30e9e1ce5e1663b8873d92cd0cd199ab14f479dbd432f017f3bed45cac5f0a",
+  "all_model_sha256": {
+    "decision_tree": "59d05a062e92e866837c9f4c5e19da3ab69d2a7d2d3e8b172608f854efcda443",
+    "random_forest": "8c30e9e1ce5e1663b8873d92cd0cd199ab14f479dbd432f017f3bed45cac5f0a",
+    "logistic_regression": "917e3992ac9a255e60a96decdbe89ec55c29a8704cff038de68ebc5d21491973"
+  },
+  "limitations": [
+    "Retrospective assessment of completed innings; no next-match forecasting.",
+    "Performance_Label is a researcher-defined rubric, not independent coach ground truth.",
+    "Classification scores measure agreement with that rubric, not coaching effectiveness.",
+    "The workbook records supplied and generated innings. All rows are processed together; scores are an internal mixed-data benchmark, not verified-real-world accuracy.",
+    "Dismissal-only context lacks successful deliveries faced; patterns are review candidates, not per-ball dismissal risks or proven technical faults.",
+    "Practice tips are evidence-linked suggestions from a fixed rule catalogue, not learned or coach-validated prescriptions."
+  ]
+}
